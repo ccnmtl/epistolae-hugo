@@ -1,31 +1,17 @@
 <!doctype html>
 <html lang="en">
 {{ partial "header.html" . }}
-<body itemscope itemtype="http://schema.org/BlogPosting">
-{{ partial "banner.html" . }}
-    <main class="container" id="maincontent">
-        <article class="row entry-body">
-            <header class="col-lg-10 offset-lg-1 entry-header">
-                <h1 class="entry-title" itemprop="headline">
-                    {{ .Title }}
-                </h1>
-            </header>
-            <div class="col-lg-10 offset-lg-1 entry-content-col">
-            <div class="entry-content">
-            {{ .Content }}
-            </div>
-            </div>
-        </article>
+<body>
+    {{ partial "banner.html" . }}
+    <main class="container" id="maincontent" aria-labelledby="pageContentTitle">
+        <h1 class="list-view-title mb-4" id="pageContentTitle">
+            {{ .Title }}
+        </h1>
+        <div>
+        {{ .Content }}
+        </div>
     </main>
 {{ partial "footer.html" . }}
 {{ partial "javascript.html" . }}
-
-{{ if .Params.js_file1 }}
-<script src="{{ .Params.js_file1 }}"></script>
-{{ end }}
-{{ if .Params.js_file2 }}
-<script src="{{ .Params.js_file2 }}"></script>
-{{ end }}
-
 </body>
 </html>

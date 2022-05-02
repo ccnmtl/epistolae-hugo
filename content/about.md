@@ -1,7 +1,6 @@
 ---
 date: "2022-05-01"
 title: "About Epistolae"
-type: "info"
 lede: "Epistolae is a collection of letters to and from women in the Middle Ages, from the 4th to the 13th century. The letters, written in Latin, are linked to the names of the women involved, with English translations and, where available, biographical sketches of the women and some description of the subject matter or the historic context of the letter."
 ---
 
@@ -30,6 +29,8 @@ Latin texts may be taken from older editions because of copyrights, but most of 
 * Robert Scott, Columbia University
 * Karen Green, Columbia University
 
+---------
+
 ## Credits 2014
 **Faculty Partner**<br />
 Joan M. Ferrante, Professor Emeritus of English and Comparative Literature
@@ -45,6 +46,8 @@ Ashley Kingon
 
 **Programming**
 Jed Davis
+
+---------
 
 ## Credits (earlier releases)
 **Executive Producers**<br />
@@ -62,6 +65,8 @@ Gordon Campbell
 **Interface Development**<br />
 Zarina Mustapha
 
+---------
+
 ## Accessibility
 Columbia University's Center for Teaching and Learning are committed to make Project OHCOE inclusive and accessible for all.
 
@@ -71,7 +76,6 @@ The Epistolae site is produced in accordance with the [Web Content Accessibility
 ### Limitations
 The Epistolae site has been audited internal and evaluated with the assessment tools listed below. Some parts of the site may not fully conform to the WCAG 2.0 standards:
 
-
 ### Assessment Approach
 We assessed and tested AHE using the following tools. All pages show minor to no violations of the accessibility standards.
 
@@ -79,6 +83,8 @@ We assessed and tested AHE using the following tools. All pages show minor to no
   * We run this tool on every build of the site to ensure that we maintain conformance to the standards.
 * [VoiceOver](https://www.apple.com/accessibility/mac/vision/), the screen reader by Apple
 * [Lighthouse](https://developers.google.com/web/tools/lighthouse/), an open-source automated auditor by Google
+
+---------
 
 ## Contact and Feedback
 For information about Epistolae, or to offer feedback, please contact us at <a href="mailto:">epistolae@columbia.edu</a>.

@@ -4,13 +4,7 @@
 <body itemscope itemtype="http://schema.org/BlogPosting" class="default-list-view">
 {{ partial "banner.html" . }}
 <main class="container" id="maincontent" aria-labelledby="pageContentTitle">
-    <b>DEFAULT LIST</b>
-
-    {{ if and (eq .Type "articles") (eq .Kind "section")}}
-    <h1 class="list-view-title" id="pageContentTitle">CompilED Articles</h1>
-    <p class="intro">These are all of the articles written by our <a href="/authors/">authors and contributors.</a>
-    <p class="author-postnum mb-4 text-left"><i class="fas fa-lg fa-cat" aria-hidden="true"></i> Total: {{ len .Data.Pages }} articles</p>
-    {{ end }}
+    <h1 class="list-view-title" id="pageContentTitle">Women</h1>
 
     {{ $paginator := .Paginate .Data.Pages }}
 

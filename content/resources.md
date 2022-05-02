@@ -1,7 +1,6 @@
 ---
 date: "2022-05-01"
 title: "Resources"
-type: "info"
 lede: "Locations and links are keyed to Columbia University's library. AncMed refers to the Ancient & Medieval Studies Reading Room, 603 Butler Library, and ButlRef refers to Butler Reference, rooms 301 & 310 (adjoining). For more information, please contact Jeffrey Wayno, Librarian for Ancient & Medieval History and Religion, at 212-851-5608 or jeffrey.wayno@columbia.edu."
 ---
 
@@ -19,6 +18,8 @@ Resource categories:<br />
 * [The Latin Bible](/resources/#latin_bible)
 * [Genealogy](/resources/#genealogy)
 * [Related Projects](/resources/#related-projects)
+
+---------
 
 ## Collections of texts {#coll_text}
 *Patrologiae cursus completus, Series latina (aka Patrologia Latina or PL):* <br>AncMed BR60 .M54 1857g
@@ -41,6 +42,7 @@ The CCSL and CCCM are combined in the database CLCLT, which also includes some o
 
 Sixty-eight volumes of saints’ lives, arranged chronologically by saints’ day. Many of these vitae are written by well-known authors. The best index for locating a saint’s biographer and the day on which the vita may be found is the *Bibliotheca hagiographica Latina* (Butler Reference, R274 AB4721)
 
+---------
 
 ## Identifying authors and their works {#work_id}
 *Repertorium fontium historiae medii aevi* <br> AncMed Z6203 .R43 <br>ButlRef R016.94 R299
@@ -50,6 +52,8 @@ The essential source for identifying medieval authors’ works. The Repertorium 
 *Clavis patrum latinorum* <br>AncMed Z7791 .D45 1995g
 
 A key to locating texts by the Latin Church Fathers, from Tertullian to Bede.
+
+---------
 
 ## Reference assistance {#ref_assist}
 *Identifier sources et citations (L’atelier du médiéviste, 1)* <br>AncMed CB351 .I32 1994
@@ -65,6 +69,8 @@ A 13-volume encyclopedia, providing useful overviews and background and key bibl
 *Lexikon des Mittelalters online (aka LexMA)* <br><a href="http://www.columbia.edu/cgi-bin/cul/resolve?clio4352422" target="_blank">http://www.columbia.edu/cgi-bin/cul/resolve?clio4352422</a>
 
 A comprehensive German-language encyclopedic dictionary that deals with all branches of Medieval Studies and covers the period from 300 to 1500 for the whole of Europe and parts of the Middle East and North Africa. The online version is indexed in English, and a link will search for bibliography in the IMB Online (see below, in “Locating bibliography”).
+
+---------
 
 ## Latin dictionaries and other aids {#dictionary}
 *A Latin Dictionary (aka Lewis &amp; Short)* <br> AncMed PA2365.E5 A7 1984 <br>ButlRef Desk R Latin An112
@@ -93,6 +99,8 @@ An exhaustive guide to medieval Latin resources, including sections on Latin phi
 
 A history of Latin, with typologies of the language and an annotated anthology of exemplars.
 
+---------
+
 ## Locating bibliography {#biblio}
 In addition to the resources that include bibliography, such as the encyclopedic works mentioned above, here are some bibliographical databases you may find useful.
 
@@ -113,6 +121,8 @@ A bibliographical tool for articles on all subjects during the years 400-1700. T
 The APh indexes periodical articles as well as articles in collections and conference papers in classics and classical studies. It covers Greek and Latin linguistics and literature and Greek and Roman archaeology, history, mythology, religion, epigraphy, numismatics and palaeography: all aspects of the ancient Mediterranean world including the ancient tradition in the modern period. As of the most recent 2006 update, it included materials indexed in volumes from 1949 through 2004, which is the most recent print volume as well. For materials from 1924-1948, please consult the print version in ButlRef R016.88 M341.
 
 
+---------
+
 ## The Latin Bible {#latin_bible}
 *Biblia sacra : iuxta Vulgatam versionem* <br> AncMed BS75 1975 <br>ButlRef R220.47 F75
 
@@ -126,9 +136,12 @@ A multi-volume edition of the pre-Vulgate version of the Latin bible.
 
 No electronic versions are currently available (the Vetus Latina database does not contain the actual text; it is an index to all Greek and Latin patristic citations or allusions to the pre-Vulgate editions of the Bible, collected by the Vetus Latina Institut in Beuron, Germany).
 
+---------
 
 ## Genealogy {#genealogy}
 <a href="https://epistolae.ccnmtl.columbia.edu/sites/default/files/genealogy.pdf">Genealogy of women in Epistolæ</a> (PDF)<br>Note: To view this chart, download it and open it in a PDF reader like Adobe Acrobat (Windows and Macs) or Preview (Macs only). Adjust the zoom setting to 100%, and scroll to view relationships.
+
+---------
 
 ## Related Projects {#related-projects}
 <a href="https://sourcebook.stanford.edu/">The Global Medieval Sourcebook</a> is an open-access online resource which provides students and scholars access to medieval writings from a wide array of languages, traditions, places and periods in new English translations. The aim of the GMS is to provide a platform for short translations of non-canonical works that might otherwise remain unpublished.
