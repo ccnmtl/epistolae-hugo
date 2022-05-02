@@ -49,6 +49,9 @@ p {
 
 .skippy:focus, .skippy:active {
     color: #06c !important;
+    border: 0;
+    outline: none;
+    background-color: transparent;
 }
 
 .skippy-text {
@@ -64,7 +67,7 @@ p {
     background-image: -webkit-linear-gradient(top,#f0d390 0%,#ead5a7 100%);
 }
 
-.site-header a:focus, .site-header a:active {
+.site-header .nav-item a:focus, .site-header .nav-item a:active {
     border: 0;
     outline: 0.0625rem dashed #666;
     color: #1a1a1a !important;

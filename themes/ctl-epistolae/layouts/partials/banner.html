@@ -1,8 +1,12 @@
 <script src="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.js"></script>    
 <header class="site-header container-fluid">
-    <a id="skippy" class="sr-only sr-only-focusable" href="#maincontent">
-        <div class="container"><span class="skiplink-text">Skip to main content</span></div>
+    {{ if .IsHome }}
+    <h1 class="sr-only"><span itemprop="name">Epistolae</span>: Home Page</h1>
+    {{ end }}
+    <a href="#maincontent" class="skippy focus-none sr-only sr-only-focusable d-print-none">
+        <span class="skippy-text">Skip to main content</span>
     </a>
+    <div class="d-none d-print-block header-print-url">epistolae.ctl.columbia.edu</div>
     <div class="container">
         <div class="row" id="front-page-logo">
             <div class="col-md-6">
