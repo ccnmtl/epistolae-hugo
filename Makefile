@@ -12,6 +12,7 @@ include *.mk
 
 clean:
 	rm -rf $(PUBLIC)/*
+	rm -rf node_modules/*
 
 $(PUBLIC)/js/all.json: $(PUBLIC)/json/all/index.html
 	mkdir $(PUBLIC)/js/ || true

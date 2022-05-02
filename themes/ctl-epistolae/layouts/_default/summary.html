@@ -1,19 +1,10 @@
 <article itemscope itemtype="http://http://schema.org/BlogPosting">
     <h2><a href="{{ .URL }}" itemprop="url"><span itemprop="headline">{{ .Title }}</span></a></h2>
-    <p class="post-byline" itemprop="author" itemscope itemtype="http://schema.org/Person">By 
-    {{ range $i, $e := .Params.authors }}{{if $i}}, {{end}}<a href='{{ "/authors/" | relLangURL }}{{ . | urlize }}' itemprop="url"><span itemprop="name">{{ (index $.Site.Data.authors $e).name }}</span></a>{{ end }}
-    |
-    <time itemprop="datePublished" datetime='{{ .Date.Format "2006-01-02"  }}' class="post-datepublished">{{ .Date.Format "Jan 2, 2006" }}</time>
-    </p>
-    
-    {{ if .Params.tags }}<p class="post-tags"><strong>Tags:</strong>
-    {{ range $i, $e := .Params.tags }}{{if $i}}, {{end}}
-    <a href="{{ "/tags/" | relLangURL }}{{ . | urlize | lower }}" rel="tag"><span itemprop="keywords">{{$e}}</span></a>{{ end }}
-    </p>{{ end }}
-    
+
     <p class="post-lede" itemprop="description">{{ if .Params.lede }}
-            {{ .Params.lede }}
+        {{ .Params.lede }}
         {{ else }}
             {{ .Summary  }}
-        {{ end }}</p>
+        {{ end }}
+    </p>
 </article>

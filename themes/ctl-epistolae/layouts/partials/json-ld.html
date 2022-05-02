@@ -15,12 +15,6 @@
 {{- end -}}",
     "publisher": "Center for Teaching and Learning at Columbia University",
     "url": "{{ .Permalink }}",
-    "author": {
-        "@type": "Person",
-        "name": "{{- range $i, $e := .Params.authors -}}
-    {{- (index $.Site.Data.authors $e).name -}}
-{{- end -}}"
-      },
     "about": "{{- if .Params.lede -}}
             {{- .Params.lede -}}
         {{- else -}}

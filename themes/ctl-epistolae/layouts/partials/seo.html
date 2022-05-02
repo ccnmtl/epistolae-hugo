@@ -23,13 +23,8 @@
         {{- end -}}
     {{- end -}}' />
 <meta name="author" content='
-    {{- if (and .IsPage (eq .Type "post")) -}}
-        {{- range $i, $e := .Params.authors -}}
-            {{ if $i }}, {{ end -}}{{- (index $.Site.Data.authors $e).name -}}
-        {{- end -}}
-    {{- else -}}
-        Center for Teaching and Learning at Columbia University
-    {{- end -}}' />
+    Center for Teaching and Learning at Columbia University' />
+
 <meta name="copyright" content="{{- .Site.Copyright -}}">
 
 {{ "<!-- Dublin Core Metadata -->" | safeHTML }}

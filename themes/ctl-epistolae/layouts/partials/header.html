@@ -14,10 +14,6 @@
     <link rel="stylesheet" href="{{ .Site.BaseURL }}css/print.css" />
     <meta name="theme-color" content="#d4e3fc">
 
-    {{ "<!-- FontAwesome CSS -->" | safeHTML }}
-    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/fontawesome-5.13.1/css/all.min.css">
-    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Title }} — {{ .Site.Params.shortTitle }}{{ end }}</title>
-
     {{ "<!-- CSS for cookie policy -->" | safeHTML }}
     <link rel="stylesheet" href="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.css" />
 
