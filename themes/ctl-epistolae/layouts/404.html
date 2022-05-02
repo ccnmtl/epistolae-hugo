@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en">
+{{ partial "header.html" . }}
+<body>
+{{ partial "banner.html" . }}
+    <main class="container" id="maincontent">
+<div class="row">
+    <div class="col-sm-6 error-not-found">
+    <h1 class="text-danger text-center">Error 404</h1>
+    <h2 class="text-danger text-center">Page not found</h2>
+    <p class="text-center" style="font-size: XX-large; padding-top: 20px;"><a href="{{ .Site.BaseURL }}" class="btn btn-danger">Go Home</a></p>
+    </div>
+</div>
+    </main>
+{{ partial "footer.html" . }}
+{{ partial "javascript.html" . }}
+</body>
+</html>

@@ -1,0 +1,99 @@
+@page {
+    margin: 0.5in;
+}
+
+@media print {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    figure, img {
+        page-break-inside: avoid;
+    }
+    .site-header {
+        background-color: transparent;
+        margin: 0 0 2rem 0;
+        padding: 0;
+        border-bottom: 1px solid #999;
+        box-shadow: none;
+    }
+    .print-logo {
+        width: 10rem;
+        display: block;
+        margin: 0 auto;
+        padding: 0;
+    }
+    .header-print-url {
+        padding: 0.5rem 0;
+        text-align: center;
+        font: 400 1rem/1.2 'Raleway', sans-serif;
+        color: #000;
+    }
+    .entry-body {
+        display: block !important;
+    }
+    .entry-header, .entry-content-col {
+        margin: 0 0 2rem 0 !important;
+        max-width: 100%;
+    }
+    .entry-header a {
+        text-decoration: none;
+        color: #000;
+    }
+    .entry-title {
+        font-size: 2.25rem;
+        margin: 2.625rem 0 1rem 0;
+    }
+    .entry-content {
+        margin: 0 6rem;
+    }
+    .entry-content p, p.post-byline,
+    .entry-content li { font-size: 1.25rem !important; }
+    p.post-tags { font-size: 1.125rem !important; }
+    .entry-content a[href]:after {
+        content: " (" attr(href) ")";
+        font-style: italic;
+        color: #666 !important;
+    }
+    .entry-content figure {
+        margin: 3rem -5rem 3rem -5rem;
+    }
+    .entry-content figcaption, .entry-content figcaption p {
+        font-size: 1.125rem !important;
+        color: #666;
+    }
+    .article-url-print {
+        padding: 0;
+        text-align: center;
+        font: 400 1rem/120% 'Raleway', sans-serif;
+        color: #000;
+    }
+    .entry-content pre {
+        margin: 1.2rem -5rem 1.2rem -5rem;
+        font-size: 1rem;
+    }
+    footer {
+        margin-top: 3rem;
+        padding-top: 0;
+        padding-bottom: 0;
+        border-top: 1px solid #999;
+        background-color: transparent;
+    }
+    .compiled-info {
+        margin-top: 2rem;
+        text-align: center;
+        padding: 0 0.875rem;
+    }
+    .compiled-info p {
+        font-size: 0.875rem;
+    }
+
+    .compiled-info p a {
+        font-weight: normal;
+        text-decoration: none;
+        color: #000;
+    }
+    #cu-privacy-notice {
+        display: none !important;
+    }
+}

@@ -1,0 +1,51 @@
+<script src="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.js"></script>    
+<header class="site-header container-fluid">
+    <a id="skippy" class="sr-only sr-only-focusable" href="#maincontent">
+        <div class="container"><span class="skiplink-text">Skip to main content</span></div>
+    </a>
+    <div class="container">
+        <div class="row" id="front-page-logo">
+            <div class="col-md-6">
+                <img class="banner-left-logo" src="{{ .Site.BaseURL }}img/banner-left-logo.png" srcset="{{ .Site.BaseURL }}img/banner-left-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
+                <span class="sr-only" itemprop="name">Epistolae</span>
+            </div>
+            <div class="col-md-6">
+                <img class="banner-right-logo" src="{{ .Site.BaseURL }}img/banner-right-logo.png" srcset="{{ .Site.BaseURL }}img/banner-right-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
+                <span class="sr-only" itemprop="name">Epistolae</span>
+            </div>
+        </div>
+
+        <ul class="nav nav-tabs">
+            <li class="nav-item">
+                <a class="nav-link {{ if eq .Title "Epistolae" }}active{{ end }}" itemprop="url" href="/">
+                    <span itemprop="name">Home</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link  {{ if eq .Title "Women" }}active{{ end }}" itemprop="url" href="/women/">
+                    <span itemprop="name">Women</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ if eq .Title "Letters" }}active{{ end }}" itemprop="url" href="/letters/">
+                    <span itemprop="name">Letters</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ if eq .Title "About Epistolae" }}active{{ end }}" itemprop="url" href="/about/">
+                    <span itemprop="name">About</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link {{ if eq .Title "Genealogy" }}active{{ end }}" itemprop="url" href="/genealogy/">
+                    <span itemprop="name">Genealogy</span>
+                </a>
+            </li>
+            <li class="nav-item">
+                <a class="nav-link  {{ if eq .Title "Resources" }}active{{ end }}" itemprop="url" href="/resources/">
+                    <span itemprop="name">Resources</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</header>

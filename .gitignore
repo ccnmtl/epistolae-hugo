@@ -1,0 +1,9 @@
+public
+.DS_Store
+._.DS_Store
+._*
+node_modules
+.project
+.pydevproject
+.settings/
+local.mk

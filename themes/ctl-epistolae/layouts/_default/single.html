@@ -1,0 +1,86 @@
+<!doctype html>
+<html lang="en">
+{{ partial "header.html" . }}
+<body itemscope itemtype="http://schema.org/BlogPosting">
+{{ partial "banner.html" . }}
+    <main class="container" id="maincontent">
+        <article class="row entry-body">
+            <header class="col-lg-10 offset-lg-1 entry-header">
+                {{ if .Params.poster }}
+                <figure aria-label="PosterImage" role="group">
+                <img src="{{ .Site.BaseURL }}img/assets/{{ .Params.poster }}" class="img-fluid" alt="Poster image for this article" />
+                {{ if .Params.poster_source }}
+                <figcaption class="poster-source">
+                <span class="img-attr">Source: 
+                    {{ if .Params.poster_sourceurl }}
+                        <a href="{{ .Params.poster_sourceurl }}" target="_blank" rel="noopener noreferrer">{{ .Params.poster_source }}</a>
+                    {{ else }}
+                        {{ .Params.poster_source }}
+                    {{ end }}
+                </span>
+                </figcaption>
+                {{ end }}
+                </figure>
+                {{ end }}
+                <h1 class="entry-title" itemprop="headline">
+                    {{ .Title }}
+                </h1>
+                <p class="post-byline" itemprop="author" itemscope itemtype="http://schema.org/Person">By 
+                {{ range $i, $e := .Params.authors }}{{if $i}}, {{end}}<a href='{{ "/authors/" | relLangURL }}{{ . | urlize }}' itemprop="url"><span itemprop="name">{{ (index $.Site.Data.authors $e).name }}</span></a>{{ end }}
+                |
+                <time itemprop="datePublished" datetime='{{ .Date.Format "2006-01-02"  }}' class="post-datepublished">{{ .Date.Format "Jan 2, 2006" }}</time>
+                </p>
+                {{ if .Params.tags }}<p class="post-tags"><strong>Tags:</strong>
+                {{ range $i, $e := .Params.tags }}{{if $i}}, {{end}}
+                <a href="{{ "/tags/" | relLangURL }}{{ . | urlize | lower }}" rel="tag"><span itemprop="keywords">{{$e}}</span></a>{{ end }}
+                </p>{{ end }}
+                <div class="d-flex socmedia-share d-print-none">
+                    <h2>Share<span class="sr-only"> this post</span>:</h2>
+                    <ul class="nav d-print-none">
+                        <li class="nav-item">
+                        <a rel="nofollow noopener noreferrer" class="nav-link" target="_blank" href="http://www.facebook.com/share.php?u={{ .Permalink }}&title={{ .Title }}"><i class="fab fa-facebook-f" aria-label="Share on Facebook"></i></a>
+                        </li>
+                        <li class="nav-item">
+                        <a rel="nofollow noopener noreferrer" class="nav-link" target="_blank" href="https://twitter.com/intent/tweet?text=CompilED:%20{{ .Title }}&url={{ .Permalink }}&via=ColumbiaCTL"><i class="fab fa-twitter" aria-label="Share on Twitter"></i></a>
+                        </li>
+                        <li class="nav-item">
+                        <a rel="nofollow noopener noreferrer" class="nav-link" target="_blank" href="https://www.linkedin.com/shareArticle?mini=true&url={{ .Permalink }}&title={{ .Title }}&summary={{ if .Params.lede }}{{ .Params.lede }}{{ else }}{{ .Summary  }}{{ end }}"><i class="fab fa-linkedin-in" aria-label="Share on LinkedIn"></i></a>
+                        </li>
+                        <li class="nav-item">
+                        <a rel="nofollow noopener noreferrer" class="nav-link" target="_blank" href="//www.reddit.com/submit?url={{ .Permalink }}"><i class="fab fa-reddit-alien" aria-label="Share on Reddit"></i></a>
+                        </li>
+                    </ul>
+                </div>
+            </header>
+            <div class="col-lg-10 offset-lg-1 entry-content-col">
+            <div class="entry-content">
+            {{ .Content }}
+            </div>
+            <div class="bookend">
+            <span class="sr-only">End of this article.</span>
+            <i class="fas fa-lg fa-ellipsis-h" aria-hidden="true"></i>
+            <i class="fas fa-2x fa-
+            {{- if .Params.bookendanimal -}}
+                {{- .Params.bookendanimal -}}
+            {{- else -}}
+                cat
+            {{- end -}}
+            " aria-hidden="true"></i>
+            <i class="fas fa-lg fa-ellipsis-h" aria-hidden="true"></i>
+            </div>
+            <p class="d-none d-print-block article-url-print">Printed from: {{ .Permalink }}</p>
+            </div>
+        </article>
+    </main>
+{{ partial "footer.html" . }}
+{{ partial "javascript.html" . }}
+
+{{ if .Params.js_file1 }}
+<script src="{{ .Params.js_file1 }}"></script>
+{{ end }}
+{{ if .Params.js_file2 }}
+<script src="{{ .Params.js_file2 }}"></script>
+{{ end }}
+
+</body>
+</html>

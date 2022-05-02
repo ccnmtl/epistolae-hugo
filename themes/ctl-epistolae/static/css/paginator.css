@@ -1,0 +1,55 @@
+.list-pager-nav {
+    margin-top: 3rem;
+    font-family: 'Raleway', sans-serif;
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.page-link {
+    color: #06c;
+}
+
+.list-pager-nav .page-item .page-link {
+    border: 0;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    padding: 0 0.75rem;
+    text-align: center;
+}
+.list-pager-nav .page-item.numpage .page-link {
+    border: 0;
+    width: 2.5rem;
+    height: 2.5rem;
+    line-height: 2.5rem;
+    padding: 0;
+    text-align: center;
+}
+
+.list-pager-nav .page-item {
+    padding: 0 0.125rem;
+}
+
+.list-pager-nav .page-item.active .page-link {
+    background-color: #ccc;
+    color: #000;
+}
+
+.list-pager-nav .page-item.numpage.active .page-link {
+    border-radius: 50%;
+}
+
+.pager-indicator {
+    display: block;
+    width: 15rem;
+    text-align: center;
+    color: #666;
+    margin: 0 auto 2rem auto;
+    
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+    .list-pager-nav {
+        margin-top: 6rem;
+    }
+}

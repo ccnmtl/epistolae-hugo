@@ -1,0 +1,52 @@
+<link rel="canonical" href="
+    {{- if .IsHome -}}
+        {{- .Site.BaseURL -}}
+    {{- else -}}
+        {{- .Permalink -}}
+    {{- end -}}" />
+
+{{ "<!-- Standard Meta Data -->" | safeHTML }}
+<meta name="description" content='
+    {{- if (and .IsPage (eq .Type "post")) -}}
+        {{- if .Params.lede -}}
+            {{- .Params.lede -}}
+        {{- else -}}
+            {{- .Summary -}}
+        {{- end -}}
+    {{- else -}}
+        {{- .Site.Params.description -}}
+    {{- end -}}' />
+<meta name="keywords" content='
+    {{- .Site.Params.keywords }}{{ if (and .IsPage (eq .Type "post")) }},
+        {{- range $i, $e := .Params.tags -}}
+            {{- if $i }}, {{ end -}}{{- $e -}}
+        {{- end -}}
+    {{- end -}}' />
+<meta name="author" content='
+    {{- if (and .IsPage (eq .Type "post")) -}}
+        {{- range $i, $e := .Params.authors -}}
+            {{ if $i }}, {{ end -}}{{- (index $.Site.Data.authors $e).name -}}
+        {{- end -}}
+    {{- else -}}
+        Center for Teaching and Learning at Columbia University
+    {{- end -}}' />
+<meta name="copyright" content="{{- .Site.Copyright -}}">
+
+{{ "<!-- Dublin Core Metadata -->" | safeHTML }}
+<meta name="DC.Title" content="
+    {{- if .IsHome -}}
+        {{- .Site.Title -}}
+    {{- else -}}
+        {{- .Title }} — {{ .Site.Params.shortTitle -}}
+    {{- end -}}" />
+<meta name="DC.Description" content='
+    {{- if (and .IsPage (eq .Type "post")) -}}
+        {{- if .Params.lede -}}
+            {{- .Params.lede -}}
+        {{- else -}}
+            {{- .Summary -}}
+        {{- end -}}
+    {{- else -}}
+        {{- .Site.Params.description -}}
+    {{- end -}}' />
+<meta name="DC.Rights" content="{{- .Site.Copyright -}}">

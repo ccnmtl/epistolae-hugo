@@ -1,0 +1,54 @@
+<!doctype html>
+<html lang="en">
+{{ partial "header.html" . }}
+<body>
+{{ partial "banner.html" . }}
+    <main class="container" id="maincontent" aria-label="List of latest and recent articles">
+        <div class="row">
+            <div class="col-md-8">
+                <h1 id="primary-title">Epistolae: Medieval Women's Letters</h1>
+
+                <p>Epistolae is a collection of medieval Latin letters to and from
+                    women. The letters collected here date from the 4th to the 13th
+                    centuries, and they are presented in their original Latin as well as
+                    in English translation. The letters are organized by the name and
+                    biography of the women writers or recipients. Biographical sketches
+                    of the women, descriptions of the subject matter of the letters, and
+                    the historical context of the correspondence are included where
+                    available.</p>
+
+                <p>Dr. Joan Ferrante, Professor Emerita of English and Comparative
+                    Literature of Columbia University, has, with her colleagues
+                    collected and translated these letters mainly from printed sources.
+                    She has worked with the Columbia Center for New Media Teaching and
+                    Learning to develop this unique open online collection for teaching
+                    and research purposes. New letters continue to be added to the
+                    collection.</p>
+
+                <p>
+                    For more information, please read <a href="/about/">About Epistolae</a>.
+                </p>
+
+                On this site you can:
+                <ul>
+                    <li>
+                        <a href="/women">browse and search biographies of authors as well as recipients</a>
+                    </li>
+                    <li>
+                        <a href="/letters">browse and search the letters</a>
+                    </li>
+                    <li>
+                        <a href="/resources">locate resources for research into these Medieval materials</a>
+                    </li>
+                </ul>
+                <br />
+            </div>
+            <div class="col-md-4">
+                <img class="cover-right" src="{{ .Site.BaseURL }}/img/cover-right.png" alt-text="" />
+            </div>
+        </div>
+    </main>
+{{ partial "footer.html" . }}
+{{ partial "javascript.html" . }}
+</body>
+</html>

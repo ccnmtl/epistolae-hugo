@@ -1,0 +1,23 @@
+{
+  "name": "Epistolae2",
+  "version": "3.0.0",
+  "description": "Medieval Women's Latin Letters",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ccnmtl/epistolae-hugo.git"
+  },
+  "author": "",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ccnmtl/epistolae-hugo/issues"
+  },
+  "devDependencies": {
+    "eslint": "~8.14.0",
+    "eslint-plugin-security": "~1.5.0"
+  },
+  "dependencies": {}
+}

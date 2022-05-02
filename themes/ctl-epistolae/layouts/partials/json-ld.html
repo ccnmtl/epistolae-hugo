@@ -1,0 +1,50 @@
+{{- if (and .IsPage (eq .Type "post")) -}}
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org", 
+    "@type": "BlogPosting",
+    "headline": "{{ .Title }}",
+    "image": "{{- if.Params.socmediaimg -}}
+    {{- .Site.BaseURL -}}img/assets/{{- .Params.socmediaimg -}}
+{{- else -}}
+    {{- if.Params.poster -}}
+        {{- .Site.BaseURL -}}img/assets/{{- .Params.poster -}}
+    {{- else -}}
+        {{- .Site.BaseURL -}}img/og-compiled-image.png
+    {{- end -}}
+{{- end -}}",
+    "publisher": "Center for Teaching and Learning at Columbia University",
+    "url": "{{ .Permalink }}",
+    "author": {
+        "@type": "Person",
+        "name": "{{- range $i, $e := .Params.authors -}}
+    {{- (index $.Site.Data.authors $e).name -}}
+{{- end -}}"
+      },
+    "about": "{{- if .Params.lede -}}
+            {{- .Params.lede -}}
+        {{- else -}}
+            {{- .Summary -}}
+        {{- end -}}",
+    "datePublished": "{{ .Date.Format "2006-01-02"  }}"
+    "keywords": "{{- .Site.Params.keywords }}{{ if (and .IsPage (eq .Type "post")) }},
+        {{- range $i, $e := .Params.tags -}}
+            {{- if $i }}, {{ end -}}{{- $e -}}
+        {{- end -}}
+    {{- end -}}"
+ }
+</script>
+{{- else -}}
+<script type="application/ld+json">
+{
+    "@context": "http://schema.org", 
+     "@type": "Blog",
+     "name": "{{ .Site.Title }}",
+     "image": "{{ "img/og-compiled-image.png" | absURL }}",
+     "publisher": "Center for Teaching and Learning at Columbia University",
+     "url": "{{ .Site.BaseURL }}",
+     "about": "{{ .Site.Params.description }}",
+     "keywords": "{{- .Site.Params.keywords }}"
+ }
+</script>
+{{- end -}}
