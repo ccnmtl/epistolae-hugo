@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-23"
 modified: "2021-07-13"
-url: "/content/genealogy-henry"
+url: "/content/genealogy-henry-i"
 ---
 ## Table 2: Descendants of Mathilde of Ringelheim and Henry I of Germany (the first six generations)
 
