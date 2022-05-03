@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-24"
 modified: "2021-07-13"
-url: "content/genealogy-baldwin"
+url: "/content/genealogy-baldwin"
 ---
 ## Table 7: Kingdom of Jerusalem -- Descendants of Morphia of Melitene and Baldwin II
 
@@ -14,7 +14,7 @@ Baldwin II of Rethel king of Jerusalem
 
 +Morphia of Meliltene d. 1126-1127  
 
-|---[Melisende queen of Jerusalem b. 1105, d. 1161](/woman/30.html)  
+|---[Melisende queen of Jerusalem b. 1105, d. 1161](https://epistolae.ctl.columbia.edu/woman/30.html)  
 
 |   +Fulk V count of Anjou and king of Jerusalem d. 1143  
 
@@ -24,7 +24,7 @@ Baldwin II of Rethel king of Jerusalem
 
 |       +Agnes of Courtenay queen of Jerusalem b. Cir 1136, d. Cir 1184  
 
-|       |---[Sibylla queen of Jerusalem b. Cir 1160, d. 119](/woman/25223.html)  
+|       |---[Sibylla queen of Jerusalem b. Cir 1160, d. 119](https://epistolae.ctl.columbia.edu/woman/25223.html)  
 
 |       |   +William of Montferrat count of Jaffa and Ascalon d. 1177  
 
@@ -36,13 +36,13 @@ Baldwin II of Rethel king of Jerusalem
 
 |       +Maria Comnena queen of Jerusalem   
 
-|       |---[Isabella I queen of Jerusalem b. 1172, d. 1205](/woman/25246.html)  
+|       |---[Isabella I queen of Jerusalem b. 1172, d. 1205](https://epistolae.ctl.columbia.edu/woman/25246.html)  
 
 |           +Humphrey IV of Toron   
 
 |           +Conrad of Montferrat king of Jerusalem d. 1192  
 
-|           |---[Maria of Montferrat queen of Jerusalem b. 1192, d. 1212](/woman/25277.html)  
+|           |---[Maria of Montferrat queen of Jerusalem b. 1192, d. 1212](https://epistolae.ctl.columbia.edu/woman/25277.html)  
 
 |               +John of Brienne king of Jerusalem b. Cir 1170, d. 1237  
 
@@ -58,7 +58,7 @@ Baldwin II of Rethel king of Jerusalem
 
 |           |   +Hugh I king of Cyprus b. 1194-1195, d. 1218  
 
-|           |--- [Philippa of Champagne princess of Jerusalem b. Cir 1197, d. 1250](/woman/167.html)  
+|           |--- [Philippa of Champagne princess of Jerusalem b. Cir 1197, d. 1250](https://epistolae.ctl.columbia.edu/woman/167.html)  
 
 |               +Erard of Brienne lord of Ramerupt b. Cir 1170, d. 1246  
 
@@ -66,7 +66,7 @@ Baldwin II of Rethel king of Jerusalem
 
 |---Alice princess of Antioch   
 
-|---[Hodierna of Jerusalem countess of Tripoli d. Cir 1164](/woman/25260.html)  
+|---[Hodierna of Jerusalem countess of Tripoli d. Cir 1164](https://epistolae.ctl.columbia.edu/woman/25260.html)  
 
 |   +Raymond II count of Tripoli d. 1152  
 
@@ -74,7 +74,7 @@ Baldwin II of Rethel king of Jerusalem
 
 |   |---Melisende of Tripoli   
 
-|---[Joveta of Jerusalem abbess of St. Lazarus at Bethany](/woman/25242.html)  
+|---[Joveta of Jerusalem abbess of St. Lazarus at Bethany](https://epistolae.ctl.columbia.edu/woman/25242.html)  
 
 
 

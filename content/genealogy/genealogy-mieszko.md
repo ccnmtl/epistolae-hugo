@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-07-01"
 modified: "2021-07-13"
-url: "content/genealogy-mieszko"
+url: "/content/genealogy-mieszko"
 ---
 ## Table 2.2: Descendants of Henry I of Germany: Line of Richeza of Lotharingia and Mieszko II of Poland
 
@@ -21,7 +21,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |   |---Ladislaus I king of Hungary b. 1040, d. 1095  
 
-|   |   +[Adelaide of Swabia queen of Hungary](/woman/152.html)  
+|   |   +[Adelaide of Swabia queen of Hungary](https://epistolae.ctl.columbia.edu/woman/152.html)  
 
 |   |   |---Prisa/Irene of Hungary   
 
@@ -43,7 +43,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |           |---Bela II king of Hungary b. Cir 1109, d. 1141  
 
-|               +[Helena of Serbia queen of Hungary b. After 1109, d. After 1146](/woman/26045.html)  
+|               +[Helena of Serbia queen of Hungary b. After 1109, d. After 1146](https://epistolae.ctl.columbia.edu/woman/26045.html)  
 
 |               |---Elizabeth of Hungary b. Cir 1128, d. 1154  
 
@@ -69,7 +69,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |---Geza II king of Hungary b. 1130, d. 1162  
 
-|               |   +[Euphrosyne Mstislavna of Kiev queen of Hungary b. Cir 1130, d. Cir 1193](/woman/26170.html)  
+|               |   +[Euphrosyne Mstislavna of Kiev queen of Hungary b. Cir 1130, d. Cir 1193](https://epistolae.ctl.columbia.edu/woman/26170.html)  
 
 |               |   |---Elisabeth of Hungary princess of Bohemia b. 1145, d. 1189  
 
@@ -105,7 +105,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |   |   |---Bela IV king of Hungary b. 1206, d. 1270  
 
-|               |   |   |   |   +[Maria Laskarina b. Cir 1206, d. 1270](/woman/26208.html)  
+|               |   |   |   |   +[Maria Laskarina b. Cir 1206, d. 1270](https://epistolae.ctl.columbia.edu/woman/26208.html)  
 
 |               |   |   |   |   |---Anna of Hungary duchess of Macso b. 1226  
 
@@ -129,7 +129,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |   |   |   |---Stephen V king of Hungary b. Cir 1239, d. 1272  
 
-|               |   |   |   |       +[Elisabeth of the Cumans queen of Hungary b. 1244, d. 1290](/woman/26203.html)  
+|               |   |   |   |       +[Elisabeth of the Cumans queen of Hungary b. 1244, d. 1290](https://epistolae.ctl.columbia.edu/woman/26203.html)  
 
 |               |   |   |   |       |---Catherine of Hungary queen of Serbia b. Cir 1256  
 
@@ -149,7 +149,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |   |   |       |---Ladislaus IV the Cuman b. 1262, d. 1290  
 
-|               |   |   |   |           +[Isabella/Elizabeth of Anjou queen of Hungary b. 1261, d. 1303](/woman/26192.html)  
+|               |   |   |   |           +[Isabella/Elizabeth of Anjou queen of Hungary b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)  
 
 |               |   |   |   |---Elizabeth of Hungary b. 1207, d. 1231  
 
@@ -157,7 +157,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |   |   |---Coloman king of Halych and duke of Slavonia b. 1208, d. 1241  
 
-|               |   |   |   |   +[Salomea of Little Poland queen of Halych b. 1211-1212, d. 1268](/woman/26155.html)  
+|               |   |   |   |   +[Salomea of Little Poland queen of Halych b. 1211-1212, d. 1268](https://epistolae.ctl.columbia.edu/woman/26155.html)  
 
 |               |   |   |   |---Andrew of Hungary prince of Halych b. Cir 1210, d. 1233  
 
@@ -183,19 +183,19 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |   |   |---Stephen the Posthumous duke of Slavonia b. 1236, d. 1271  
 
-|               |   |   |       +[Thomasina Morosini b. Cir 1250, d. 1300](/woman/26240.html)  
+|               |   |   |       +[Thomasina Morosini b. Cir 1250, d. 1300](https://epistolae.ctl.columbia.edu/woman/26240.html)  
 
 |               |   |   |       |---Andrew III king of Hungary d. 1301  
 
-|               |   |   |           +[Fenenna of Kuyavia queen of Hungary d. 1295](/woman/26288.html)[(\*\*)](#n26288.2)  
+|               |   |   |           +[Fenenna of Kuyavia queen of Hungary d. 1295](https://epistolae.ctl.columbia.edu/woman/26288.html)[(\*\*)](#n26288.2)  
 
-|               |   |   |           +[Agnes of Austria queen of Hungary b. 1281, d. 1364](/woman/26337.html)  
+|               |   |   |           +[Agnes of Austria queen of Hungary b. 1281, d. 1364](https://epistolae.ctl.columbia.edu/woman/26337.html)  
 
-|               |   |   |---[Constance of Hungary queen of Bohemia b. Cir 1180, d. 1240](/woman/85.html)[(\*\*)](#n85.2)  
+|               |   |   |---[Constance of Hungary queen of Bohemia b. Cir 1180, d. 1240](https://epistolae.ctl.columbia.edu/woman/85.html)[(\*\*)](#n85.2)  
 
 |               |   |       +Premysl Ottokar I king of Bohemia b. Cir 1155, d. 1230  
 
-|               |   |       |---[Agnes of Prague b. 1211, d. 1282](/woman/74.html)[(\*\*)](#n74.2)  
+|               |   |       |---[Agnes of Prague b. 1211, d. 1282](https://epistolae.ctl.columbia.edu/woman/74.html)[(\*\*)](#n74.2)  
 
 |               |   |       |---Premysl marquis of Moravia   
 
@@ -219,7 +219,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |       |           +Salomea of Pomerania   
 
-|               |   |       |           |---[Fenenna of Kuyavia queen of Hungary d. 1295](/woman/26288.html)[(\*\*)](#n26288.3)  
+|               |   |       |           |---[Fenenna of Kuyavia queen of Hungary d. 1295](https://epistolae.ctl.columbia.edu/woman/26288.html)[(\*\*)](#n26288.3)  
 
 |               |   |       |               +Andrew III king of Hungary d. 1301  
 
@@ -227,7 +227,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |   |       |---Wenceslaus I King of Bohemia d. 1253  
 
-|               |   |           +[Cunegund of Swabia d. 1248](/woman/86.html)[(\*\*)](#n86.2)  
+|               |   |           +[Cunegund of Swabia d. 1248](https://epistolae.ctl.columbia.edu/woman/86.html)[(\*\*)](#n86.2)  
 
 |               |   |           |---Premysl Ottokar II King of Bohemia d. 1278  
 
@@ -249,7 +249,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
 |               |---Stephen IV king of Hungary b. Cir 1133, d. 1165  
 
-|               |---[Sophia of Hungary nun of Admont](/woman/26041.html)  
+|               |---[Sophia of Hungary nun of Admont](https://epistolae.ctl.columbia.edu/woman/26041.html)  
 
 |---Casimir I prince of Poland b. 1016, d. 1058  
 
@@ -259,13 +259,13 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
     |---Wladyslaw I Herman prince of Poland d. 1102  
 
-    |   +[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](/woman/151.html)  
+    |   +[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](https://epistolae.ctl.columbia.edu/woman/151.html)  
 
     |   |---Boleslaw III Wrymouth prince of Poland   
 
     |       +Zbyslava of Kiev d. Cir 1114  
 
-    |       |---(FOR DESCENDANTS RULING POLAND SEE [TABLE 2.1](/content/genealogy-conrad#n151))  
+    |       |---(FOR DESCENDANTS RULING POLAND SEE [TABLE 2.1](https://epistolae.ctl.columbia.edu/content/genealogy-conrad#n151))  
 
     |---Swietoslawa of Poland queen of Bohemia b. Cir 1046-1048, d. 1126  
 
@@ -285,7 +285,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
                 |---Premysl Ottokar I king of Bohemia b. Cir 1155, d. 1230  
 
-                    +[Adelheid/Adela of Meissen queen of Bohemia d. 1211](/woman/114.html)  
+                    +[Adelheid/Adela of Meissen queen of Bohemia d. 1211](https://epistolae.ctl.columbia.edu/woman/114.html)  
 
                     |---Vratislaus of Bohemia   
 
@@ -297,9 +297,9 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
                     |---Hedvika of Bohemia   
 
-                    +[Constance of Hungary queen of Bohemia b. Cir 1180, d. 1240](/woman/85.html)[(\*\*)](#n85)  
+                    +[Constance of Hungary queen of Bohemia b. Cir 1180, d. 1240](https://epistolae.ctl.columbia.edu/woman/85.html)[(\*\*)](#n85)  
 
-                    |---[Agnes of Prague b. 1211, d. 1282](/woman/74.html)[(\*\*)](#n74)  
+                    |---[Agnes of Prague b. 1211, d. 1282](https://epistolae.ctl.columbia.edu/woman/74.html)[(\*\*)](#n74)  
 
                     |---Premysl marquis of Moravia   
 
@@ -323,7 +323,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
                     |           +Salomea of Pomerania   
 
-                    |           |---[Fenenna of Kuyavia queen of Hungary d. 1295](/woman/26288.html)[(\*\*)](#n26288)  
+                    |           |---[Fenenna of Kuyavia queen of Hungary d. 1295](https://epistolae.ctl.columbia.edu/woman/26288.html)[(\*\*)](#n26288)  
 
                     |               +Andrew III king of Hungary d. 1301  
 
@@ -331,7 +331,7 @@ Mieszko II Lambert king of Poland b. Cir 990, d. 1034
 
                     |---Wenceslaus I King of Bohemia d. 1253  
 
-                        +[Cunegund of Swabia d. 1248](/woman/86.html)[(\*\*)](#n86)  
+                        +[Cunegund of Swabia d. 1248](https://epistolae.ctl.columbia.edu/woman/86.html)[(\*\*)](#n86)  
 
                         |---Premysl Ottokar II King of Bohemia d. 1278  
 

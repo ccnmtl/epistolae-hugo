@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-23"
 modified: "2021-07-13"
-url: "content/genealogy-conrad"
+url: "/content/genealogy-conrad"
 ---
 ## Table 2.1 Descendants of Henry I of Germany -- Line of Gisela of Swabia and Conrad II of Germany
 
@@ -20,13 +20,13 @@ Conrad II Emperor d. 1039
 
     |---Beatrice Abbess of Quedlinburg   
 
-    +[Agnes of Poitiers (Aia) d. 1077](/woman/23.html)  
+    +[Agnes of Poitiers (Aia) d. 1077](https://epistolae.ctl.columbia.edu/woman/23.html)  
 
     |---Matilda of Germany duchess of Swabia d. 1060  
 
     |   +Rudolf I of Swabia and anti-king of Germany d. 1080  
 
-    |---[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](/woman/151.html)  
+    |---[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](https://epistolae.ctl.columbia.edu/woman/151.html)  
 
     |   +Salomon of Hungary b. 1053, d. 1087  
 
@@ -64,7 +64,7 @@ Conrad II Emperor d. 1039
 
     |           |                   +Salomea of Pomerania   
 
-    |           |                   |---[Fenenna of Kuyavia queen of Hungary d. 1295](/woman/26288.html)[(\*\*)](#n26288.2)  
+    |           |                   |---[Fenenna of Kuyavia queen of Hungary d. 1295](https://epistolae.ctl.columbia.edu/woman/26288.html)[(\*\*)](#n26288.2)  
 
     |           |                       +Andrew III king of Hungary d. 1301  
 
@@ -72,13 +72,13 @@ Conrad II Emperor d. 1039
 
     |               +Alfonso VII of Leon and Castile b. 1105, d. 1157  
 
-    |               |---[Sancha of Castile queen of Aragon b. 1154-1155, d. 1208](/woman/26375.html)  
+    |               |---[Sancha of Castile queen of Aragon b. 1154-1155, d. 1208](https://epistolae.ctl.columbia.edu/woman/26375.html)  
 
     |                   +Alfonso II king of Aragon b. 1157, d. 1196  
 
     |                   |---Peter II king of Aragon b. 1178, d. 1213  
 
-    |                   |   +[Marie of Montpellier Queen of Aragon d. 1213](/woman/156.html)  
+    |                   |   +[Marie of Montpellier Queen of Aragon d. 1213](https://epistolae.ctl.columbia.edu/woman/156.html)  
 
     |                   |   |---James I king of Aragon b. 1208, d. 1276  
 
@@ -114,9 +114,9 @@ Conrad II Emperor d. 1039
 
     |                   |   |---Ramon-Bergenguer IV/V Count of Provence b. 1198, d. 1245  
 
-    |                   |       +[Beatrice of Savoy b. 1198, d. 1267](/woman/69.html)  
+    |                   |       +[Beatrice of Savoy b. 1198, d. 1267](https://epistolae.ctl.columbia.edu/woman/69.html)  
 
-    |                   |       |---[Marguerite of Provence Queen of France d. 1295](/woman/73.html)  
+    |                   |       |---[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)  
 
     |                   |       |   +Louis IX King of France d. 1270  
 
@@ -154,7 +154,7 @@ Conrad II Emperor d. 1039
 
     |                   |       |       +Robert II duke of Burgundy b. 1248, d. 1306  
 
-    |                   |       |---[Eleanor of Provence Queen of England d. 1291](/woman/76.html)  
+    |                   |       |---[Eleanor of Provence Queen of England d. 1291](https://epistolae.ctl.columbia.edu/woman/76.html)  
 
     |                   |       |   +Henry III King of England d. 1272  
 
@@ -170,7 +170,7 @@ Conrad II Emperor d. 1039
 
     |                   |       |   |---Edmund Earl of Lancaster b. 1245, d. 1296  
 
-    |                   |       |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](/woman/70.html)  
+    |                   |       |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](https://epistolae.ctl.columbia.edu/woman/70.html)  
 
     |                   |       |   +Richard Earl of Cornwall, King of Germany d. 1272  
 
@@ -184,7 +184,7 @@ Conrad II Emperor d. 1039
 
     |                   |           |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-    |                   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)  
+    |                   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)  
 
     |                   |               +Ladislaus IV the Cuman b. 1262, d. 1290  
 
@@ -214,7 +214,7 @@ Conrad II Emperor d. 1039
 
     |       |       +Valdemar I king of Denmark b. 1131, d. 1182  
 
-    |       |       |---[Ingeborg of Denmark Queen of France d. 1236](/woman/68.html)  
+    |       |       |---[Ingeborg of Denmark Queen of France d. 1236](https://epistolae.ctl.columbia.edu/woman/68.html)  
 
     |       |       |   +Philip II Augustus King of France b. 1165, d. 1223  
 
@@ -258,9 +258,9 @@ Conrad II Emperor d. 1039
 
     |           |---Leszek I the White prince of Krakow b. 1184-1185, d. 1227  
 
-    |           |   +[Gremislava of Lutsk d. 1258](/woman/26141.html)  
+    |           |   +[Gremislava of Lutsk d. 1258](https://epistolae.ctl.columbia.edu/woman/26141.html)  
 
-    |           |   |---[Salomea of Little Poland b. 1211-1212, d. 1268](/woman/26155.html)  
+    |           |   |---[Salomea of Little Poland b. 1211-1212, d. 1268](https://epistolae.ctl.columbia.edu/woman/26155.html)  
 
     |           |   |   +Coloman king of Halych and duke of Slavonia b. 1208, d. 1241  
 
@@ -270,7 +270,7 @@ Conrad II Emperor d. 1039
 
     |           |---Konrad, prince of Krakow and Mazovia b. 1187-1188, d. 1247  
 
-    |               +[Agafia Sviatoslavna princess of Krakow and Mazovia d. Cir 1247](/woman/26341.html)  
+    |               +[Agafia Sviatoslavna princess of Krakow and Mazovia d. Cir 1247](https://epistolae.ctl.columbia.edu/woman/26341.html)  
 
     |               |---Boleslaw I prince of Sandomierz, Sieradz, and Mazovia b. 1208, d. 1248  
 
@@ -284,7 +284,7 @@ Conrad II Emperor d. 1039
 
     |               |       +Salomea of Pomerania   
 
-    |               |       |---[Fenenna of Kuyavia queen of Hungary d. 1295](/woman/26288.html)[(\*\*)](#n26288)  
+    |               |       |---[Fenenna of Kuyavia queen of Hungary d. 1295](https://epistolae.ctl.columbia.edu/woman/26288.html)[(\*\*)](#n26288)  
 
     |               |           +Andrew III king of Hungary d. 1301  
 
@@ -362,7 +362,7 @@ Conrad II Emperor d. 1039
 
         |       |       |           +Blanche of France b. 1253, d. 1323  
 
-        |       |       |---[Cunegund of Swabia d. 1248](/woman/86.html)  
+        |       |       |---[Cunegund of Swabia d. 1248](https://epistolae.ctl.columbia.edu/woman/86.html)  
 
         |       |       |   +Wenceslaus I King of Bohemia d. 1253  
 
@@ -388,7 +388,7 @@ Conrad II Emperor d. 1039
 
         |---Henry V Emperor d. 1125  
 
-            +[Matilda of England Empress, Countess of Anjou d. 1167](/woman/27.html)  
+            +[Matilda of England Empress, Countess of Anjou d. 1167](https://epistolae.ctl.columbia.edu/woman/27.html)  
 
   
 

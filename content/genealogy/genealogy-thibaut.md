@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-24"
 modified: "2021-07-13"
-url: "content/genealogy-thibaut"
+url: "/content/genealogy-thibaut"
 ---
 ## Table 2.3: Descendants of Henry I of Germany: Line of Gersent of Le Mans and Thibaut III of Blois
 
@@ -16,7 +16,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
 |---Stephen of Blois d. 1102  
 
-    +[Adela of England Countess of Blois b. 1067-1068, d. 1137](/woman/21.html)  
+    +[Adela of England Countess of Blois b. 1067-1068, d. 1137](https://epistolae.ctl.columbia.edu/woman/21.html)  
 
     |---William Count of Chartres   
 
@@ -24,21 +24,21 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |---Thibaut II of Champagne and IV of Blois b. 1090, d. 1151  
 
-    |   +[Matilda of Carinthia d. 1160](/woman/25196.html)  
+    |   +[Matilda of Carinthia d. 1160](https://epistolae.ctl.columbia.edu/woman/25196.html)  
 
     |   |---Henry I Count of Champagne d. 1181  
 
-    |   |   +[Marie of France Countess of Champagne d. 1198](/woman/25.html)  
+    |   |   +[Marie of France Countess of Champagne d. 1198](https://epistolae.ctl.columbia.edu/woman/25.html)  
 
     |   |   |---Henry II Count of Champagne and king of Jerusalem d. 1197  
 
-    |   |   |   +[Isabella I queen of Jerusalem b. 1172, d. 1205](/woman/25246.html)  
+    |   |   |   +[Isabella I queen of Jerusalem b. 1172, d. 1205](https://epistolae.ctl.columbia.edu/woman/25246.html)  
 
     |   |   |   |---Alice of Champagne queen of Cyprus b. Cir 1193, d. 1246  
 
     |   |   |   |   +Hugh I king of Cyprus b. 1194-1195, d. 1218  
 
-    |   |   |   |---[Philippa of Champagne princess of Jerusalem b. Cir 1197, d. 1250](/woman/167.html)  
+    |   |   |   |---[Philippa of Champagne princess of Jerusalem b. Cir 1197, d. 1250](https://epistolae.ctl.columbia.edu/woman/167.html)  
 
     |   |   |       +Erard of Brienne lord of Ramerupt b. Cir 1170, d. 1246  
 
@@ -48,19 +48,19 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |   |   +Baldwin IX of Flanders and VI of Hainaut Latin emperor of Constantinople b. 1172, d. Cir 1205  
 
-    |   |   |   |---[Joan of Constantinople countess of Flanders d. 1244](/woman/21739.html)  
+    |   |   |   |---[Joan of Constantinople countess of Flanders d. 1244](https://epistolae.ctl.columbia.edu/woman/21739.html)  
 
     |   |   |   |   +Ferdinand of Portugal Count of Flanders b. 1188, d. 1233  
 
     |   |   |   |   +Thomas II of Savoy count of Flanders and count in Piedmont d. 1259  
 
-    |   |   |   |---[Margaret of Constantinople countess of Flanders d. 1280](/woman/111.html)  
+    |   |   |   |---[Margaret of Constantinople countess of Flanders d. 1280](https://epistolae.ctl.columbia.edu/woman/111.html)  
 
     |   |   |       +Bouchard IV of Avesnes b. 1182, d. 1244  
 
     |   |   |       |---John I Count of Hainaut b. 1218, d. 1257  
 
-    |   |   |       |   +[Aleid/Adelaide of Holland regent of Holland and countess of Hainault b. 1230, d. 1284](/woman/113.html)[(\*\*)](#n113.2)  
+    |   |   |       |   +[Aleid/Adelaide of Holland regent of Holland and countess of Hainault b. 1230, d. 1284](https://epistolae.ctl.columbia.edu/woman/113.html)[(\*\*)](#n113.2)  
 
     |   |   |       |   |---John II Count of Hainaut Holland and Zeeland b. 1247, d. 1304  
 
@@ -96,7 +96,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |   |---Thibaut III count of Champagne d. 1201  
 
-    |   |       +[Blanche of Navarre countess of Champagne d. 1229](/woman/78.html)  
+    |   |       +[Blanche of Navarre countess of Champagne d. 1229](https://epistolae.ctl.columbia.edu/woman/78.html)  
 
     |   |       |---Thibaut IV of Champagne king of Navarre b. 1201, d. 1253  
 
@@ -110,7 +110,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |   +Alice of France Countess of Blois d. 1197-1198  
 
-    |   |   |---[Marguerite of Blois d. 1230](/woman/26098.html)  
+    |   |   |---[Marguerite of Blois d. 1230](https://epistolae.ctl.columbia.edu/woman/26098.html)  
 
     |   |       +Hugh of Oisy lord of Montmirail   
 
@@ -162,7 +162,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |       +Walter II of Avesnes b. 1170, d. 1244  
 
-    |   |---[Alix/Adela of Champagne Queen of France d. 1206](/woman/32.html)  
+    |   |---[Alix/Adela of Champagne Queen of France d. 1206](https://epistolae.ctl.columbia.edu/woman/32.html)  
 
     |   |   +Louis VII King of France b. 1120, d. 1180  
 
@@ -172,11 +172,11 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |   |   |---Louis VIII King of France d. 1226  
 
-    |   |   |       +[Blanche of Castile d. 1252](/woman/77.html)  
+    |   |   |       +[Blanche of Castile d. 1252](https://epistolae.ctl.columbia.edu/woman/77.html)  
 
     |   |   |       |---Louis IX King of France d. 1270  
 
-    |   |   |       |   +[Marguerite of Provence Queen of France d. 1295](/woman/73.html)  
+    |   |   |       |   +[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)  
 
     |   |   |       |   |---Isabel of France b. 1241, d. 1271  
 
@@ -226,11 +226,11 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |   |           |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-    |   |   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)  
+    |   |   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)  
 
     |   |   |               +Ladislaus IV the Cuman b. 1262, d. 1290  
 
-    |   |   |   +[Ingeborg of Denmark Queen of France d. 1236](/woman/68.html)  
+    |   |   |   +[Ingeborg of Denmark Queen of France d. 1236](https://epistolae.ctl.columbia.edu/woman/68.html)  
 
     |   |   |   +Agnes of Meran d. 1201  
 
@@ -244,7 +244,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |       +Alexius II Comnenus of Byzantium d. 1183  
 
-    |   |---[Marie of Champagne and Blois duchess of Burgundy](/woman/16.html)  
+    |   |---[Marie of Champagne and Blois duchess of Burgundy](https://epistolae.ctl.columbia.edu/woman/16.html)  
 
     |   |   +Odo II duke of Burgundy b. 1118, d. 1162  
 
@@ -254,9 +254,9 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |   |       |---Odo III duke of Burgundy b. 1166  
 
-    |   |           +[Matilda of Portugal countess of Flanders and Burgundy d. 1218](/woman/25280.html)  
+    |   |           +[Matilda of Portugal countess of Flanders and Burgundy d. 1218](https://epistolae.ctl.columbia.edu/woman/25280.html)  
 
-    |   |           +[Alix of Vergy duchess of Burgundy b. 1182, d. 1252](/woman/168.html)  
+    |   |           +[Alix of Vergy duchess of Burgundy b. 1182, d. 1252](https://epistolae.ctl.columbia.edu/woman/168.html)  
 
     |   |       +Beatrice of Albon and Viennois b. 1161, d. 1228  
 
@@ -290,15 +290,15 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |---Stephen King of England d. 1154  
 
-    |   +[Matilda of Boulogne Queen of England d. 1152](/woman/12.html)  
+    |   +[Matilda of Boulogne Queen of England d. 1152](https://epistolae.ctl.columbia.edu/woman/12.html)  
 
     |   |---Eustace IV Count of Boulogne d. 1153  
 
-    |   |   +[Constance of France Countess of Toulouse d. 1176](/woman/3.html)  
+    |   |   +[Constance of France Countess of Toulouse d. 1176](https://epistolae.ctl.columbia.edu/woman/3.html)  
 
     |   |---William Count of Boulogne d. 1159  
 
-    |   |---[Marie of Boulogne and Blois b. 1136, d. 1182](/woman/15.html)  
+    |   |---[Marie of Boulogne and Blois b. 1136, d. 1182](https://epistolae.ctl.columbia.edu/woman/15.html)  
 
     |       +Matthew of Alsace Count of Boulogne b. 1137, d. 1173  
 
@@ -318,7 +318,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |           |   +Maria of Swabia   
 
-    |           |---[Mathilde of Brabant countess of Holland b. 1200, d. 1267](/woman/25398.html)  
+    |           |---[Mathilde of Brabant countess of Holland b. 1200, d. 1267](https://epistolae.ctl.columbia.edu/woman/25398.html)  
 
     |               +Floris IV Count of Holland b. 1210, d. 1234  
 
@@ -332,7 +332,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
     |               |---Floris of Voogd regent of Holland b. 1228, d. 1258  
 
-    |               |---[Aleid/Adelaide of Holland regent of Holland and countess of Hainault b. 1230, d. 1284](/woman/113.html)[(\*\*)](#n113)  
+    |               |---[Aleid/Adelaide of Holland regent of Holland and countess of Hainault b. 1230, d. 1284](https://epistolae.ctl.columbia.edu/woman/113.html)[(\*\*)](#n113)  
 
     |               |   +John I Count of Hainaut b. 1218, d. 1257  
 
@@ -362,7 +362,7 @@ Thibaut III count of Blois b. 1012, d. 1089
 
 |---Hugh count of Troyes and Champagne b. Cir 1074, d. 1125  
 
-    +[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](/woman/82.html)  
+    +[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](https://epistolae.ctl.columbia.edu/woman/82.html)  
 
 
 

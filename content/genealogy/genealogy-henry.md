@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-23"
 modified: "2021-07-13"
-url: "content/genealogy-henry"
+url: "/content/genealogy-henry"
 ---
 ## Table 2: Descendants of Mathilde of Ringelheim and Henry I of Germany (the first six generations)
 
@@ -24,7 +24,7 @@ Henry I King of Germany d. 936
 
 |   |   |---Otto I Duke of Swabia d. 982  
 
-|   |   |---[Matilda Abbess of Essen b. 949, d. 1011](/woman/10.html)  
+|   |   |---[Matilda Abbess of Essen b. 949, d. 1011](https://epistolae.ctl.columbia.edu/woman/10.html)  
 
 |   |---Liutgard d. 953  
 
@@ -46,13 +46,13 @@ Henry I King of Germany d. 936
 
 |                       +Kunegund of England d. 1038  
 
-|                       +[Agnes of Poitiers (Aia) d. 1077](/woman/23.html)[(\*\*)](#n23.2)  
+|                       +[Agnes of Poitiers (Aia) d. 1077](https://epistolae.ctl.columbia.edu/woman/23.html)[(\*\*)](#n23.2)  
 
-|   +[Adelaide of Burgundy Queen of Italy, Empress of Germany d. 999](/woman/19.html)  
+|   +[Adelaide of Burgundy Queen of Italy, Empress of Germany d. 999](https://epistolae.ctl.columbia.edu/woman/19.html)  
 
 |   |---Otto II Emperor d. 983  
 
-|   |   +[Theophanu of Byzantium Empress d. 991](/woman/26.html)  
+|   |   +[Theophanu of Byzantium Empress d. 991](https://epistolae.ctl.columbia.edu/woman/26.html)  
 
 |   |   |---Adelaide Abbess of Quedlingburg and Gandersheim d. 1044  
 
@@ -74,7 +74,7 @@ Henry I King of Germany d. 936
 
 |   |           |   |---Ladislaus I king of Hungary b. 1040, d. 1095  
 
-|   |           |   |   +[Adelaide of Swabia queen of Hungary](/woman/152.html)  
+|   |           |   |   +[Adelaide of Swabia queen of Hungary](https://epistolae.ctl.columbia.edu/woman/152.html)  
 
 |   |           |   |---Geza I king of Hungary b. Cir 1044, d. 1077  
 
@@ -88,7 +88,7 @@ Henry I King of Germany d. 936
 
 |   |               |---Wladyslaw I Herman prince of Poland d. 1102  
 
-|   |               |   +[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](/woman/151.html)[(\*\*)](#n151.2)  
+|   |               |   +[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](https://epistolae.ctl.columbia.edu/woman/151.html)[(\*\*)](#n151.2)  
 
 |   |               |---Swietoslawa of Poland queen of Bohemia b. Cir 1046-1048, d. 1126  
 
@@ -96,7 +96,7 @@ Henry I King of Germany d. 936
 
 |   |---Bruno d. 957  
 
-|   |---[Matilda Abbess of Quedlinburg d. 999](/woman/11.html)  
+|   |---[Matilda Abbess of Quedlinburg d. 999](https://epistolae.ctl.columbia.edu/woman/11.html)  
 
 |---Gerberga of Germany Queen of France d. 984  
 
@@ -104,7 +104,7 @@ Henry I King of Germany d. 936
 
 |   |---Lothair King of France d. 986  
 
-|   |   +[Emma of Italy d. After 987](/woman/4.html)  
+|   |   +[Emma of Italy d. After 987](https://epistolae.ctl.columbia.edu/woman/4.html)  
 
 |   |   |---Louis V King of France d. 987  
 
@@ -124,17 +124,17 @@ Henry I King of Germany d. 936
 
 |       |---Rudolf III King of Burgundy d. 1032  
 
-|       |   +[Ermengarde of Savoy queen of Burgundy](/woman/25311.html)  
+|       |   +[Ermengarde of Savoy queen of Burgundy](https://epistolae.ctl.columbia.edu/woman/25311.html)  
 
 |       |---Gerberga of Burgundy d. 1018-1019  
 
 |       |   +Herman II Duke of Swabia d. 1003  
 
-|       |   |---[Matilda of Swabia](/woman/13.html)[(\*\*)](#n13.2)  
+|       |   |---[Matilda of Swabia](https://epistolae.ctl.columbia.edu/woman/13.html)[(\*\*)](#n13.2)  
 
 |       |   |   +Frederick II of Upper Lorraine d. 1026  
 
-|       |   |   |---[Beatrice of Lorraine, duke of Tuscany](/woman/20.html)[(\*\*)](#n20.2)  
+|       |   |   |---[Beatrice of Lorraine, duke of Tuscany](https://epistolae.ctl.columbia.edu/woman/20.html)[(\*\*)](#n20.2)  
 
 |       |   |   |   +Boniface margrave of Tuscany d. 1052  
 
@@ -142,7 +142,7 @@ Henry I King of Germany d. 936
 
 |       |   |   |   |---Beatrice of Tuscany d. 1053  
 
-|       |   |   |   |---[Matilda of Tuscany countess of Tuscany and duchess of Lorraine b. 1046, d. 1115](/woman/29.html)[(\*\*)](#n29.2)  
+|       |   |   |   |---[Matilda of Tuscany countess of Tuscany and duchess of Lorraine b. 1046, d. 1115](https://epistolae.ctl.columbia.edu/woman/29.html)[(\*\*)](#n29.2)  
 
 |       |   |   |       +Godfrey III the Hunchback duke of Lower Lorraine d. 1076  
 
@@ -156,7 +156,7 @@ Henry I King of Germany d. 936
 
 |       |   |   |   |---Frederick of Montbéliard margrave of Turin d. 1091  
 
-|       |   |   |       +[Agnes of Savoy margravine of Turin and Susa](/woman/25350.html)[(\*\*)](#n25350.2)   
+|       |   |   |       +[Agnes of Savoy margravine of Turin and Susa](https://epistolae.ctl.columbia.edu/woman/25350.html)[(\*\*)](#n25350.2)   
 
 |       |   |   |---Frederick III duke of Upper Lorraine and count of Bar d. 1033  
 
@@ -170,13 +170,13 @@ Henry I King of Germany d. 936
 
 |       |           |---Beatrice Abbess of Quedlinburg   
 
-|       |           +[Agnes of Poitiers (Aia) d. 1077](/woman/23.html)[(\*\*)](#n23)  
+|       |           +[Agnes of Poitiers (Aia) d. 1077](https://epistolae.ctl.columbia.edu/woman/23.html)[(\*\*)](#n23)  
 
 |       |           |---Matilda of Germany duchess of Swabia d. 1060  
 
 |       |           |   +Rudolf I of Swabia and anti-king of Germany d. 1080  
 
-|       |           |---[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](/woman/151.html)[(\*\*)](#n151)  
+|       |           |---[Judith of Swabia queen of Hungary and princess of Poland d. 1100 ?](https://epistolae.ctl.columbia.edu/woman/151.html)[(\*\*)](#n151)  
 
 |       |           |   +Salomon of Hungary b. 1053, d. 1087  
 
@@ -200,13 +200,13 @@ Henry I King of Germany d. 936
 
 |                   |---Stephen of Blois d. 1102  
 
-|                       +[Adela of England countess of Blois b. 1067-1068, d. 1137](/woman/21.html)[(\*\*)](#n21.2)  
+|                       +[Adela of England countess of Blois b. 1067-1068, d. 1137](https://epistolae.ctl.columbia.edu/woman/21.html)[(\*\*)](#n21.2)  
 
 |                   +Adele of Valois   
 
 |                   |---Hugh count of Troyes and Champagne b. Cir 1074, d. 1125  
 
-|                       +[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](/woman/82.html)[(\*\*)](#n82.2)  
+|                       +[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](https://epistolae.ctl.columbia.edu/woman/82.html)[(\*\*)](#n82.2)  
 
 |           +Robert II the Pious King of France d. 1031  
 
@@ -214,7 +214,7 @@ Henry I King of Germany d. 936
 
 |   +Hugh the Great Duke of the French d. 956  
 
-|   |---[Beatrice countess/duke of Upper Lorraine](/woman/2.html)   
+|   |---[Beatrice countess/duke of Upper Lorraine](https://epistolae.ctl.columbia.edu/woman/2.html)   
 
 |   |   +Frederic I of Upper Lorraine d. 978  
 
@@ -224,9 +224,9 @@ Henry I King of Germany d. 936
 
 |   |       |---Frederick II of Upper Lorraine d. 1026  
 
-|   |           +[Matilda of Swabia](/woman/13.html)[(\*\*)](#n13)  
+|   |           +[Matilda of Swabia](https://epistolae.ctl.columbia.edu/woman/13.html)[(\*\*)](#n13)  
 
-|   |           |---[Beatrice of Lorraine, duke of Tuscany](/woman/20.html)[(\*\*)](#n20)  
+|   |           |---[Beatrice of Lorraine, duke of Tuscany](https://epistolae.ctl.columbia.edu/woman/20.html)[(\*\*)](#n20)  
 
 |   |           |   +Boniface margrave of Tuscany d. 1052  
 
@@ -234,7 +234,7 @@ Henry I King of Germany d. 936
 
 |   |           |   |---Beatrice of Tuscany d. 1053  
 
-|   |           |   |---[Matilda of Tuscany countess of Tuscany and duchess of Lorraine b. 1046, d. 1115](/woman/29.html)[(\*\*)](#n29)  
+|   |           |   |---[Matilda of Tuscany countess of Tuscany and duchess of Lorraine b. 1046, d. 1115](https://epistolae.ctl.columbia.edu/woman/29.html)[(\*\*)](#n29)  
 
 |   |           |       +Godfrey III the Hunchback duke of Lower Lorraine d. 1076  
 
@@ -248,7 +248,7 @@ Henry I King of Germany d. 936
 
 |   |           |   |---Frederick of Montbéliard margrave of Turin d. 1091  
 
-|   |           |       +[Agnes of Savoy margravine of Turin and Susa](/woman/25350.html)[(\*\*)](#n25350)  
+|   |           |       +[Agnes of Savoy margravine of Turin and Susa](https://epistolae.ctl.columbia.edu/woman/25350.html)[(\*\*)](#n25350)  
 
 |   |           |---Frederick III duke of Upper Lorraine and count of Bar d. 1033  
 
@@ -256,7 +256,7 @@ Henry I King of Germany d. 936
 
 |   |---Hugh Capet Duke of the Franks, King of France d. 996  
 
-|   |   +[Adelaide of Aquitaine](/woman/1.html)  
+|   |   +[Adelaide of Aquitaine](https://epistolae.ctl.columbia.edu/woman/1.html)  
 
 |   |   |---Robert II the Pious King of France d. 1031  
 
@@ -270,7 +270,7 @@ Henry I King of Germany d. 936
 
 |   |       |---Henry I King of France d. 1060  
 
-|   |       |   +[Anne of Kiev d. 1075](/woman/116.html)  
+|   |       |   +[Anne of Kiev d. 1075](https://epistolae.ctl.columbia.edu/woman/116.html)  
 
 |   |       |   |---Philip I King of France d. 1108  
 
@@ -280,13 +280,13 @@ Henry I King of Germany d. 936
 
 |   |       |   |   |   +Adelaide of Savoy queen of France d. 1154  
 
-|   |       |   |   |---[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](/woman/82.html)[(\*\*)](#n82)  
+|   |       |   |   |---[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](https://epistolae.ctl.columbia.edu/woman/82.html)[(\*\*)](#n82)  
 
 |   |       |   |       +Hugh count of Troyes and Champagne b. Cir 1074, d. 1125  
 
 |   |       |   |   +Bertrade of Montfort   
 
-|   |       |   |   |---[Cecilia of France princess of Antioch and countess of Tripoli](/woman/25275.html)  
+|   |       |   |   |---[Cecilia of France princess of Antioch and countess of Tripoli](https://epistolae.ctl.columbia.edu/woman/25275.html)  
 
 |   |       |   |       +Tancred prince of Galilee and Antioch d. 1112  
 
@@ -294,7 +294,7 @@ Henry I King of Germany d. 936
 
 |   |       |   |---Hugh Count of Vermandois d. 1102  
 
-|   |       |---[Adela/Adelaide countess of Flanders d. 1079](/woman/37.html)  
+|   |       |---[Adela/Adelaide countess of Flanders d. 1079](https://epistolae.ctl.columbia.edu/woman/37.html)  
 
 |   |       |   +Richard III of Normandy d. 1027  
 
@@ -302,7 +302,7 @@ Henry I King of Germany d. 936
 
 |   |       |   |---Baldwin VI Count of Flanders d. 1070  
 
-|   |       |   |---[Matilda of Flanders Queen of England d. 1083](/woman/18.html)  
+|   |       |   |---[Matilda of Flanders Queen of England d. 1083](https://epistolae.ctl.columbia.edu/woman/18.html)  
 
 |   |       |   |   +William I "the Conqueror" King of England b. 1028, d. 1087  
 
@@ -310,7 +310,7 @@ Henry I King of Germany d. 936
 
 |   |       |   |   |---Richard of England d. Abt 1081  
 
-|   |       |   |   |---[Adelaide/Adeliza/Adelida royal nun](/woman/39.html)   
+|   |       |   |   |---[Adelaide/Adeliza/Adelida royal nun](https://epistolae.ctl.columbia.edu/woman/39.html)   
 
 |   |       |   |   |---Cecily Abbess of Caen d. 1126  
 
@@ -320,13 +320,13 @@ Henry I King of Germany d. 936
 
 |   |       |   |   |   +Alan IV Duke of Brittany d. 1119  
 
-|   |       |   |   |---[Adela of England countess of Blois b. 1067-1068, d. 1137](/woman/21.html)[(\*\*)](#n21)  
+|   |       |   |   |---[Adela of England countess of Blois b. 1067-1068, d. 1137](https://epistolae.ctl.columbia.edu/woman/21.html)[(\*\*)](#n21)  
 
 |   |       |   |   |   +Stephen of Blois d. 1102  
 
 |   |       |   |   |---Henry I King of England d. 1135  
 
-|   |       |   |       +[Matilda of Scotland Queen of England b. 1080, d. 1118](/woman/64.html)  
+|   |       |   |       +[Matilda of Scotland Queen of England b. 1080, d. 1118](https://epistolae.ctl.columbia.edu/woman/64.html)  
 
 |   |       |   |---Robert I the Frisian Count of Flanders d. 1092-1093  
 
@@ -362,7 +362,7 @@ Henry I King of Germany d. 936
 
     |       +Cunigunde of Luxemburg Empress d. 1040  
 
-    |---[Gerberga Abbess of Gandersheim d. 1001](/woman/6.html)  
+    |---[Gerberga Abbess of Gandersheim d. 1001](https://epistolae.ctl.columbia.edu/woman/6.html)  
 
 
 

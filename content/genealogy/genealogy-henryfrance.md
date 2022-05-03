@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-24"
 modified: "2021-07-13"
-url: "content/genealogy-henryfrance"
+url: "/content/genealogy-henryfrance"
 ---
 ## Table 2.4.1: Descendants of Henry I of Germany via Robert II of France: Line of Anne of Kiev and Henry I of France
 
@@ -13,7 +13,7 @@ url: "content/genealogy-henryfrance"
 
 Henry I King of France d. 1060  
 
-+[Anne of Kiev d. 1075](/woman/116.html)  
++[Anne of Kiev d. 1075](https://epistolae.ctl.columbia.edu/woman/116.html)  
 
 |---Philip I King of France d. 1108  
 
@@ -27,21 +27,21 @@ Henry I King of France d. 1060
 
 |   |   |---Louis VII King of France b. 1120, d. 1180  
 
-|   |   |   +[Eleanor of Aquitaine b. 1122, d. 1204](/woman/24.html)  
+|   |   |   +[Eleanor of Aquitaine b. 1122, d. 1204](https://epistolae.ctl.columbia.edu/woman/24.html)  
 
-|   |   |   |---[Marie of France Countess of Champagne d. 1198](/woman/25.html)  
+|   |   |   |---[Marie of France Countess of Champagne d. 1198](https://epistolae.ctl.columbia.edu/woman/25.html)  
 
 |   |   |   |   +Henry I Count of Champagne d. 1181  
 
 |   |   |   |   |---Henry II Count of Champagne and king of Jerusalem d. 1197  
 
-|   |   |   |   |   +[Isabella I queen of Jerusalem b. 1172, d. 1205](/woman/25246.html)  
+|   |   |   |   |   +[Isabella I queen of Jerusalem b. 1172, d. 1205](https://epistolae.ctl.columbia.edu/woman/25246.html)  
 
 |   |   |   |   |   |---Alice of Champagne queen of Cyprus b. Cir 1193, d. 1246  
 
 |   |   |   |   |   |   +Hugh I king of Cyprus b. 1194-1195, d. 1218  
 
-|   |   |   |   |   |---[Philippa of Champagne princess of Jerusalem b. Cir](/woman/167.html)   
+|   |   |   |   |   |---[Philippa of Champagne princess of Jerusalem b. Cir](https://epistolae.ctl.columbia.edu/woman/167.html)   
 
 |   |   |   |   |       +Erard of Brienne lord of Ramerupt b. Cir 1170, d. 1246  
 
@@ -51,19 +51,19 @@ Henry I King of France d. 1060
 
 |   |   |   |   |   +Baldwin IX of Flanders and VI of Hainaut Latin emperor of Constantinople b. 1172, d. Cir 1205  
 
-|   |   |   |   |   |---[Joan of Constantinople countess of Flanders d. 1244](/woman/21739.html)  
+|   |   |   |   |   |---[Joan of Constantinople countess of Flanders d. 1244](https://epistolae.ctl.columbia.edu/woman/21739.html)  
 
 |   |   |   |   |   |   +Ferdinand of Portugal Count of Flanders b. 1188, d. 1233  
 
 |   |   |   |   |   |   +Thomas II of Savoy count of Flanders and count in Piedmont d. 1259  
 
-|   |   |   |   |   |---[Margaret of Constantinople countess of Flanders d. 1280](/woman/111.html)  
+|   |   |   |   |   |---[Margaret of Constantinople countess of Flanders d. 1280](https://epistolae.ctl.columbia.edu/woman/111.html)  
 
 |   |   |   |   |       +Bouchard IV of Avesnes b. 1182, d. 1244  
 
 |   |   |   |   |       |---John I Count of Hainaut b. 1218, d. 1257  
 
-|   |   |   |   |       |   +[Aleid/Adelaide regent of Holland and countess of Hainault b. 1230, d. 1284](/woman/113.html)  
+|   |   |   |   |       |   +[Aleid/Adelaide regent of Holland and countess of Hainault b. 1230, d. 1284](https://epistolae.ctl.columbia.edu/woman/113.html)  
 
 |   |   |   |   |       |   |---John II Count of Hainaut Holland and Zeeland b. 1247, d. 1304  
 
@@ -99,7 +99,7 @@ Henry I King of France d. 1060
 
 |   |   |   |   |---Thibaut III count of Champagne d. 1201  
 
-|   |   |   |       +[Blanche of Navarre countess of Champagne d. 1229](/woman/78.html)  
+|   |   |   |       +[Blanche of Navarre countess of Champagne d. 1229](https://epistolae.ctl.columbia.edu/woman/78.html)  
 
 |   |   |   |       |---Thibaut IV of Champagne king of Navarre b. 1201, d. 1253  
 
@@ -113,7 +113,7 @@ Henry I King of France d. 1060
 
 |   |   |       +Thibaut V Count of Blois d. 1191  
 
-|   |   |       |---[Marguerite of Blois d. 1230](/woman/26098.html)  
+|   |   |       |---[Marguerite of Blois d. 1230](https://epistolae.ctl.columbia.edu/woman/26098.html)  
 
 |   |   |           +Hugh of Oisy lord of Montmirail   
 
@@ -173,7 +173,7 @@ Henry I King of France d. 1060
 
 |   |   |       +Bela III of Hungary d. 1196  
 
-|   |   |   +[Alix/Adela of Champagne Queen of France d. 1206](/woman/32.html)  
+|   |   |   +[Alix/Adela of Champagne Queen of France d. 1206](https://epistolae.ctl.columbia.edu/woman/32.html)  
 
 |   |   |   |---Philip II Augustus King of France b. 1165, d. 1223  
 
@@ -181,11 +181,11 @@ Henry I King of France d. 1060
 
 |   |   |   |   |---Louis VIII King of France d. 1226  
 
-|   |   |   |       +[Blanche of Castile d. 1252](/woman/77.html)  
+|   |   |   |       +[Blanche of Castile d. 1252](https://epistolae.ctl.columbia.edu/woman/77.html)  
 
 |   |   |   |       |---Louis IX King of France d. 1270  
 
-|   |   |   |       |   +[Marguerite of Provence Queen of France d. 1295](/woman/73.html)  
+|   |   |   |       |   +[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)  
 
 |   |   |   |       |   |---Isabel of France b. 1241, d. 1271  
 
@@ -235,11 +235,11 @@ Henry I King of France d. 1060
 
 |   |   |   |           |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-|   |   |   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)  
+|   |   |   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)  
 
 |   |   |   |               +Ladislaus IV the Cuman b. 1262, d. 1290  
 
-|   |   |   |   +[Ingeborg of Denmark Queen of France d. 1236](/woman/68.html)  
+|   |   |   |   +[Ingeborg of Denmark Queen of France d. 1236](https://epistolae.ctl.columbia.edu/woman/68.html)  
 
 |   |   |   |   +Agnes of Meran d. 1201  
 
@@ -257,7 +257,7 @@ Henry I King of France d. 1060
 
 |   |   |---Robert Count of Dreux d. 1188  
 
-|   |   |---[Constance of France Countess of Toulouse d. 1176](/woman/3.html)  
+|   |   |---[Constance of France Countess of Toulouse d. 1176](https://epistolae.ctl.columbia.edu/woman/3.html)  
 
 |   |   |   +Eustace IV Count of Boulogne d. 1153  
 
@@ -265,7 +265,7 @@ Henry I King of France d. 1060
 
 |   |   |   |---Raymond VI count of Toulouse b. 1156, d. 1222  
 
-|   |   |   |   +[Ermessend of Melgueil d. 1176](/woman/25731.html)  
+|   |   |   |   +[Ermessend of Melgueil d. 1176](https://epistolae.ctl.columbia.edu/woman/25731.html)  
 
 |   |   |   |   +Beatrice of Beziers countess of Toulouse   
 
@@ -297,7 +297,7 @@ Henry I King of France d. 1060
 
 |   |           +Yolanda of Flanders Latin empress of Constantinople b. 1175, d. 1219  
 
-|   |           |---[Marie of Courtenay empress of Constantinople and Nicaea b. Cir 1204, d. 1228](/woman/25266.html)  
+|   |           |---[Marie of Courtenay empress of Constantinople and Nicaea b. Cir 1204, d. 1228](https://epistolae.ctl.columbia.edu/woman/25266.html)  
 
 |   |           |   +Theodore I Lascaris emperor of Nicaea b. 1175, d. 1221  
 
@@ -305,13 +305,13 @@ Henry I King of France d. 1060
 
 |   |           |---Baldwin II Latin emperor of Constantinople b. 1217, d. 1273  
 
-|   |---[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](/woman/82.html)  
+|   |---[Constance of France countess of Troyes and princess of Antioch b. 1078, d. 1125](https://epistolae.ctl.columbia.edu/woman/82.html)  
 
 |       +Hugh count of Troyes and Champagne b. Cir 1074, d. 1125  
 
 |   +Bertrade of Montfort   
 
-|   |---[Cecilia of France princess of Antioch and countess of Tripoli](/woman/25275.html)  
+|   |---[Cecilia of France princess of Antioch and countess of Tripoli](https://epistolae.ctl.columbia.edu/woman/25275.html)  
 
 |       +Tancred prince of Galilee and Antioch d. 1112  
 
@@ -319,7 +319,7 @@ Henry I King of France d. 1060
 
 |       |---Raymond II count of Tripoli d. 1152  
 
-|       |   +[Hodierna of Jerusalem countess of Tripoli d. Cir 1164](/woman/25260.html)  
+|       |   +[Hodierna of Jerusalem countess of Tripoli d. Cir 1164](https://epistolae.ctl.columbia.edu/woman/25260.html)  
 
 |       |   |---Raymond III count of Tripoli b. 1140, d. 1187  
 

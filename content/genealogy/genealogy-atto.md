@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-07-01"
 modified: "2021-07-13"
-url: "content/genealogy-atto"
+url: "/content/genealogy-atto"
 ---
 ## Table 4: House of Canossa - Descendants of Adalbert Atto (the first four generations)
 
@@ -20,9 +20,9 @@ Adalbert Atto Count of Canossa d. 988
 
 |   |---Ulric Manfred II Count of Turin and Margrave of Susa d. 1033-1034  
 
-|       + [Bertha of the Obertenghi, countess of Milan d. Cir 1040](/woman/129.html)  
+|       + [Bertha of the Obertenghi, countess of Milan d. Cir 1040](https://epistolae.ctl.columbia.edu/woman/129.html)  
 
-|       |---[Adelaide of Turin and Susa d. 1091](/woman/105.html)  
+|       |---[Adelaide of Turin and Susa d. 1091](https://epistolae.ctl.columbia.edu/woman/105.html)  
 
 |       |   +Herman IV Duke of Swabia d. 1038  
 
@@ -32,7 +32,7 @@ Adalbert Atto Count of Canossa d. 988
 
 |       |   |---Peter I Count of Savoy d. 1078  
 
-|       |   |   +[Agnes of Aquitaine countess of Savoy](/woman/25340.html)   
+|       |   |   +[Agnes of Aquitaine countess of Savoy](https://epistolae.ctl.columbia.edu/woman/25340.html)   
 
 |       |   |---Amadeus II Count of Savoy d. 1080  
 
@@ -46,7 +46,7 @@ Adalbert Atto Count of Canossa d. 988
 
 |       |       +Rudolf I of Swabia and anti-king of Germany d. 1080  
 
-|       |---[Immilla of Turin d. 1078](/woman/128.html)  
+|       |---[Immilla of Turin d. 1078](https://epistolae.ctl.columbia.edu/woman/128.html)  
 
 |       |   +Otto III of Schweinfurt duke of Swabia   
 
@@ -56,7 +56,7 @@ Adalbert Atto Count of Canossa d. 988
 
 |       |   +Ekbert I marquis of Meissen   
 
-|       |---[Bertha of Turin d. After 1064-1065](/woman/25368.html)  
+|       |---[Bertha of Turin d. After 1064-1065](https://epistolae.ctl.columbia.edu/woman/25368.html)  
 
 |           +Teo marquis of Vasto   
 
@@ -76,13 +76,13 @@ Adalbert Atto Count of Canossa d. 988
 
     |---Boniface margrave of Tuscany d. 1052  
 
-        +[Beatrice of Lorraine, duke of Tuscany](/woman/20.html)  
+        +[Beatrice of Lorraine, duke of Tuscany](https://epistolae.ctl.columbia.edu/woman/20.html)  
 
         |---Federico of Tuscany d. 1055  
 
         |---Beatrice of Tuscany d. 1053  
 
-        |---[Matilda of Tuscany, countess of Tuscany and duchess of Lorraine b. 1046, d. 1115](/woman/29.html)  
+        |---[Matilda of Tuscany, countess of Tuscany and duchess of Lorraine b. 1046, d. 1115](https://epistolae.ctl.columbia.edu/woman/29.html)  
 
             +Godfrey III the Hunchback duke of Lower Lorraine d. 1076  
 

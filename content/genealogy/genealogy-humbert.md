@@ -5,7 +5,7 @@ type: "post"
 section: "genealogy"
 created: "2021-06-24"
 modified: "2021-07-13"
-url: "content/genealogy-humbert"
+url: "/content/genealogy-humbert"
 ---
 ## Table 5: Descendants of Humbert I, Count of Savoy
 
@@ -14,17 +14,17 @@ Humbert I, count of Savoy d. 1047-1048
 
 |---Amadeus I count of Savoy b. 1000, d. 1052  
 
-|   +[Adelgida/Adela](/woman/25331.html)  
+|   +[Adelgida/Adela](https://epistolae.ctl.columbia.edu/woman/25331.html)  
 
 |---Otto Count of Savoy b. Cir 1023, d. Cir 1057-1060  
 
-|   +[Adelaide of Turin and Susa d. 1091](/woman/105.html)  
+|   +[Adelaide of Turin and Susa d. 1091](https://epistolae.ctl.columbia.edu/woman/105.html)  
 
 |   |---Peter I Count of Savoy d. 1078  
 
-|   |   +[Agnes of Aquitaine countess of Savoy](/woman/25340.html)  
+|   |   +[Agnes of Aquitaine countess of Savoy](https://epistolae.ctl.columbia.edu/woman/25340.html)  
 
-|   |   |---[Agnes of Savoy margravine of Turin and Susa](/woman/25350.html)  
+|   |   |---[Agnes of Savoy margravine of Turin and Susa](https://epistolae.ctl.columbia.edu/woman/25350.html)  
 
 |   |       +Frederick of Montbéliard margrave of Turin d. 1091  
 
@@ -52,17 +52,17 @@ Humbert I, count of Savoy d. 1047-1048
 
 |   |           |---Louis VII King of France b. 1120, d. 1180  
 
-|   |           |   +[Eleanor of Aquitaine b. 1122, d. 1204](/woman/24.html)  
+|   |           |   +[Eleanor of Aquitaine b. 1122, d. 1204](https://epistolae.ctl.columbia.edu/woman/24.html)  
 
 |   |           |   +Constance of Castile queen of France d. 1160  
 
-|   |           |   +[Adela of Champagne Queen of France d. 1206](/woman/32.html)  
+|   |           |   +[Adela of Champagne Queen of France d. 1206](https://epistolae.ctl.columbia.edu/woman/32.html)  
 
 |   |           |---Henry Archbishop of Rheims d. 1175  
 
 |   |           |---Robert Count of Dreux d. 1188  
 
-|   |           |---[Constance of France Countess of Toulouse d. 1176](/woman/3.html)  
+|   |           |---[Constance of France Countess of Toulouse d. 1176](https://epistolae.ctl.columbia.edu/woman/3.html)  
 
 |   |           |   +Eustace IV Count of Boulogne d. 1153  
 
@@ -98,13 +98,13 @@ Humbert I, count of Savoy d. 1047-1048
 
 |   |   |---Henry V Emperor d. 1125  
 
-|   |       +[Matilda of England Empress, Countess of Anjou d. 1167](/woman/27.html)  
+|   |       +[Matilda of England Empress, Countess of Anjou d. 1167](https://epistolae.ctl.columbia.edu/woman/27.html)  
 
 |   |---Adelaide of Savoy Duchess of Swabia d. 1079  
 
 |       +Rudolf I of Swabia and anti-king of Germany d. 1080  
 
-|       |---[Adelaide of Swabia queen of Hungary](/woman/152.html)  
+|       |---[Adelaide of Swabia queen of Hungary](https://epistolae.ctl.columbia.edu/woman/152.html)  
 
 |           +Ladislaus I king of Hungary b. 1040, d. 1095  
 
@@ -112,25 +112,25 @@ Humbert I, count of Savoy d. 1047-1048
 
 |               +John II Comnenus emperor of Byzantium   
 
-|---[Ermengarde of Savoy queen of Burgundy](/woman/25311.html)  
+|---[Ermengarde of Savoy queen of Burgundy](https://epistolae.ctl.columbia.edu/woman/25311.html)  
 
     +Rothbold III of Provence   
 
     |---William III count of Provence d. 1037  
 
-    |---[Emma of Provence countess of Toulouse](/woman/25809.html)  
+    |---[Emma of Provence countess of Toulouse](https://epistolae.ctl.columbia.edu/woman/25809.html)  
 
         +William III count of Toulouse   
 
         |---Pons II Count of Toulouse   
 
-            +[Almodis of la Marche d. 1071](/woman/25529.html)  
+            +[Almodis of la Marche d. 1071](https://epistolae.ctl.columbia.edu/woman/25529.html)  
 
             |---William IV Count of Toulouse d. 1094  
 
-            |   +[Emma of Mortain countess of Toulouse](/woman/25740.html)  
+            |   +[Emma of Mortain countess of Toulouse](https://epistolae.ctl.columbia.edu/woman/25740.html)  
 
-            |   |---[Philippa countess of Toulouse and duchess of Aquitaine d. 1118](/woman/25734.html)  
+            |   |---[Philippa countess of Toulouse and duchess of Aquitaine d. 1118](https://epistolae.ctl.columbia.edu/woman/25734.html)  
 
             |       +William IX Duke of Aquitaine d. 1127  
 
