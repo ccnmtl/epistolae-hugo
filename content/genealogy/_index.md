@@ -1,0 +1,5 @@
+---
+url: "/genealogy"
+title: "Genealogy"
+---
+

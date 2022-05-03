@@ -1,0 +1,36 @@
+{{ $pag := $.Paginator }}
+{{ if gt $pag.TotalPages 1 }}
+<nav class="list-pager-nav" aria-label="Page navigation">
+<div class="pager-indicator">Page {{$.Paginator.PageNumber }} of {{ $pag.TotalPages }}</div>
+<ul class="pagination justify-content-center">
+    {{ with $pag.First }}
+        <li class="page-item
+        {{- if not $pag.HasPrev }} first active{{ end -}}">
+        <a class="page-link" href="{{ .URL }}" aria-label="First page"><i class="fas fa-step-backward"></i><span aria-hidden="true" class="d-none d-md-inline">First</span></a>
+        </li>
+    {{ end }}
+        <li class="page-item
+        {{- if not $pag.HasPrev }} disabled{{ end -}}">
+        <a class="page-link" href="{{ if $pag.HasPrev }}{{ $pag.Prev.URL }}{{ end }}" aria-label="Previous page"><i class="fas fa-lg fa-caret-left"></i> <span aria-hidden="true" class="d-none d-md-inline">Previous</span></a>
+        </li>
+    {{ range $index, $element := $pag.Pagers }}
+    {{ $less := lt (sub $pag.PageNumber $index) 3 }}
+    {{ $more := gt (sub $pag.PageNumber $index) -3 }}
+    {{ if and $less $more }}
+        <li class="page-item numpage
+        {{- if eq $element $pag }} active{{ end -}}"><a class="page-link" aria-label="Page {{ $element.PageNumber }}" href="{{ $element.URL }}"><span aria-hidden="true">{{ $element.PageNumber }}</span></a></li>
+    {{ end }}
+    {{ end }}
+        <li class="page-item
+        {{ if not $pag.HasNext }} disabled{{ end }}">
+        <a class="page-link" href="{{ if $pag.HasNext }}{{ $pag.Next.URL }}{{ end }}" aria-label="Next page"><span aria-hidden="true" class="d-none d-md-inline">Next</span> <i class="fas fa-lg fa-caret-right"></i></a>
+        </li>
+    {{ with $pag.Last }}
+        <li class="page-item
+        {{ if not $pag.HasNext }} last active{{ end }}">
+        <a class="page-link" href="{{ .URL }}" aria-label="Last page"><span aria-hidden="true" class="d-none d-md-inline">Last</span> <i class="fas fa-step-forward"></i></a>
+        </li>
+    {{ end }}
+</ul>
+</nav>
+{{ end }}

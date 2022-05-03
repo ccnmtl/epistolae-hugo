@@ -1,0 +1,36 @@
+{{ "<!-- Twitter -->" | safeHTML }}
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@ctldevteam" />
+<meta name="twitter:title" content="
+    {{- if .IsHome -}}
+        {{- .Site.Title -}}
+    {{- else -}}
+        {{- .Title }} — {{ .Site.Params.shortTitle -}}
+    {{- end -}}" />
+<meta name="twitter:description" content='
+    {{- if (and .IsPage (eq .Type "post")) -}}
+        {{- if .Params.lede -}}
+            {{- .Date.Format "Jan 2, 2006" }} — {{ .Params.lede -}}
+        {{- else -}}
+            {{- .Date.Format "Jan 2, 2006" }} — {{ .Summary -}}
+        {{- end -}}
+    {{- else -}}
+        {{- .Site.Params.description -}}
+    {{- end -}}' />
+{{ if (and .IsPage (eq .Type "post")) -}}
+    {{- if.Params.socmediaimg -}}
+        <meta name="twitter:image" content="{{- .Site.BaseURL -}}img/assets/{{- .Params.socmediaimg -}}" />
+        <meta name="twitter:image:alt" content="A poster image for {{ .Title }}" />
+    {{- else -}}
+        <meta name="twitter:image" content="
+            {{- if.Params.poster -}}
+                {{- .Site.BaseURL -}}img/assets/{{- .Params.poster -}}
+            {{- else -}}
+                {{- .Site.BaseURL -}}img/og-compiled-image.png
+            {{- end -}}" />
+        <meta name="twitter:image:alt" content="A poster image for {{ .Title }}" />
+    {{- end -}}
+{{ else -}}
+    <meta name="twitter:image" content="{{- .Site.BaseURL -}}img/og-compiled-image.png" />
+    <meta name="twitter:image:alt" content="A poster image of CompilED banner" />
+{{- end }}

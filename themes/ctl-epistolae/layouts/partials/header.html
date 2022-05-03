@@ -1,0 +1,32 @@
+  <head>
+    <title>{{ if .IsHome }}{{ .Site.Title }}{{ else }}{{ .Site.Params.shortTitle }}: {{ .Title }}{{ end }}</title>
+
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    {{ .Hugo.Generator }}
+
+    {{ "<!-- Bootstrap CSS -->" | safeHTML }}
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/bootstrap-4.3.1/css/bootstrap.min.css">
+
+    {{ "<!-- Theme CSS -->" | safeHTML }}    
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/main.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/paginator.css" />
+    <link rel="stylesheet" href="{{ .Site.BaseURL }}css/print.css" />
+    <meta name="theme-color" content="#d4e3fc">
+
+    {{ "<!-- CSS for cookie policy -->" | safeHTML }}
+    <link rel="stylesheet" href="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.css" />
+
+    {{ partial "seo.html" . }}
+
+    {{ partial "favicon.html" . }}
+
+    {{ partial "opengraph.html" . }}
+
+    {{ partial "twitter.html" . }}
+
+    {{ partial "json-ld.html" . }}
+
+  </head>

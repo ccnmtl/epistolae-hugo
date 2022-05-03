@@ -1,0 +1,10 @@
+name = "CTL CompilED Theme"
+license = "GNU GPLv3"
+description = "A theme used for CompilED blog at the Columbia University Center for Teaching and Learning."
+tags = []
+features = []
+min_version = "0.25.1"
+
+[author]
+  name = "Zarina Mustapha"
+  homepage = "https://ctl.columbia.edu"

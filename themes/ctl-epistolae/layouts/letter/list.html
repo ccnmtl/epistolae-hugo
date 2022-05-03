@@ -1,0 +1,19 @@
+<!doctype html>
+<html lang="en">
+{{ partial "header.html" . }}
+<body itemscope itemtype="http://schema.org/BlogPosting" class="default-list-view">
+{{ partial "banner.html" . }}
+<main class="container" id="maincontent" aria-labelledby="pageContentTitle">
+    <h1 class="list-view-title" id="pageContentTitle">Letters</h1>
+
+    {{ $paginator := .Paginate .Data.Pages }}
+
+    {{ range $paginator.Pages }}
+        {{ .Render "summary" }}
+    {{ end }}
+    {{partial "pagination.html" .}}
+</main>
+{{ partial "footer.html" . }}
+{{ partial "javascript.html" . }}
+</body>
+</html>
