@@ -10,7 +10,7 @@ url: "content/genealogy-immilla"
 ## Table 4.2: House of Canossa -- the Later Generations: Line of Immilla of Turin
 
 
-[Immilla of Turin d. 1078](https://epistolae.ctl.columbia.edu/woman/128.html)  
+[Immilla of Turin d. 1078](/woman/128.html)  
 
 +Otto III of Schweinfurt duke of Swabia   
 
@@ -54,7 +54,7 @@ url: "content/genealogy-immilla"
 
                 |               +Salomea of Pomerania   
 
-                |               |---[Fenenna of Kuyavia queen of Hungary d. 1295](https://epistolae.ctl.columbia.edu/woman/26288.html)  
+                |               |---[Fenenna of Kuyavia queen of Hungary d. 1295](/woman/26288.html)  
 
                 |                   +Andrew III king of Hungary d. 1301  
 
@@ -110,7 +110,7 @@ url: "content/genealogy-immilla"
 
                 |   |---Bela IV king of Hungary b. 1206, d. 1270  
 
-                |   |   +[Maria Laskarina b. Cir 1206, d. 1270](https://epistolae.ctl.columbia.edu/woman/26208.html)  
+                |   |   +[Maria Laskarina b. Cir 1206, d. 1270](/woman/26208.html)  
 
                 |   |   |---Anna of Hungary duchess of Macso b. 1226  
 
@@ -134,7 +134,7 @@ url: "content/genealogy-immilla"
 
                 |   |   |---Stephen V king of Hungary b. Cir 1239, d. 1272  
 
-                |   |       +[Elisabeth of the Cumans queen of Hungary b. 1244, d. 1290](https://epistolae.ctl.columbia.edu/woman/26203.html)  
+                |   |       +[Elisabeth of the Cumans queen of Hungary b. 1244, d. 1290](/woman/26203.html)  
 
                 |   |       |---Catherine of Hungary queen of Serbia b. Cir 1256  
 
@@ -154,7 +154,7 @@ url: "content/genealogy-immilla"
 
                 |   |       |---Ladislaus IV the Cuman b. 1262, d. 1290  
 
-                |   |           +[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)  
+                |   |           +[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)  
 
                 |   |---Elizabeth of Hungary b. 1207, d. 1231  
 
@@ -162,7 +162,7 @@ url: "content/genealogy-immilla"
 
                 |   |---Coloman king of Halych and duke of Slavonia b. 1208, d. 1241  
 
-                |   |   +[Salomea of Little Poland b. 1211-1212, d. 1268](https://epistolae.ctl.columbia.edu/woman/26155.html)  
+                |   |   +[Salomea of Little Poland b. 1211-1212, d. 1268](/woman/26155.html)  
 
                 |   |---Andrew of Hungary prince of Halych b. Cir 1210, d. 1233  
 

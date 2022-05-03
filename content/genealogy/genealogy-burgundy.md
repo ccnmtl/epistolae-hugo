@@ -22,7 +22,7 @@ Robert Duke of Burgundy d. 1076
 
         +Raymond of Burgundy regent of Galicia b. Cir 1070, d. 1107  
 
-        |---[Sancha of Castile "Queen"](https://epistolae.ctl.columbia.edu/woman/164.html)  
+        |---[Sancha of Castile "Queen"](/woman/164.html)  
 
         |---Alfonso VII of Leon and Castile b. 1105, d. 1157  
 
@@ -38,13 +38,13 @@ Robert Duke of Burgundy d. 1076
 
             |       |---Bergengar of Castile d. 1246  
 
-            |       |---[Blanche of Castile d. 1252](https://epistolae.ctl.columbia.edu/woman/77.html)  
+            |       |---[Blanche of Castile d. 1252](/woman/77.html)  
 
             |       |   +Louis VIII King of France d. 1226  
 
             |       |   |---Louis IX King of France d. 1270  
 
-            |       |   |   +[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)[(\*\*)](#n73.2)  
+            |       |   |   +[Marguerite of Provence Queen of France d. 1295](/woman/73.html)[(\*\*)](#n73.2)  
 
             |       |   |   |---Isabel of France b. 1241, d. 1271  
 
@@ -94,7 +94,7 @@ Robert Duke of Burgundy d. 1076
 
             |       |       |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-            |       |       |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)[(\*\*)](#n26192.2)  
+            |       |       |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)[(\*\*)](#n26192.2)  
 
             |       |           +Ladislaus IV the Cuman b. 1262, d. 1290  
 
@@ -122,13 +122,13 @@ Robert Duke of Burgundy d. 1076
 
                 +Sancho VI king of Navarre b. 1132, d. 1194  
 
-                |---[Berengaria of Navarre queen of England d. 1230](https://epistolae.ctl.columbia.edu/woman/79.html)  
+                |---[Berengaria of Navarre queen of England d. 1230](/woman/79.html)  
 
                 |   +Richard I Lionheart King of England b. 1157, d. 1199  
 
                 |---Sancho VII king of Navarre b. 1157, d. 1234  
 
-                |---[Blanche of Navarre countess of Champagne d. 1229](https://epistolae.ctl.columbia.edu/woman/78.html)  
+                |---[Blanche of Navarre countess of Champagne d. 1229](/woman/78.html)  
 
                     +Thibaut III count of Champagne d. 1201  
 
@@ -142,13 +142,13 @@ Robert Duke of Burgundy d. 1076
 
             +Richeza of Poland b. Cir 1140, d. 1185  
 
-            |---[Sancha of Castile queen of Aragon b. 1154-1155, d. 1208](https://epistolae.ctl.columbia.edu/woman/26375.html)  
+            |---[Sancha of Castile queen of Aragon b. 1154-1155, d. 1208](/woman/26375.html)  
 
                 +Alfonso II king of Aragon b. 1157, d. 1196  
 
                 |---Peter II king of Aragon b. 1178, d. 1213  
 
-                |   +[Marie of Montpellier Queen of Aragon d. 1213](https://epistolae.ctl.columbia.edu/woman/156.html)  
+                |   +[Marie of Montpellier Queen of Aragon d. 1213](/woman/156.html)  
 
                 |   |---James I king of Aragon b. 1208, d. 1276  
 
@@ -184,9 +184,9 @@ Robert Duke of Burgundy d. 1076
 
                 |   |---Ramon-Bergenguer IV/V Count of Provence b. 1198, d. 1245  
 
-                |       +[Beatrice of Savoy b. 1198, d. 1267](https://epistolae.ctl.columbia.edu/woman/69.html)  
+                |       +[Beatrice of Savoy b. 1198, d. 1267](/woman/69.html)  
 
-                |       |---[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)[(\*\*)](#n73)  
+                |       |---[Marguerite of Provence Queen of France d. 1295](/woman/73.html)[(\*\*)](#n73)  
 
                 |       |   +Louis IX King of France d. 1270  
 
@@ -224,7 +224,7 @@ Robert Duke of Burgundy d. 1076
 
                 |       |       +Robert II duke of Burgundy b. 1248, d. 1306  
 
-                |       |---[Eleanor of Provence Queen of England d. 1291](https://epistolae.ctl.columbia.edu/woman/76.html)  
+                |       |---[Eleanor of Provence Queen of England d. 1291](/woman/76.html)  
 
                 |       |   +Henry III King of England d. 1272  
 
@@ -240,7 +240,7 @@ Robert Duke of Burgundy d. 1076
 
                 |       |   |---Edmund Earl of Lancaster b. 1245, d. 1296  
 
-                |       |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](https://epistolae.ctl.columbia.edu/woman/70.html)  
+                |       |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](/woman/70.html)  
 
                 |       |   +Richard Earl of Cornwall, King of Germany d. 1272  
 
@@ -254,7 +254,7 @@ Robert Duke of Burgundy d. 1076
 
                 |           |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-                |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)[(\*\*)](#n26192)  
+                |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)[(\*\*)](#n26192)  
 
                 |               +Ladislaus IV the Cuman b. 1262, d. 1290  
 
