@@ -62,7 +62,7 @@ p {
 }
 
 .site-header {
-    margin-bottom: 0;
+    margin-bottom: 3rem;
     background-color: #f0d390;
     background-image: -webkit-linear-gradient(top,#f0d390 0%,#ead5a7 100%);
 }
@@ -360,9 +360,6 @@ footer {
 
 /* Large devices (desktops, 992px and up) */
 @media (min-width: 992px) {
-    .site-header {
-        margin-bottom: 3rem;
-    }
     .footer-info {
         padding: 0 5rem;
     }
