@@ -8,9 +8,11 @@
 
     {{ $paginator := .Paginate .Data.Pages }}
 
+    <table class="table table-bordered table-sm">
     {{ range $paginator.Pages }}
         {{ .Render "summary" }}
     {{ end }}
+    </table>
     {{partial "pagination.html" .}}
 </main>
 {{ partial "footer.html" . }}
