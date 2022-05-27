@@ -14,6 +14,11 @@ clean:
 	rm -rf $(PUBLIC)/*
 	rm -rf node_modules/*
 
+clean-content:
+	rm -rf content/people/*.html.md
+	rm -rf content/woman/*.html.md
+	rm -rf content/letter/*.html.md
+
 $(PUBLIC)/js/all.json: $(PUBLIC)/json/all/index.html
 	mkdir $(PUBLIC)/js/ || true
 	mv $< $@ && ./checkjson.py
