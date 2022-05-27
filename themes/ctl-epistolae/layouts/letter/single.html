@@ -10,21 +10,28 @@
 
         <div>
             <h2>Sender</h2>
-            {{ range .Params.senders }}
-                <a href="/woman/{{.id}}.html">
-                    {{ .name }}
-                </a><br />
+            {{ if .Params.senders }}
+                {{ with .Params.senders }}
+                    {{ range sort . "iname" }}
+                        <a href="/{{.type}}/{{.id}}.html">
+                            {{ .name }}
+                        </a><br />
+                    {{ end }}
+                {{ end }}
             {{ end }}
-
             <h2 class="mt-4">Receiver</h2>
-            {{ range .Params.receivers }}
-                <a href="/woman/{{.id}}.html">
-                    {{ .name }}
-                </a><br />
+            {{ if .Params.receivers }}
+                {{ with .Params.receivers }}
+                    {{ range sort . "iname" }}
+                        <a href="/{{.type}}/{{.id}}.html">
+                            {{ .name }}
+                        </a><br />
+                    {{ end }}
+                {{ end }}
             {{ end }}
 
             <div class="mt-4">
-            {{ .Content }}
+                {{ .Content }}
             </div>
         </div>
     </main>

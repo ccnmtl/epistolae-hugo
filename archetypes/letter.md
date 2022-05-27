@@ -1,16 +1,19 @@
 ---
+letter_id: "{{letter_id}}"
 title: "{{ replace .TranslationBaseName "-" " " | title }}"
 ititle: "{{ replace .TranslationBaseName "-" " " | ititle }}"
+ltr_date: "{{ descriptive date string }}"
+draft: true
+type: "letter"
 created: {{ dateFormat "2006-01-02" .Date }}
 modified: {{ dateFormat "2006-01-02" .Date }}
-draft: true
-type: "post"
-section: "letters"
 url: "/letter/{{id}}"
 senders:
-- id: {{sender_id}}
+- id: {{woman_id | person_id}}
   name: {{name}}
+  type: {{type}}
 receivers:
-- id: {{sender_id}}
+- id: {{woman_id}}
   name: {{name}}
+  type: {{type}}
 ---
