@@ -1,0 +1,18 @@
+<tr>
+    <td><a href="{{ .URL }}" itemprop="url"><span itemprop="headline">{{ .Title }}</span></a></td>
+    <td>
+        {{ range .Params.sent }}
+            <a href="/letter/{{.letter_id}}.html">
+                {{ .name }}
+            </a><br />
+        {{ end }}
+    </td>
+    <td>
+        {{ range .Params.received }}
+            <a href="/woman/{{.letter_id}}.html">
+                {{ .name }}
+            </a><br />
+        {{ end }}
+    </td>
+    <td>{{ .Params.ltr_date }}</td>
+</tr>

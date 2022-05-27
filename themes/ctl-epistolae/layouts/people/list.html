@@ -4,22 +4,14 @@
 <body itemscope itemtype="http://schema.org/BlogPosting" class="default-list-view">
 {{ partial "banner.html" . }}
 <main class="container" id="maincontent" aria-labelledby="pageContentTitle">
-    <h1 class="list-view-title" id="pageContentTitle">Women</h1>
+    <h1 class="list-view-title" id="pageContentTitle">People</h1>
 
     {{ $paginator := .Paginate (.Data.Pages.ByParam "ititle") }}
 
     <table class="table table-bordered table-sm">
-        <thead>
-            <th>Name</th>
-            <th>Title</th>
-            <th>Date of Birth</th>
-            <th>Date of Death</th>
-        </thead>
-        <tbody>
-            {{ range ($paginator.Pages.ByParam "ititle") }}
-                {{ .Render "summary" }}
-            {{ end }}
-        </tbody>
+    {{ range ($paginator.Pages.ByParam "ititle") }}
+        {{ .Render "summary" }}
+    {{ end }}
     </table>
 
     {{partial "pagination.html" .}}
