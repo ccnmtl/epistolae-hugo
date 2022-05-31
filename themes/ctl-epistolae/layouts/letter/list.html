@@ -6,11 +6,14 @@
 <main class="container" id="maincontent" aria-labelledby="pageContentTitle">
     <h1 class="list-view-title" id="pageContentTitle">Letters</h1>
 
-    {{ $paginator := .Paginate .Data.Pages }}
+    {{ $paginator := .Paginate (.Data.Pages.ByParam "ititle") }}
 
-    {{ range $paginator.Pages }}
+    <table class="table table-bordered table-sm">
+    {{ range ($paginator.Pages.ByParam "ititle") }}
         {{ .Render "summary" }}
     {{ end }}
+    </table>
+
     {{partial "pagination.html" .}}
 </main>
 {{ partial "footer.html" . }}

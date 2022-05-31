@@ -31,7 +31,7 @@
                 </a>
             </li>
             <li class="nav-item">
-                <a class="nav-link {{ if eq .Title "Letters" }}active{{ end }}" itemprop="url" href="/letters/">
+                <a class="nav-link {{ if or (eq .Title "Letters") (eq .Params.type "letter") }}active{{ end }}" itemprop="url" href="/letters/">
                     <span itemprop="name">Letters</span>
                 </a>
             </li>
