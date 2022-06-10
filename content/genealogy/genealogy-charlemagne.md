@@ -30,7 +30,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
 |                       +Hedvig of Germany   
 
-|                       |---[Beatrice countess/duke of Upper Lorraine](https://epistolae.ctl.columbia.edu/woman/2.html)  
+|                       |---[Beatrice countess/duke of Upper Lorraine](/woman/2.html)  
 
 |                       |   +Frederic I of Upper Lorraine d. 978  
 
@@ -40,13 +40,13 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
 |                       |       |---Frederick II of Upper Lorraine d. 1026  
 
-|                       |           +[Matilda of Swabia](https://epistolae.ctl.columbia.edu/woman/13.html)[(\*\*)](#n13.2)  
+|                       |           +[Matilda of Swabia](/woman/13.html)[(\*\*)](#n13.2)  
 
 |                       |---Otto Duke of Burgundy d. 965  
 
 |                       |---Hugh Capet Duke of the Franks, King of France d. 996  
 
-|                       |   +[Adelaide of Aquitaine](https://epistolae.ctl.columbia.edu/woman/1.html)  
+|                       |   +[Adelaide of Aquitaine](/woman/1.html)  
 
 |                       |   |---Robert II the Pious King of France d. 1031  
 
@@ -60,9 +60,9 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
 |                       |       |---Henry I King of France d. 1060  
 
-|                       |       |   +[Anne of Kiev d. 1075](https://epistolae.ctl.columbia.edu/woman/116.html)  
+|                       |       |   +[Anne of Kiev d. 1075](/woman/116.html)  
 
-|                       |       |---[Adela/Adelaide countess of Flanders d. 1079](https://epistolae.ctl.columbia.edu/woman/37.html)[(\*\*)](#37.2)  
+|                       |       |---[Adela/Adelaide countess of Flanders d. 1079](/woman/37.html)[(\*\*)](#37.2)  
 
 |                       |       |   +Richard III of Normandy d. 1027  
 
@@ -84,23 +84,23 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
     |---Lothair I king of Middle Francia and Italy and Emperor b. 795, d. 855  
 
-    |   +[Ermengard of Tours Empress b. 800, d. 851](https://epistolae.ctl.columbia.edu/woman/94.html)  
+    |   +[Ermengard of Tours Empress b. 800, d. 851](/woman/94.html)  
 
     |   |---Louis II of Italy Emperor b. 825, d. 875  
 
-    |   |   +[Angelberga of Italy Empress d. 896-901](https://epistolae.ctl.columbia.edu/woman/103.html)  
+    |   |   +[Angelberga of Italy Empress d. 896-901](/woman/103.html)  
 
     |   |   |---Ermengard queen of Provence   
 
     |   |       +Boso of Vienne king of Provence   
 
-    |   |---[Bertha abbess of Avenay](https://epistolae.ctl.columbia.edu/woman/103.html)  
+    |   |---[Bertha abbess of Avenay](/woman/103.html)  
 
     |   |---Lothair II king of Lotharingia b. 835, d. 869  
 
-    |       +[Theutberga queen of Lotharingia d. 875](https://epistolae.ctl.columbia.edu/woman/99.html)  
+    |       +[Theutberga queen of Lotharingia d. 875](/woman/99.html)  
 
-    |       +[Waldrada](https://epistolae.ctl.columbia.edu/woman/100.html)  
+    |       +[Waldrada](/woman/100.html)  
 
     |---Pepin king of Aquitaine b. 797, d. 838  
 
@@ -132,9 +132,9 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |---Charles III the Fat Emperor b. 839, d. 888  
 
-            +[Richardis of Alsace d. 894-896](https://epistolae.ctl.columbia.edu/woman/106.html)  
+            +[Richardis of Alsace d. 894-896](/woman/106.html)  
 
-    +[Judith of Bavaria Empress b. 797, d. 843](https://epistolae.ctl.columbia.edu/woman/21725.html)  
+    +[Judith of Bavaria Empress b. 797, d. 843](/woman/21725.html)  
 
     |---Gisela b. 820  
 
@@ -164,11 +164,11 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
     |                       |---Baldwin V Count of Flanders d. 1067  
 
-    |                           +[Adela/Adelaide countess of Flanders d. 1079](https://epistolae.ctl.columbia.edu/woman/37.html)[(\*\*)](#n37.3)  
+    |                           +[Adela/Adelaide countess of Flanders d. 1079](/woman/37.html)[(\*\*)](#n37.3)  
 
     |                           |---Baldwin VI Count of Flanders d. 1070  
 
-    |                           |---[Matilda of Flanders Queen of England d. 1083](https://epistolae.ctl.columbia.edu/woman/18.html)  
+    |                           |---[Matilda of Flanders Queen of England d. 1083](/woman/18.html)  
 
     |                           |   +William I “the Conqueror" King of England b. 1028, d. 1087  
 
@@ -180,7 +180,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
     |---Charles the Bald king of West Francia and Italy and Emperor b. 823, d. 877  
 
-        +[Ermentrud of Orleans queen of the Franks b. 823, d. 869](https://epistolae.ctl.columbia.edu/woman/96.html)  
+        +[Ermentrud of Orleans queen of the Franks b. 823, d. 869](/woman/96.html)  
 
         |---Judith of Flanders queen of Wessex and margravine of Flanders b. Cir 843, d. Cir 870  
 
@@ -200,7 +200,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |       |   |---Baldwin III count of Flanders b. Cir 940, d. 962  
 
-        |       |       +[Matilda of Saxony countess of Flanders and Verdun d. 1008](https://epistolae.ctl.columbia.edu/woman/17.html)  
+        |       |       +[Matilda of Saxony countess of Flanders and Verdun d. 1008](/woman/17.html)  
 
         |       |       |---Arnulf II count of Flanders b. 960-961, d. 987  
 
@@ -212,7 +212,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |       |               |---Baldwin V Count of Flanders d. 1067  
 
-        |       |                   +[Adela/Adelaide countess of Flanders d. 1079](https://epistolae.ctl.columbia.edu/woman/37.html)[(\*\*)](#n37)  
+        |       |                   +[Adela/Adelaide countess of Flanders d. 1079](/woman/37.html)[(\*\*)](#n37)  
 
         |       |               +Eleanor of Normandy d. 1071  
 
@@ -238,7 +238,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |           |---Lothair King of France d. 986  
 
-        |           |   +[Emma of Italy d. After 987](https://epistolae.ctl.columbia.edu/woman/4.html)  
+        |           |   +[Emma of Italy d. After 987](/woman/4.html)  
 
         |           |   |---Louis V King of France d. 987  
 
@@ -258,17 +258,17 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |               |---Rudolf III King of Burgundy d. 1032  
 
-        |               |   +[Ermengarde of Savoy queen of Burgundy](https://epistolae.ctl.columbia.edu/woman/25311.html)  
+        |               |   +[Ermengarde of Savoy queen of Burgundy](/woman/25311.html)  
 
         |               |---Gerberga of Burgundy d. 1018-1019  
 
         |               |   +Herman II Duke of Swabia d. 1003  
 
-        |               |   |---[Matilda of Swabia](https://epistolae.ctl.columbia.edu/woman/13.html)[(\*\*)](#n13)  
+        |               |   |---[Matilda of Swabia](/woman/13.html)[(\*\*)](#n13)  
 
         |               |   |   +Frederick II of Upper Lorraine d. 1026  
 
-        |               |   |   |---[Beatrice of Lorraine, duke of Tuscany](https://epistolae.ctl.columbia.edu/woman/20.html)  
+        |               |   |   |---[Beatrice of Lorraine, duke of Tuscany](/woman/20.html)  
 
         |               |   |   |   +Boniface margrave of Tuscany d. 1052  
 
@@ -288,7 +288,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |               |           +Kunegund of England d. 1038  
 
-        |               |           +[Agnes of Poitiers (Aia) d. 1077](https://epistolae.ctl.columbia.edu/woman/23.html)  
+        |               |           +[Agnes of Poitiers (Aia) d. 1077](/woman/23.html)  
 
         |               |---Bertha of Burgundy Queen of France   
 
@@ -314,7 +314,7 @@ Charlemagne king of the Franks and Lombards and Emperor b. 748, d. 814
 
         |---Ermentrud/Gisela Nun   
 
-        +[Richild of Lotharingia queen of West Francia and Empress b. Cir 845, d. 910](https://epistolae.ctl.columbia.edu/woman/101.html)  
+        +[Richild of Lotharingia queen of West Francia and Empress b. Cir 845, d. 910](/woman/101.html)  
 
         |---Rothilde of West Francia b. 871, d. 928-929  
 
