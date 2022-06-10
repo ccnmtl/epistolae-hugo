@@ -1,5 +1,4 @@
-<script src="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.js"></script>    
-<header class="site-header container-fluid">
+<script src="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.js"></script>
     {{ if .IsHome }}
     <h1 class="sr-only"><span itemprop="name">Epistolae</span>: Home Page</h1>
     {{ end }}
@@ -7,18 +6,15 @@
         <span class="skippy-text">Skip to main content</span>
     </a>
     <div class="d-none d-print-block header-print-url">epistolae.ctl.columbia.edu</div>
-    <div class="container">
-        <div class="row" id="front-page-logo">
-            <div class="col-md-6">
-                <img class="banner-left-logo" src="{{ .Site.BaseURL }}img/banner-left-logo.png" srcset="{{ .Site.BaseURL }}img/banner-left-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
-                <span class="sr-only" itemprop="name">Epistolae</span>
-            </div>
-            <div class="col-md-6">
-                <img class="banner-right-logo" src="{{ .Site.BaseURL }}img/banner-right-logo.png" srcset="{{ .Site.BaseURL }}img/banner-right-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
-                <span class="sr-only" itemprop="name">Epistolae</span>
-            </div>
-        </div>
 
+    <header class="site-header epistolae-container">
+        <div id="front-page-logo">
+            <img class="banner-left-logo" src="{{ .Site.BaseURL }}img/banner-left-logo.png" srcset="{{ .Site.BaseURL }}img/banner-left-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
+            <img class="banner-right-logo" src="{{ .Site.BaseURL }}img/bg_public_headerh2.gif" srcset="{{ .Site.BaseURL }}img/banner-right-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
+        </div>
+        <div class="clearfix"></div>
+    </header>
+    <div class="epistolae-container">
         <ul class="nav nav-tabs">
             <li class="nav-item">
                 <a class="nav-link {{ if eq .Title "Epistolae" }}active{{ end }}" itemprop="url" href="/">
@@ -52,4 +48,3 @@
             </li>
         </ul>
     </div>
-</header>
