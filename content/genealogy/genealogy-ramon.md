@@ -12,7 +12,7 @@ url: "/content/genealogy-ramon"
 
 Ramon Borrell count of Barcelona   
 
-+[Ermessenda of Carcassonne b. 975-978, d. 1058](https://epistolae.ctl.columbia.edu/woman/25669.html)  
++[Ermessenda of Carcassonne b. 975-978, d. 1058](/woman/25669.html)  
 
 |---Berenguer Ramon I count of Barcelona b. 1005, d. 1035  
 
@@ -20,11 +20,11 @@ Ramon Borrell count of Barcelona
 
     |---Ramon-Berenguer I Count of Barcelona d. 1076  
 
-        +[Elizabeth of Barcelona d. 1050](https://epistolae.ctl.columbia.edu/woman/26347.html)  
+        +[Elizabeth of Barcelona d. 1050](/woman/26347.html)  
 
         |---Peter Raymond of Barcelona b. 1050  
 
-        +[Almodis of la Marche d. 1071](https://epistolae.ctl.columbia.edu/woman/25529.html)  
+        +[Almodis of la Marche d. 1071](/woman/25529.html)  
 
         |---Berenguer Ramon II Count of Barcelona d. 1097-1099  
 
@@ -34,19 +34,19 @@ Ramon Borrell count of Barcelona
 
         |   |---Ramon Berenguer III Count of Barcelona and Provence b. 1082, d. 1131  
 
-        |       +[Douce of Gévaudan countess of Barcelona and Provence d. 1127](https://epistolae.ctl.columbia.edu/woman/25685.html)  
+        |       +[Douce of Gévaudan countess of Barcelona and Provence d. 1127](/woman/25685.html)  
 
         |       |---Ramon Berenguer IV Count of Barcelona b. 1114, d. 1162  
 
-        |       |   +[Petronilla of Aragon b. 1136, d. 1173](https://epistolae.ctl.columbia.edu/woman/26069.html)  
+        |       |   +[Petronilla of Aragon b. 1136, d. 1173](/woman/26069.html)  
 
         |       |   |---Alfonso II king of Aragon b. 1157, d. 1196  
 
-        |       |   |   +[Sancha of Castile b. 1154-1155, d. 1208](https://epistolae.ctl.columbia.edu/woman/26375.html)  
+        |       |   |   +[Sancha of Castile b. 1154-1155, d. 1208](/woman/26375.html)  
 
         |       |   |   |---Peter II king of Aragon b. 1178, d. 1213  
 
-        |       |   |   |   +[Marie of Montpellier Queen of Aragon d. 1213](https://epistolae.ctl.columbia.edu/woman/156.html)  
+        |       |   |   |   +[Marie of Montpellier Queen of Aragon d. 1213](/woman/156.html)  
 
         |       |   |   |   |---James I king of Aragon b. 1208, d. 1276  
 
@@ -82,7 +82,7 @@ Ramon Borrell count of Barcelona
 
         |       |   |   |   |---Ramon-Bergenguer IV/V Count of Provence b. 1198, d. 1245  
 
-        |       |   |   |       +[Beatrice of Savoy b. 1198, d. 1267](https://epistolae.ctl.columbia.edu/woman/69.html)  
+        |       |   |   |       +[Beatrice of Savoy b. 1198, d. 1267](/woman/69.html)  
 
         |       |   |   |       |---Marguerite of Provence Queen of France d. 1295  
 
@@ -124,7 +124,7 @@ Ramon Borrell count of Barcelona
 
         |       |   |   |       |       +Robert II duke of Burgundy b. 1248, d. 1306  
 
-        |       |   |   |       |---[Eleanor of Provence Queen of England d. 1291](https://epistolae.ctl.columbia.edu/woman/76.html)  
+        |       |   |   |       |---[Eleanor of Provence Queen of England d. 1291](/woman/76.html)  
 
         |       |   |   |       |   +Henry III King of England d. 1272  
 
@@ -140,7 +140,7 @@ Ramon Borrell count of Barcelona
 
         |       |   |   |       |   |---Edmund Earl of Lancaster b. 1245, d. 1296  
 
-        |       |   |   |       |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](https://epistolae.ctl.columbia.edu/woman/70.html)  
+        |       |   |   |       |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](/woman/70.html)  
 
         |       |   |   |       |   +Richard Earl of Cornwall, King of Germany d. 1271  
 
@@ -154,7 +154,7 @@ Ramon Borrell count of Barcelona
 
         |       |   |   |           |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-        |       |   |   |           |---[Isabella/Elizabeth of Anjou b. 1264-1265, d. 1304](https://epistolae.ctl.columbia.edu/woman/26192.html)[(\*\*)](#n26192.2)  
+        |       |   |   |           |---[Isabella/Elizabeth of Anjou b. 1264-1265, d. 1304](/woman/26192.html)[(\*\*)](#n26192.2)  
 
         |       |   |   |               +Ladislaus IV the Cuman b. 1262, d. 1290  
 
@@ -178,13 +178,13 @@ Ramon Borrell count of Barcelona
 
         |       |   |   |---Ferdinand of Portugal Count of Flanders b. 1188, d. 1233  
 
-        |       |   |       +[Joan of Constantinople countess of Flanders d. 1244](https://epistolae.ctl.columbia.edu/woman/21739.html)  
+        |       |   |       +[Joan of Constantinople countess of Flanders d. 1244](/woman/21739.html)  
 
         |       |   |---Sancho count of Provence d. 1223  
 
         |       |---Berenguer Ramon I count of Provence b. Cir 1115, d. 1144  
 
-        |       |   +[Beatrice of Melgueil](https://epistolae.ctl.columbia.edu/woman/25729.html)  
+        |       |   +[Beatrice of Melgueil](/woman/25729.html)  
 
         |       |   |---Ramon Berenguer II count of Provence b. 1135, d. 1166  
 
@@ -202,13 +202,13 @@ Ramon Borrell count of Barcelona
 
         |       |   |       |---Bergengar of Castile d. 1244  
 
-        |       |   |       |---[Blanche of Castile d. 1252](https://epistolae.ctl.columbia.edu/woman/77.html)  
+        |       |   |       |---[Blanche of Castile d. 1252](/woman/77.html)  
 
         |       |   |       |   +Louis VIII King of France d. 1226  
 
         |       |   |       |   |---Louis IX King of France d. 1270  
 
-        |       |   |       |   |   +[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)  
+        |       |   |       |   |   +[Marguerite of Provence Queen of France d. 1295](/woman/73.html)  
 
         |       |   |       |   |   |---Isabel of France b. 1241, d. 1271  
 
@@ -260,7 +260,7 @@ Ramon Borrell count of Barcelona
 
         |       |   |       |       |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-        |       |   |       |       |---[Isabella/Elizabeth of Anjou b. 1264-1265, d. 1304](https://epistolae.ctl.columbia.edu/woman/26192.html)[(\*\*)](#n26192)  
+        |       |   |       |       |---[Isabella/Elizabeth of Anjou b. 1264-1265, d. 1304](/woman/26192.html)[(\*\*)](#n26192)  
 
         |       |   |       |           +Ladislaus IV the Cuman b. 1262, d. 1290  
 
@@ -288,13 +288,13 @@ Ramon Borrell count of Barcelona
 
         |       |       +Sancho VI king of Navarre b. 1132, d. 1194  
 
-        |       |       |---[Berengaria of Navarre queen of England d. Between 1230 and 1232](https://epistolae.ctl.columbia.edu/woman/79.html)  
+        |       |       |---[Berengaria of Navarre queen of England d. Between 1230 and 1232](/woman/79.html)  
 
         |       |       |   +Richard I Lionheart King of England b. 1157, d. 1199  
 
         |       |       |---Sancho VII king of Navarre b. 1157, d. 1234  
 
-        |       |       |---[Blanche of Navarre countess of Champagne d. 1229](https://epistolae.ctl.columbia.edu/woman/78.html)  
+        |       |       |---[Blanche of Navarre countess of Champagne d. 1229](/woman/78.html)  
 
         |       |           +Thibaut III count of Champagne d. 1201  
 
@@ -310,7 +310,7 @@ Ramon Borrell count of Barcelona
 
         |           +Ponce de Cervera viscount of Bas   
 
-        |---[Sancia of Barcelona](https://epistolae.ctl.columbia.edu/woman/25973.html)   
+        |---[Sancia of Barcelona](/woman/25973.html)   
 
         |   +William I Raymond Count of Cerdanya d. 1095  
 
