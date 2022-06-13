@@ -6,18 +6,24 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
     background: #ead5a7 url(../img/bg_public_body.jpg) top left no-repeat;
+    font-size: 1.1rem;
 }
 
 main a,
 footer a {
-    color: #06c;
+    color: #930;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #930;
 }
 
 a:focus, a:active {
     border: 0;
-    outline: 0.125rem solid #06c;
-    color: #fff !important;
-    background-color: #06c;
+    outline: 0.125rem dotted black;
+    color: #930;
+    background-color: #fcfaf4;
 }
 
 h1, h2, h3, .h1, .h2, .h3 {
@@ -47,6 +53,13 @@ p {
 .epistolae-container {
     margin: 0 10px;
 }
+
+.epistolae-inner-container {
+    margin: 0 10px;
+    background-color: #fcfaf4;
+    padding: 10px;
+}
+
 /* Header elements */
 
 .skippy {
@@ -86,6 +99,7 @@ p {
 .nav-tabs {
     border-bottom: 0;
     background-color: #ead5a7;
+    border-bottom: 1px solid #c96;
 }
 
 .nav-item a:hover {
@@ -110,7 +124,7 @@ p {
     font-weight: bold;
     border: 0;
     border-bottom: #930 5px solid;
-    background-color: #f8efdc;
+    background-color: #fcfaf4;
 }
 
 /* Home page elements */
@@ -272,7 +286,7 @@ footer {
     #front-page-logo .banner-right-logo {
         width: 275px;
         float: right;
-        margin-top: 23px;
+        margin-top: 6px;
         display: block;
     }
 }
@@ -281,6 +295,9 @@ footer {
 @media (min-width: 768px) {
     h1 {
         font-size: 2rem;
+    }
+    h2 {
+        font-size: 1.5rem;
     }
     p {
         margin: 0 auto 1.2rem auto;
@@ -292,12 +309,16 @@ footer {
     .epistolae-container {
         margin: 0 72px;
     }
+    .epistolae-inner-container {
+        margin: 0 72px;
+        padding: 10px 30px;
+    }
     #front-page-logo .banner-left-logo {
         width: 175px;
     }
     #front-page-logo .banner-right-logo {
         width: 350px;
-        margin-top: 6px;
+        margin-top: 59px;
         float: right;
         display: block;
     }
