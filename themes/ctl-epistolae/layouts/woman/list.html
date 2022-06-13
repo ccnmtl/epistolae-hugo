@@ -6,11 +6,22 @@
 <main class="epistolae-container" id="maincontent" aria-labelledby="pageContentTitle">
     <h1 class="list-view-title" id="pageContentTitle">Women</h1>
 
-    {{ $paginator := .Paginate .Data.Pages }}
+    {{ $paginator := .Paginate (.Data.Pages.ByParam "ititle") }}
 
-    {{ range $paginator.Pages }}
-        {{ .Render "summary" }}
-    {{ end }}
+    <table class="table table-bordered table-sm">
+        <thead>
+            <th>Name</th>
+            <th>Title</th>
+            <th>Date of Birth</th>
+            <th>Date of Death</th>
+        </thead>
+        <tbody>
+            {{ range ($paginator.Pages.ByParam "ititle") }}
+                {{ .Render "summary" }}
+            {{ end }}
+        </tbody>
+    </table>
+
     {{partial "pagination.html" .}}
 </main>
 {{ partial "footer.html" . }}

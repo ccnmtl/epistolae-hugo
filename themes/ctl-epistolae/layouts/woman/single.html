@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+{{ partial "header.html" . }}
+<body>
+    {{ partial "banner.html" . }}
+    <main class="container {{ .Section }}" id="maincontent" aria-labelledby="pageContentTitle">
+        <h1 class="list-view-title mb-4" id="pageContentTitle">
+            {{ .Title }}
+        </h1>
+
+        <div class="row">
+            <div class="col-md-8">
+                {{ .Content }}
+            </div>
+            <div class="col-md-4">
+                {{ if .Params.sent }}
+                    <h2 class="mt-4">Letters from {{.Title}}</h2>
+                    {{ with .Params.sent }}
+                        {{ range sort . "iname" }}
+                            <a href="/{{.url}}">
+                                {{ .name }}
+                            </a><br />
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+                {{ if .Params.received }}
+                    <h2 class="mt-4">Letters to {{.Title}}</h2>
+                    {{ with .Params.received }}
+                        {{ range sort . "iname" }}
+                            <a href="/{{.url}}">
+                                {{ .name }}
+                            </a><br />
+                        {{ end }}
+                    {{ end }}
+                {{ end }}
+            </div>
+        </div>
+    </main>
+{{ partial "footer.html" . }}
+{{ partial "javascript.html" . }}
+</body>
+</html>

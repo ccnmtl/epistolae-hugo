@@ -6,6 +6,10 @@ metaDataFormat = "yaml"
 title = "Epistolae"
 SectionPagesMenu = "main"
 theme = "ctl-epistolae"
+paginate = 25
+
+[blackfriday]
+  fractions = false
 
 [params]
     description = "Epistolae is a collection of letters to and from women in the Middle Ages, from the 4th to the 13th century. The letters, written in Latin, are linked to the names of the women involved, with English translations and, where available, biographical sketches of the women and some description of the subject matter or the historic context of the letter."

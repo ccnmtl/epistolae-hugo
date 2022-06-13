@@ -3,8 +3,8 @@
 {{ partial "header.html" . }}
 <body itemscope itemtype="http://schema.org/BlogPosting" class="default-list-view">
 {{ partial "banner.html" . }}
-<main class="epistolae-container" id="maincontent" aria-labelledby="pageContentTitle">
-    <h1 class="list-view-title" id="pageContentTitle">Letters</h1>
+<main class="container" id="maincontent" aria-labelledby="pageContentTitle">
+    <h1 class="list-view-title" id="pageContentTitle">People</h1>
 
     {{ $paginator := .Paginate (.Data.Pages.ByParam "ititle") }}
 
