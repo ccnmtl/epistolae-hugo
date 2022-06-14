@@ -10,7 +10,7 @@ url: "/content/genealogy-adelaide"
 ## Table 4.1: House of Canossa – the Later Generations: Descendants of Adelaide of Turin and Susa
 
 
-[Adelaide of Turin and Susa d. 1091](https://epistolae.ctl.columbia.edu/woman/105.html)  
+[Adelaide of Turin and Susa d. 1091](/woman/105.html)  
 
 +Herman IV Duke of Swabia d. 1038  
 
@@ -20,9 +20,9 @@ url: "/content/genealogy-adelaide"
 
 |---Peter I Count of Savoy d. 1078  
 
-|   +[Agnes of Aquitaine countess of Savoy](https://epistolae.ctl.columbia.edu/woman/25340.html)  
+|   +[Agnes of Aquitaine countess of Savoy](/woman/25340.html)  
 
-|   |---[Agnes of Savoy margravine of Turin and Susa](https://epistolae.ctl.columbia.edu/woman/25350.html)  
+|   |---[Agnes of Savoy margravine of Turin and Susa](/woman/25350.html)  
 
 |       +Frederick of Montbéliard margrave of Turin d. 1091  
 
@@ -40,7 +40,7 @@ url: "/content/genealogy-adelaide"
 
 |       |   |   +Alfonso I King of Portugal d. 1185  
 
-|       |   |   |---[Matilda of Portugal countess of Flanders and Burgundy d. 1218](https://epistolae.ctl.columbia.edu/woman/25280.html)  
+|       |   |   |---[Matilda of Portugal countess of Flanders and Burgundy d. 1218](/woman/25280.html)  
 
 |       |   |       +Philip I of Alsace Count of Flanders b. 1143, d. 1191  
 
@@ -50,7 +50,7 @@ url: "/content/genealogy-adelaide"
 
 |       |       |---Thomas I Count of Savoy b. 1178, d. 1233  
 
-|       |           +[Margaret of Geneva d. 1252](https://epistolae.ctl.columbia.edu/woman/25343.html)  
+|       |           +[Margaret of Geneva d. 1252](/woman/25343.html)  
 
 |       |           |---Amadeus IV count of Savoy d. 1253  
 
@@ -76,7 +76,7 @@ url: "/content/genealogy-adelaide"
 
 |       |           |---Thomas II of Savoy count of Flanders and count in Piedmont d. 1259  
 
-|       |           |   +[Joan of Constantinople countess of Flanders d. 1244](https://epistolae.ctl.columbia.edu/woman/21739.html)[(\*\*)](#n21739.2)  
+|       |           |   +[Joan of Constantinople countess of Flanders d. 1244](/woman/21739.html)[(\*\*)](#n21739.2)  
 
 |       |           |   +Beatrice of Fieschi d. 1282  
 
@@ -102,11 +102,11 @@ url: "/content/genealogy-adelaide"
 
 |       |           |---William of Savoy Bishop of Valence and Dean of Vienne d. 1239  
 
-|       |           |---[Beatrice of Savoy b. 1198, d. 1267](https://epistolae.ctl.columbia.edu/woman/69.html)  
+|       |           |---[Beatrice of Savoy b. 1198, d. 1267](/woman/69.html)  
 
 |       |           |   +Ramon-Bergenguer IV/V Count of Provence b. 1198, d. 1245  
 
-|       |           |   |---[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html)[(\*\*)](#n73.2)  
+|       |           |   |---[Marguerite of Provence Queen of France d. 1295](/woman/73.html)[(\*\*)](#n73.2)  
 
 |       |           |   |   +Louis IX King of France d. 1270   
 
@@ -144,7 +144,7 @@ url: "/content/genealogy-adelaide"
 
 |       |           |   |       +Robert II duke of Burgundy b. 1248, d. 1306  
 
-|       |           |   |---[Eleanor of Provence Queen of England d. 1291](https://epistolae.ctl.columbia.edu/woman/76.html)  
+|       |           |   |---[Eleanor of Provence Queen of England d. 1291](/woman/76.html)  
 
 |       |           |   |   +Henry III King of England d. 1272  
 
@@ -160,7 +160,7 @@ url: "/content/genealogy-adelaide"
 
 |       |           |   |   |---Edmund Earl of Lancaster b. 1245, d. 1296  
 
-|       |           |   |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](https://epistolae.ctl.columbia.edu/woman/70.html)  
+|       |           |   |---[Sanchia of Provence Countess of Cornwall, Queen of Germany d. 1261](/woman/70.html)  
 
 |       |           |   |   +Richard Earl of Cornwall, King of Germany d. 1272  
 
@@ -174,7 +174,7 @@ url: "/content/genealogy-adelaide"
 
 |       |           |       |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-|       |           |       |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)[(\*\*)](#n26192.2)  
+|       |           |       |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)[(\*\*)](#n26192.2)  
 
 |       |           |           +Ladislaus IV the Cuman b. 1262, d. 1290  
 
@@ -212,21 +212,21 @@ url: "/content/genealogy-adelaide"
 
 |           |---Louis VII King of France b. 1120, d. 1180  
 
-|           |   +[Eleanor of Aquitaine b. 1122, d. 1204](https://epistolae.ctl.columbia.edu/woman/24.html)  
+|           |   +[Eleanor of Aquitaine b. 1122, d. 1204](/woman/24.html)  
 
-|           |   |---[Marie of France Countess of Champagne d. 1198](https://epistolae.ctl.columbia.edu/woman/25.html)  
+|           |   |---[Marie of France Countess of Champagne d. 1198](/woman/25.html)  
 
 |           |   |   +Henry I Count of Champagne d. 1181  
 
 |           |   |   |---Henry II Count of Champagne and king of Jerusalem d. 1197  
 
-|           |   |   |   +[Isabella I queen of Jerusalem b. 1172, d. 1205](https://epistolae.ctl.columbia.edu/woman/25246.html)  
+|           |   |   |   +[Isabella I queen of Jerusalem b. 1172, d. 1205](/woman/25246.html)  
 
 |           |   |   |   |---Alice of Champagne queen of Cyprus b. Cir 1193, d. 1246  
 
 |           |   |   |   |   +Hugh I king of Cyprus b. 1194-1195, d. 1218  
 
-|           |   |   |   |---[Philippa of Champagne princess of Jerusalem b. Cir 1197, d. 1250](https://epistolae.ctl.columbia.edu/woman/167.html)  
+|           |   |   |   |---[Philippa of Champagne princess of Jerusalem b. Cir 1197, d. 1250](/woman/167.html)  
 
 |           |   |   |       +Erard of Brienne lord of Ramerupt b. Cir 1170, d. 1246  
 
@@ -236,19 +236,19 @@ url: "/content/genealogy-adelaide"
 
 |           |   |   |   +Baldwin IX of Flanders and VI of Hainaut Latin emperor of Constantinople b. 1172, d. Cir 1205  
 
-|           |   |   |   |---[Joan of Constantinople countess of Flanders d. 1244](https://epistolae.ctl.columbia.edu/woman/21739.html)[(\*\*)](#n21739)  
+|           |   |   |   |---[Joan of Constantinople countess of Flanders d. 1244](/woman/21739.html)[(\*\*)](#n21739)  
 
 |           |   |   |   |   +Ferdinand of Portugal Count of Flanders b. 1188, d. 1233  
 
 |           |   |   |   |   +Thomas II of Savoy count of Flanders and count in Piedmont d. 1259  
 
-|           |   |   |   |---[Margaret of Constantinople countess of Flanders d. 1280](https://epistolae.ctl.columbia.edu/woman/111.html)  
+|           |   |   |   |---[Margaret of Constantinople countess of Flanders d. 1280](/woman/111.html)  
 
 |           |   |   |       +Bouchard IV of Avesnes b. 1182, d. 1244  
 
 |           |   |   |       |---John I Count of Hainaut b. 1218, d. 1257  
 
-|           |   |   |       |   +[Aleid/Adelaide regent of Holland and countess of Hainault b. 1230, d. 1284](https://epistolae.ctl.columbia.edu/woman/113.html)  
+|           |   |   |       |   +[Aleid/Adelaide regent of Holland and countess of Hainault b. 1230, d. 1284](/woman/113.html)  
 
 |           |   |   |       |   |---John II Count of Hainaut Holland and Zeeland b. 1247, d. 1304  
 
@@ -284,7 +284,7 @@ url: "/content/genealogy-adelaide"
 
 |           |   |   |---Thibaut III count of Champagne d. 1201  
 
-|           |   |       +[Blanche of Navarre countess of Champagne d. 1229](https://epistolae.ctl.columbia.edu/woman/78.html)  
+|           |   |       +[Blanche of Navarre countess of Champagne d. 1229](/woman/78.html)  
 
 |           |   |       |---Thibaut IV of Champagne king of Navarre b. 1201, d. 1253  
 
@@ -298,7 +298,7 @@ url: "/content/genealogy-adelaide"
 
 |           |       +Thibaut V Count of Blois d. 1191  
 
-|           |       |---[Marguerite of Blois d. 1230](https://epistolae.ctl.columbia.edu/woman/26098.html)  
+|           |       |---[Marguerite of Blois d. 1230](/woman/26098.html)  
 
 |           |           +Hugh of Oisy lord of Montmirail   
 
@@ -358,7 +358,7 @@ url: "/content/genealogy-adelaide"
 
 |           |       +Bela III of Hungary d. 1196  
 
-|           |   +[Adela of Champagne Queen of France d. 1206](https://epistolae.ctl.columbia.edu/woman/32.html)  
+|           |   +[Adela of Champagne Queen of France d. 1206](/woman/32.html)  
 
 |           |   |---Philip II Augustus King of France b. 1165, d. 1223  
 
@@ -366,11 +366,11 @@ url: "/content/genealogy-adelaide"
 
 |           |   |   |---Louis VIII King of France d. 1226  
 
-|           |   |       +[Blanche of Castile d. 1252](https://epistolae.ctl.columbia.edu/woman/77.html)  
+|           |   |       +[Blanche of Castile d. 1252](/woman/77.html)  
 
 |           |   |       |---Louis IX King of France d. 1270  
 
-|           |   |       |   +[Marguerite of Provence Queen of France d. 1295](https://epistolae.ctl.columbia.edu/woman/73.html) [(\*\*)](#n73)  
+|           |   |       |   +[Marguerite of Provence Queen of France d. 1295](/woman/73.html) [(\*\*)](#n73)  
 
 |           |   |       |   |---Isabel of France b. 1241, d. 1271  
 
@@ -420,11 +420,11 @@ url: "/content/genealogy-adelaide"
 
 |           |   |           |   +Mary of Hungary queen of Naples b. Cir 1257, d. 1323  
 
-|           |   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](https://epistolae.ctl.columbia.edu/woman/26192.html)[(\*\*)](#n26192)  
+|           |   |           |---[Isabella/Elizabeth of Anjou b. 1261, d. 1303](/woman/26192.html)[(\*\*)](#n26192)  
 
 |           |   |               +Ladislaus IV the Cuman b. 1262, d. 1290  
 
-|           |   |   +[Ingeborg of Denmark Queen of France d. 1236](https://epistolae.ctl.columbia.edu/woman/68.html)  
+|           |   |   +[Ingeborg of Denmark Queen of France d. 1236](/woman/68.html)  
 
 |           |   |   +Agnes of Meran d. 1201  
 
@@ -442,7 +442,7 @@ url: "/content/genealogy-adelaide"
 
 |           |---Robert Count of Dreux d. 1188  
 
-|           |---[Constance of France Countess of Toulouse d. 1176](https://epistolae.ctl.columbia.edu/woman/3.html)  
+|           |---[Constance of France Countess of Toulouse d. 1176](/woman/3.html)  
 
 |           |   +Eustace IV Count of Boulogne d. 1153  
 
@@ -450,7 +450,7 @@ url: "/content/genealogy-adelaide"
 
 |           |   |---Raymond VI count of Toulouse b. 1156, d. 1222  
 
-|           |   |   +[Ermessend of Melgueil d. 1176](https://epistolae.ctl.columbia.edu/woman/25731.html)  
+|           |   |   +[Ermessend of Melgueil d. 1176](/woman/25731.html)  
 
 |           |   |   +Beatrice of Beziers countess of Toulouse   
 
@@ -482,7 +482,7 @@ url: "/content/genealogy-adelaide"
 
 |                   +Yolanda of Flanders Latin empress of Constantinople b. 1175, d. 1219  
 
-|                   |---[Marie of Courtenay empress of Constantinople and Nicaea b. Cir 1204, d. 1228](https://epistolae.ctl.columbia.edu/woman/25266.html)  
+|                   |---[Marie of Courtenay empress of Constantinople and Nicaea b. Cir 1204, d. 1228](/woman/25266.html)  
 
 |                   |   +Theodore I Lascaris emperor of Nicaea b. 1175, d. 1221  
 
@@ -558,7 +558,7 @@ url: "/content/genealogy-adelaide"
 
 |   |       |       |           +Blanche of France b. 1253, d. 1323  
 
-|   |       |       |---[Cunegund of Swabia d. 1248](https://epistolae.ctl.columbia.edu/woman/86.html)  
+|   |       |       |---[Cunegund of Swabia d. 1248](/woman/86.html)  
 
 |   |       |       |   +Wenceslaus I King of Bohemia d. 1253  
 
@@ -584,13 +584,13 @@ url: "/content/genealogy-adelaide"
 
 |   |---Henry V Emperor d. 1125  
 
-|       +[Matilda of England Empress, Countess of Anjou d. 1167](https://epistolae.ctl.columbia.edu/woman/27.html)  
+|       +[Matilda of England Empress, Countess of Anjou d. 1167](/woman/27.html)  
 
 |---Adelaide of Savoy Duchess of Swabia d. 1079  
 
     +Rudolf I of Swabia and anti-king of Germany d. 1080  
 
-    |---[Adelaide of Swabia queen of Hungary](https://epistolae.ctl.columbia.edu/woman/152.html)  
+    |---[Adelaide of Swabia queen of Hungary](/woman/152.html)  
 
         +Ladislaus I king of Hungary b. 1040, d. 1095  
 

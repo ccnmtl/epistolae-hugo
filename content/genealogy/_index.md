@@ -1,5 +1,0 @@
----
-url: "/genealogy"
-title: "Genealogy"
----
-
