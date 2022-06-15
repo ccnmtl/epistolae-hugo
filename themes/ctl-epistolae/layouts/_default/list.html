@@ -3,7 +3,7 @@
 {{ partial "header.html" . }}
 <body itemscope itemtype="http://schema.org/BlogPosting" class="default-list-view">
 {{ partial "banner.html" . }}
-<main class="epistolae-container" id="maincontent" aria-labelledby="pageContentTitle">
+<main class="epistolae-inner-container" id="maincontent" aria-labelledby="pageContentTitle">
     <b>DEFAULT LIST</b>
 
     {{ $paginator := .Paginate .Data.Pages }}

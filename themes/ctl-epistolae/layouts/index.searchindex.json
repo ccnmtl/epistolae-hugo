@@ -1,0 +1,8 @@
+[
+  {{- range $index, $page := .Site.RegularPages -}}
+    {{- if gt $index 0 -}} , {{- end -}}
+    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Title -}}
+    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Type -}}
+    {{- $entry | jsonify -}}
+  {{- end -}}
+]
