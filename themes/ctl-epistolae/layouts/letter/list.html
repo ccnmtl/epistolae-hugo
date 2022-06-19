@@ -6,17 +6,83 @@
 <main class="epistolae-inner-container" id="maincontent" aria-labelledby="pageContentTitle">
     <h1 class="list-view-title" id="pageContentTitle">Letters</h1>
 
+    <!-- form id="search" class="search" role="search">
+        <input type="hidden" id="record-type" name="record-type" value="letter" />
+        <label for="search-text" class="mr-2 d-inline">Search</label>
+        <input type="search" id="search-text" class="search-input form-control mr-3 d-inline w-50">
+        <button type="submit" class="btn btn-primary mr-1">Submit</button>
+        <button type="reset" class="btn btn-secondary">Clear</button>
+        </div>
+    </form-->
+
+    <form id="search" class="search mb-2 letters" role="search">
+        <input type="hidden" id="record-type" name="record-type" value="letter" />
+        <div class="form-row">
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <label for="search-text">Search for letters</label>
+                    <input type="search" id="search-text" class="search-input form-control">
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <label for="search-by-sender">Filter by sender</label>
+                    <select id="select-by-sender" class="form-control">
+                    </select>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <div class="form-group">
+                    <label for="select-by-receiver">Filter by receiver</label>
+                    <select id="select-by-receiver" class="form-control">
+                    </select>
+                </div>
+            </div>
+            <div class="col-sm-3">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-secondary">Clear</button>
+            </div>
+        </div>
+    </form>
+    <template id="search-result">
+        <tr>
+            <td>
+                <a class="letter-title" itemprop="url"></a>
+            </td>
+            <td class="senders">
+            </td>
+            <td class="receivers">
+            </td>
+            <td class="letter-date"></td>
+        </tr>
+    </template>
+
     {{ $paginator := .Paginate (.Data.Pages.ByParam "ititle") }}
 
+    <div class="row">
+        <div class="col text-right pager-indicator mb-1">
+            <span id="record-count" class="record-count">{{mul $paginator.TotalPages 25 }}</span> Letters
+        </div>
+    </div>
     <table class="table table-bordered table-sm table-responsive-sm">
-    {{ range ($paginator.Pages.ByParam "ititle") }}
-        {{ .Render "summary" }}
-    {{ end }}
+        <thead>
+            <th>Letter</th>
+            <th>Sender</th>
+            <th>Receiver</th>
+            <th>Date</th>
+        </thead>
+        <tbody class="search-result-container">
+            {{ range ($paginator.Pages.ByParam "ititle") }}
+                {{ .Render "summary" }}
+            {{ end }}
+        </tbody>
     </table>
+    <div id="search-message"></div>
 
     {{partial "pagination.html" .}}
 </main>
 {{ partial "footer.html" . }}
 {{ partial "javascript.html" . }}
+{{ partial "lunr-search.html" . }}
 </body>
 </html>
