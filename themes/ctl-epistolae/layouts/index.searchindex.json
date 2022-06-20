@@ -15,21 +15,38 @@
             {{- $entry = merge $entry (dict "receiver" "True") -}}
         {{- end -}}
     {{- end -}}
+    {{ if eq $page.Type "people" }}
+        {{- $entry = merge $entry (dict "social" $page.Params.social_title) -}}
+        {{- $entry = merge $entry (dict "birth" $page.Params.birthdate) -}}
+        {{- $entry = merge $entry (dict "death" $page.Params.deathdate) -}}
+        {{- if $page.Params.sent }}
+            {{- $entry = merge $entry (dict "sender" "True") -}}
+        {{- end -}}
+        {{- if .Params.received -}}
+            {{- $entry = merge $entry (dict "receiver" "True") -}}
+        {{- end -}}
+    {{- end -}}
     {{- if eq $page.Type "letter" -}}
         {{- $entry = merge $entry (dict "ltr_date" $page.Params.ltr_date) -}}
         {{- if $page.Params.senders -}}
             {{- $senders := slice -}}
+            {{- $senderIds := slice -}}
             {{- range $sender := $page.Params.senders -}}
                 {{- $senders = $senders | append ($sender.name) -}}
+                {{- $senderIds = $senderIds | append ($sender.url) -}}
             {{- end -}}
             {{- $entry = merge $entry (dict "senders" $senders) -}}
+            {{- $entry = merge $entry (dict "senderIds" $senderIds) -}}
         {{- end -}}
         {{- if $page.Params.receivers -}}
             {{- $receivers := slice -}}
+            {{- $receiverIds := slice -}}
             {{- range $receiver := $page.Params.receivers -}}
                 {{- $receivers = $receivers | append ($receiver.name) -}}
+                {{- $receiverIds = $receiverIds | append ($receiver.url) -}}
             {{- end -}}
             {{- $entry = merge $entry (dict "receivers" $receivers) -}}
+            {{- $entry = merge $entry (dict "receiverIds" $receiverIds) -}}
         {{- end -}}
     {{- end -}}
     {{- $entry | jsonify -}}

@@ -18,6 +18,8 @@ window.addEventListener('DOMContentLoaded', function() {
             this.field('ititle');
             this.field('sender');
             this.field('receiver');
+            this.field('senders');
+            this.field('receivers');
 
             for (let doc of response) {
                 this.add(doc);
@@ -29,24 +31,49 @@ window.addEventListener('DOMContentLoaded', function() {
     let form = document.getElementById('search');
     form.addEventListener('submit', function(event) {
         event.preventDefault();
-
-        const searchText = document.getElementById('search-text').value.trim();
-        if (!searchText) {
-            window.location.reload();
-            return;
-        }
-
-        const params = {
-            term: searchText.toLowerCase(),
-            recordType: document.getElementById('record-type').value
-        };
-        const results = search(params);
-        populateTable(params, results);
+        search();
     }, false);
 
-    function search(params) {
-        const query = `+type:${params.recordType} +ititle:${params.term}`;
-        return index.search(query);
+    function escapeSpaces(term) {
+        return term.replaceAll(' ', '\\ ');
+    }
+
+    function search() {
+        const searchText = document.getElementById('search-text').value.trim();
+        const recordType = document.getElementById('record-type').value;
+
+        let params = {
+            term: escapeSpaces(searchText.toLowerCase()),
+            recordType: recordType
+        };
+        let query = `+type:${params.recordType}`;
+        if (searchText) {
+            query += ` +ititle:${params.term}`;
+        }
+
+        let sender = null;
+        let receiver = null;
+        if (recordType === 'letter') {
+            sender = document.getElementById('select-by-sender').value;
+            if (sender) {
+                sender = escapeSpaces(sender);
+                query += ` +senders:${sender}`;
+            }
+            receiver = document.getElementById('select-by-receiver').value;
+            if (receiver) {
+                receiver = escapeSpaces(receiver);
+                query += ` +receivers:${receiver}`;
+            }
+        }
+
+        if (!searchText && !sender && !receiver) {
+            window.location.reload();
+            $('.list-pager-nav').show();
+            return;
+        }
+        const results = index.search(query);
+        populateTable(params, results);
+        $('.list-pager-nav').hide();
     }
 
     function populateTable(params, results) {
@@ -56,11 +83,6 @@ window.addEventListener('DOMContentLoaded', function() {
             target.removeChild(target.firstChild);
         }
 
-        if (results.length == 0) {
-            let searchResult = document.getElementById('search-result');
-            searchResult.textContent = 
-                `No results found for "${params.term}"`;
-        }
         document.getElementById('record-count').textContent = results.length;
 
         let template = document.getElementById('search-result');
@@ -77,6 +99,12 @@ window.addEventListener('DOMContentLoaded', function() {
             }
             target.appendChild(elt);
         }
+
+        if (results.length == 0) {
+            $('#empty-search').show();
+        } else {
+            $('#empty-search').hide();
+        }
     }
 
     function populateBiography(elt, doc) {
@@ -91,48 +119,24 @@ window.addEventListener('DOMContentLoaded', function() {
         elt.querySelector('.letter-title').href = doc.uri;
         elt.querySelector('.letter-title').textContent = doc.title;
         elt.querySelector('.letter-date').textContent = doc.ltr_date;
-        elt.querySelector('.senders').textContent = doc.senders.join(',');
-        elt.querySelector('.receivers').textContent = doc.receivers.join(',');
+
+        let $senders = $(elt).find('.senders');
+        for (let idx = 0; idx < doc.senders.length; idx++) {
+            $('<a href="' + doc.senderIds[idx] + '">' +
+                doc.senders[idx] +'</a>').appendTo($senders);
+            if (idx < (doc.senders.length - 1)) {
+                $('<span>, </span>').appendTo($senders);
+            }
+        }
+        let $receivers = $(elt).find('.receivers');
+        for (let idx = 0; idx < doc.receivers.length; idx++) {
+            $('<a href="' + doc.senderIds[idx] + '">' +
+                doc.receivers[idx] +'</a>').appendTo($receivers);
+            if (idx < (doc.receivers.length - 1)) {
+                $('<span>, </span>').appendTo($receivers);
+            }
+        }
     }
-
-
-    $('#select-by-sender').selectize({
-        valueField: 'key',
-        labelField: 'value',
-        searchField: 'value',
-        create: false,
-        onType: function(){
-            this.renderCache = {};
-            this.clearOptions();
-            this.refreshOptions(true);
-        },
-        load: function (term, callback) {
-            term = term.trim().toLowerCase();
-            const query = `+sender:true +type:woman +ititle:${term}*`;
-            const results = index.search(query);
-            const opts = populateOptions(results);
-            return callback(opts);
-        }
-    });
-
-    $('#select-by-receiver').selectize({
-        valueField: 'key',
-        labelField: 'value',
-        searchField: 'value',
-        create: false,
-        onType: function(){
-            this.renderCache = {};
-            this.clearOptions();
-            this.refreshOptions(true);
-        },
-        load: function (term, callback) {
-            term = term.trim().toLowerCase();
-            const query = `+sender:true +type:woman +ititle:${term}*`;
-            const results = index.search(query);
-            const opts = populateOptions(results);
-            return callback(opts);
-        }
-    });
 
     function populateOptions(results) {
         let a = [];
@@ -142,5 +146,51 @@ window.addEventListener('DOMContentLoaded', function() {
         }
         return a;
     }
+
+    $('#select-by-sender').selectize({
+        placeholder: 'All Senders',
+        valueField: 'key',
+        labelField: 'value',
+        searchField: 'value',
+        create: false,
+        onType: function(){
+            this.renderCache = {};
+            this.clearOptions();
+            this.refreshOptions(true);
+        },
+        load: function (term, callback) {
+            term = term.trim().toLowerCase();
+            const query = `+sender:true +ititle:${term}*`;
+            const results = index.search(query);
+            const opts = populateOptions(results);
+            return callback(opts);
+        },
+        onChange: function(value) {
+            search();
+        }
+    });
+
+    $('#select-by-receiver').selectize({
+        placeholder: 'All Receivers',
+        valueField: 'key',
+        labelField: 'value',
+        searchField: 'value',
+        create: false,
+        onType: function(){
+            this.renderCache = {};
+            this.clearOptions();
+            this.refreshOptions(true);
+        },
+        load: function (term, callback) {
+            term = term.trim().toLowerCase();
+            const query = `+receiver:true +ititle:${term}*`;
+            const results = index.search(query);
+            const opts = populateOptions(results);
+            return callback(opts);
+        },
+        onChange: function(value) {
+            search();
+        }
+    });
 
 }, false);
