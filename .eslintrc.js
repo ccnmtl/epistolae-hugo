@@ -2,7 +2,8 @@ module.exports = {
     "env": {
         "browser": true,
         "amd": true,
-        "jquery": true
+        "jquery": true,
+        "es6": true
     },
     "plugins": [
         "security"
@@ -12,9 +13,8 @@ module.exports = {
         "plugin:security/recommended"
     ],
     "globals": {
-        "_": true,
-        "Backbone": true,
         "google": true,
+        "lunr": true
     },
     "rules": {
         "indent": [

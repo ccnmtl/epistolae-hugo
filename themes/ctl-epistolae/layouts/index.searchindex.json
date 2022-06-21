@@ -1,8 +1,37 @@
 [
   {{- range $index, $page := .Site.RegularPages -}}
     {{- if gt $index 0 -}} , {{- end -}}
-    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Title -}}
-    {{- $entry := dict "uri" $page.RelPermalink "title" $page.Type -}}
+    {{- $entry := dict "uri" $page.RelPermalink "ititle" $page.Params.ititle -}}
+    {{- $entry = merge $entry (dict "title" $page.Params.title) -}}
+    {{- $entry = merge $entry (dict "type" $page.Type) -}}
+    {{ if eq $page.Type "woman" }}
+        {{- $entry = merge $entry (dict "social" $page.Params.social_title) -}}
+        {{- $entry = merge $entry (dict "birth" $page.Params.birthdate) -}}
+        {{- $entry = merge $entry (dict "death" $page.Params.deathdate) -}}
+        {{- if $page.Params.sent }}
+            {{- $entry = merge $entry (dict "sender" "True") -}}
+        {{- end -}}
+        {{- if .Params.received -}}
+            {{- $entry = merge $entry (dict "receiver" "True") -}}
+        {{- end -}}
+    {{- end -}}
+    {{- if eq $page.Type "letter" -}}
+        {{- $entry = merge $entry (dict "ltr_date" $page.Params.ltr_date) -}}
+        {{- if $page.Params.senders -}}
+            {{- $senders := slice -}}
+            {{- range $sender := $page.Params.senders -}}
+                {{- $senders = $senders | append ($sender.name) -}}
+            {{- end -}}
+            {{- $entry = merge $entry (dict "senders" $senders) -}}
+        {{- end -}}
+        {{- if $page.Params.receivers -}}
+            {{- $receivers := slice -}}
+            {{- range $receiver := $page.Params.receivers -}}
+                {{- $receivers = $receivers | append ($receiver.name) -}}
+            {{- end -}}
+            {{- $entry = merge $entry (dict "receivers" $receivers) -}}
+        {{- end -}}
+    {{- end -}}
     {{- $entry | jsonify -}}
   {{- end -}}
 ]

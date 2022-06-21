@@ -6,8 +6,39 @@
 <main class="epistolae-inner-container" id="maincontent" aria-labelledby="pageContentTitle">
     <h1 class="list-view-title" id="pageContentTitle">Women</h1>
 
+    <form id="search" class="search women" role="search">
+        <input type="hidden" id="record-type" name="record-type" value="woman" />
+        <label for="search-text" class="mr-2 d-inline">Search</label>
+        <input type="search" id="search-text" class="search-input form-control mr-3 d-inline w-50">
+        <button type="submit" class="btn btn-primary mr-1">Submit</button>
+        <button type="reset" class="btn btn-secondary">Clear</button>
+        </div>
+    </form>
+
+    <template id="search-result">
+        <tr>
+            <td>
+                <a class="woman-name" itemprop="url"></a>
+            </td>
+            <td>
+                <span class="social-title"></span>
+            </td>
+            <td>
+                <span class="birth-date"></span>
+            </td>
+            <td>
+                <span class="death-date"></span>
+            </td>
+        </tr>
+    </template>
+
     {{ $paginator := .Paginate (.Data.Pages.ByParam "ititle") }}
 
+    <div class="row mt-3">
+        <div class="col text-right pager-indicator mb-1">
+            <span id="record-count" class="record-count">{{mul $paginator.TotalPages 25 }}</span> Biographies
+        </div>
+    </div>
     <table class="table table-bordered table-sm table-responsive-sm">
         <thead>
             <th>Name</th>
@@ -15,16 +46,18 @@
             <th>Date of Birth</th>
             <th>Date of Death</th>
         </thead>
-        <tbody>
+        <tbody class="search-result-container">
             {{ range ($paginator.Pages.ByParam "ititle") }}
                 {{ .Render "summary" }}
             {{ end }}
         </tbody>
     </table>
+    <div id="search-message"></div>
 
     {{partial "pagination.html" .}}
 </main>
 {{ partial "footer.html" . }}
 {{ partial "javascript.html" . }}
+{{ partial "lunr-search.html" . }}
 </body>
 </html>
