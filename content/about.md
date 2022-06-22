@@ -97,25 +97,24 @@ Gordon Campbell
 <b>Interface Development</b><br />
 Zarina Mustapha
 
-<hr />
-
 <div style="display: none">
-    <h2> Accessibility</h2>
-    Columbia University's Center for Teaching and Learning are committed to make Project OHCOE inclusive and accessible for all.
+<hr />
+<h2> Accessibility</h2>
+Columbia University's Center for Teaching and Learning are committed to make Project OHCOE inclusive and accessible for all.
 
-    <h3>Conformance Status</h3>
-    The Epistolae site is produced in accordance with the [Web Content Accessibility Guidlines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/). The site is partially conformant to WCAG 2.0 Level AA.
+<h3>Conformance Status</h3>
+The Epistolae site is produced in accordance with the [Web Content Accessibility Guidlines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/). The site is partially conformant to WCAG 2.0 Level AA.
 
-    <h3>Limitations</h3>
-    The Epistolae site has been audited internal and evaluated with the assessment tools listed below. Some parts of the site may not fully conform to the WCAG 2.0 standards:
+<h3>Limitations</h3>
+The Epistolae site has been audited internal and evaluated with the assessment tools listed below. Some parts of the site may not fully conform to the WCAG 2.0 standards:
 
-    <h3>Assessment Approach</h3>
-    We assessed and tested AHE using the following tools. All pages show minor to no violations of the accessibility standards.
+<h3>Assessment Approach</h3>
+We assessed and tested AHE using the following tools. All pages show minor to no violations of the accessibility standards.
 
-    <ol>
-    <li>[Axe](https://www.deque.com/axe/) web accessibility testing tool by [Deque Systems](https://www.deque.com/)</li>
-      * We run this tool on every build of the site to ensure that we maintain conformance to the standards.
-    <li>[VoiceOver](https://www.apple.com/accessibility/mac/vision/), the screen reader by Apple</li>
-    <li>[Lighthouse](https://developers.google.com/web/tools/lighthouse/), an open-source automated auditor by Google</li>
-    </ol>
+<ol>
+<li>[Axe](https://www.deque.com/axe/) web accessibility testing tool by [Deque Systems](https://www.deque.com/)</li>
+* We run this tool on every build of the site to ensure that we maintain conformance to the standards.
+<li>[VoiceOver](https://www.apple.com/accessibility/mac/vision/), the screen reader by Apple</li>
+<li>[Lighthouse](https://developers.google.com/web/tools/lighthouse/), an open-source automated auditor by Google</li>
+</ol>
 </div>

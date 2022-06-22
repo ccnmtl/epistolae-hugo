@@ -13,7 +13,7 @@
             {{ if .Params.senders }}
                 {{ with .Params.senders }}
                     {{ range sort . "iname" }}
-                        <a href="/{{.type}}/{{.id}}.html">
+                        <a href="{{.url}}">
                             {{ .name }}
                         </a><br />
                     {{ end }}
@@ -23,7 +23,7 @@
             {{ if .Params.receivers }}
                 {{ with .Params.receivers }}
                     {{ range sort . "iname" }}
-                        <a href="/{{.type}}/{{.id}}.html">
+                        <a href="{{.url}}">
                             {{ .name }}
                         </a><br />
                     {{ end }}

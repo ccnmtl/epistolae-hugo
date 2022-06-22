@@ -11,7 +11,7 @@
         <div class="form-row">
             <div class="col-sm-3">
                 <div class="form-group">
-                    <label for="search-text">Search for letters</label>
+                    <label for="search-text">Search by title</label>
                     <input type="search" id="search-text" class="search-input form-control">
                 </div>
             </div>
@@ -68,7 +68,9 @@
             {{ end }}
         </tbody>
     </table>
-    <div id="search-message"></div>
+    <div id="empty-search" class="alert alert-secondary" role="alert" style="display: none;">
+        No results found
+    </div>
 
     {{partial "pagination.html" .}}
 </main>
