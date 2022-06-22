@@ -1,14 +1,14 @@
 ---
 date: "2022-05-01"
-title: "About Epistolae"
-lede: "Epistolae is a collection of letters to and from women in the Middle Ages, from the 4th to the 13th century. The letters, written in Latin, are linked to the names of the women involved, with English translations and, where available, biographical sketches of the women and some description of the subject matter or the historic context of the letter."
+title: "About"
+lede: "Epistol&#xe6; is a collection of letters to and from women in the Middle Ages, from the 4th to the 13th century. The letters, written in Latin, are linked to the names of the women involved, with English translations and, where available, biographical sketches of the women and some description of the subject matter or the historic context of the letter."
 ---
 
 <div class="row">
 <div class="col-md-7">
-<p>Epistolae is a collection of letters to and from women in the Middle Ages, from the 4th to the 13th century. The letters, written in Latin, are linked to the names of the women involved, with English translations and, where available, biographical sketches of the women and some description of the subject matter or the historic context of the letter.</p>
+<p>Epistol&#xe6; is a collection of letters to and from women in the Middle Ages, from the 4th to the 13th century. The letters, written in Latin, are linked to the names of the women involved, with English translations and, where available, biographical sketches of the women and some description of the subject matter or the historic context of the letter.</p>
 <p>The letters were originally collected and translated by Professor Joan Ferrante of Columbia University, mainly from printed sources. The [Columbia Center for Teaching and Learning](https://ctl.columbia.edu) (formerly the Columbia Center for New Media Teaching and Learning) has collaborated with Professor Ferrante to develop a free, online repository of the collection.</p>
-<p>Epistolae is meant to be a cooperative project. It designed to allow for future additions and translations of letters, as well as corrections to the texts or to the information offered. Some scholars and presses have already contributed letters and translations, and their contributions are gratefully acknowledged in the text. Users are invited to participate by sending material or inquiries to <a mailto:"jmf2@columbia.edu">jmf2@columbia.edu</a>. Contributions, fully acknowledged, will be put online after review for accuracy and style by members of the Epistolae Board.</p>
+<p>Epistol&#xe6; is meant to be a cooperative project. It designed to allow for future additions and translations of letters, as well as corrections to the texts or to the information offered. Some scholars and presses have already contributed letters and translations, and their contributions are gratefully acknowledged in the text. Users are invited to participate by sending material or inquiries to <a mailto:"jmf2@columbia.edu">jmf2@columbia.edu</a>. Contributions, fully acknowledged, will be put online after review for accuracy and style by members of the Epistol&#xe6; Board.</p>
 <p>Please send suggested corrections or additional information about the texts already online. If you have translations with accompanying material for other letters and wish to contribute them, or if you have knowledge of letters from archives and manuscripts or from published chronicles that may not be known to us, please let us know.</p>
 <p>A few notes for readers not familiar with medieval letters: it was common practice for those women and men who engaged in correspondence to dictate their letters to secretaries who not only copied them but sometimes edited them before sending them, and letters were copied and collected by recipients as well as by senders. One can not, therefore, assume that the words are precisely those of the sender, but in general, unless an intentional deception was involved, they represent the views or intentions of the senders.</p>
 <p>Names can be spelled in various ways; we attempt to give the most common variations.</p>
@@ -18,26 +18,26 @@ lede: "Epistolae is a collection of letters to and from women in the Middle Ages
 
 <div class="mb-4">
 <h2>Contact and Feedback</h2>
-For information about Epistolae, or to offer feedback, please contact us at <a href="mailto:">epistolae@columbia.edu</a>.
+For information about Epistol&#xe6;, or to offer feedback, please contact us at <a href="mailto:">Epistol&#xe6;@columbia.edu</a>.
 </div>
 
 </div>
 <div class="col">
-<h4 class="mt-0">What is Epistolae?</h4>
+<h2 class="mt-0 h4">What is Epistol&#xe6;?</h2>
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0-Ml0RQ4nR0?wmode=opaque&amp;controls=&amp;modestbranding=1" frameborder="0" allowfullscreen="">
+    <iframe title="What is Epistol&#xe6;" class="embed-responsive-item" src="https://www.youtube.com/embed/0-Ml0RQ4nR0?wmode=opaque&amp;controls=&amp;modestbranding=1" frameborder="0" allowfullscreen="">
     </iframe>
 </div>
 
-<h4 class="mt-5">Meet Prof. Joan Ferrante</h4>
+<h2 class="mt-5">Meet Prof. Joan Ferrante</h2>
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/0FFnvUPQQD0?wmode=opaque&amp;controls=&amp;modestbranding=1" frameborder="0" allowfullscreen="">
+    <iframe title="Meet Prof. Joan Ferrante" class="embed-responsive-item" src="https://www.youtube.com/embed/0FFnvUPQQD0?wmode=opaque&amp;controls=&amp;modestbranding=1" frameborder="0" allowfullscreen="">
     </iframe>
 </div>
 
-<h4 class="mt-5">Research Resource</h4>
+<h2 class="mt-5">Research Resource</h2>
 <div class="embed-responsive embed-responsive-16by9">
-    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ZM-ZMpeH35Q?wmode=opaque&amp;controls=&amp;modestbranding=1" frameborder="0" allowfullscreen="">
+    <iframe title="A research resource" class="embed-responsive-item" src="https://www.youtube.com/embed/ZM-ZMpeH35Q?wmode=opaque&amp;controls=&amp;modestbranding=1" frameborder="0" allowfullscreen="">
     </iframe>
 </div>
 
@@ -79,8 +79,6 @@ Ashley Kingon
 <b>Programming</b>
 Jed Davis
 
-<h4 />
-
 <h2>Credits (earlier releases)</h2>
 <b>Executive Producers</b><br />
 Frank Moretti<br />
@@ -103,10 +101,10 @@ Zarina Mustapha
 Columbia University's Center for Teaching and Learning are committed to make Project OHCOE inclusive and accessible for all.
 
 <h3>Conformance Status</h3>
-The Epistolae site is produced in accordance with the [Web Content Accessibility Guidlines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/). The site is partially conformant to WCAG 2.0 Level AA.
+The Epistol&#xe6; site is produced in accordance with the [Web Content Accessibility Guidlines (WCAG)](https://www.w3.org/WAI/standards-guidelines/wcag/). The site is partially conformant to WCAG 2.0 Level AA.
 
 <h3>Limitations</h3>
-The Epistolae site has been audited internal and evaluated with the assessment tools listed below. Some parts of the site may not fully conform to the WCAG 2.0 standards:
+The Epistol&#xe6; site has been audited internal and evaluated with the assessment tools listed below. Some parts of the site may not fully conform to the WCAG 2.0 standards:
 
 <h3>Assessment Approach</h3>
 We assessed and tested AHE using the following tools. All pages show minor to no violations of the accessibility standards.

@@ -286,7 +286,7 @@ footer {
     #front-page-logo .banner-right-logo {
         width: 275px;
         float: right;
-        margin-top: 23px;
+        margin-top: 66px;
         display: block;
     }
 }
@@ -318,7 +318,7 @@ footer {
     }
     #front-page-logo .banner-right-logo {
         width: 350px;
-        margin-top: 6px;
+        margin-top: 60px;
         float: right;
         display: block;
     }
@@ -414,17 +414,8 @@ form#search button[type="submit"] {
     border-color: #930;
 }
 
-form#search.women .search-input {
-    width: 400px;
-}
-
-form#search.women button[type="submit"],
-form#search.women button[type="reset"] {
-    margin-top: -5px;
-}
-
-form#search.letters button[type="submit"],
-form#search.letters button[type="reset"] {
+form#search button[type="submit"],
+form#search button[type="reset"] {
         margin-top: 34px;
 }
 

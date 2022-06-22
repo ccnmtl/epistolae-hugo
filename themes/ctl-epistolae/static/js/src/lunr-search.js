@@ -49,6 +49,9 @@ window.addEventListener('DOMContentLoaded', function() {
         let query = `+type:${params.recordType}`;
         if (searchText) {
             query += ` +ititle:${params.term}`;
+            if (recordType === 'woman') {
+                query += '*';
+            }
         }
 
         let sender = null;
