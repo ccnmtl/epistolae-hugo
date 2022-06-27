@@ -39,16 +39,14 @@ window.addEventListener('DOMContentLoaded', function() {
     }
 
     function search() {
-        const searchText = document.getElementById('search-text').value.trim();
+        const searchText =
+            document.getElementById('search-text').value.trim().toLowerCase();
         const recordType = document.getElementById('record-type').value;
 
-        let params = {
-            term: escapeSpaces(searchText.toLowerCase()),
-            recordType: recordType
-        };
-        let query = `+type:${params.recordType}`;
+        // searchText = escapeSpaces(searchText),
+        let query = `+type:${recordType}`;
         if (searchText) {
-            query += ` +ititle:${params.term}`;
+            query += ` +ititle:${searchText}~1`;
         }
 
         let sender = null;
@@ -66,17 +64,19 @@ window.addEventListener('DOMContentLoaded', function() {
             }
         }
 
+        // An empty search reloads the page, e.g. an implicit clear
         if (!searchText && !sender && !receiver) {
             window.location.reload();
             $('.list-pager-nav').show();
             return;
         }
+
         const results = index.search(query);
-        populateTable(params, results);
+        populateTable(searchText, recordType, results);
         $('.list-pager-nav').hide();
     }
 
-    function populateTable(params, results) {
+    function populateTable(searchText, recordType, results) {
         let target = document.querySelector('.search-result-container');
 
         while (target.firstChild) {
@@ -92,7 +92,7 @@ window.addEventListener('DOMContentLoaded', function() {
             // Fill out search result template, adjust as needed.
             let elt = template.content.cloneNode(true);
 
-            if (params.recordType === 'woman') {
+            if (recordType === 'woman') {
                 populateBiography(elt, doc);
             } else {
                 populateLetter(elt, doc);
