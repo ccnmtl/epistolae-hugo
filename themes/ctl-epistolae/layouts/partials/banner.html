@@ -1,43 +1,40 @@
 <script src="https://search.sites.columbia.edu/cu-privacy-notice/cu-privacy-notice.js"></script>
-    {{ if .IsHome }}
-    <h1 class="sr-only"><span itemprop="name">Epistolae</span>: Home Page</h1>
-    {{ end }}
-    <a href="#maincontent" class="skippy focus-none sr-only sr-only-focusable d-print-none">
-        <span class="skippy-text">Skip to main content</span>
-    </a>
-    <div class="d-none d-print-block header-print-url">epistolae.ctl.columbia.edu</div>
+<a href="#maincontent" class="skippy focus-none sr-only sr-only-focusable d-print-none">
+    <span class="skippy-text">Skip to main content</span>
+</a>
+<div class="d-none d-print-block header-print-url">epistolae.ctl.columbia.edu</div>
 
-    <header class="site-header epistolae-container">
-        <div id="front-page-logo">
-            <img class="banner-left-logo" src="{{ .Site.BaseURL }}img/banner-left-logo.png" srcset="{{ .Site.BaseURL }}img/banner-left-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
-            <img class="banner-right-logo" src="{{ .Site.BaseURL }}img/bg_public_headerh2.gif" srcset="{{ .Site.BaseURL }}img/banner-right-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
-        </div>
-        <div class="clearfix"></div>
-    </header>
-    <div class="epistolae-container">
-        <nav class="navbar navbar-expand-md navbar-light bg-light">
-            <a class="navbar-brand {{ if .IsHome }}active{{ end }}" href="/">Home</a>
-            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-                <span class="navbar-toggler-icon"></span>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                <ul class="navbar-nav mr-auto">
-                    <li class="nav-item {{ if eq .Title "Women" }}active{{ end }}">
-                        <a class="nav-link" href="/women/">Women</a>
-                    </li>
-                    <li class="nav-item {{ if eq .Title "Letters" }}active{{ end }}">
-                        <a class="nav-link" href="/letters/">Letters</a>
-                    </li>
-                    <li class="nav-item {{ if eq .Title "Genealogies" }}active{{ end }}">
-                        <a class="nav-link" href="/genealogy/">Genealogy</a>
-                    </li>
-                    <li class="nav-item {{ if eq .Title "Resources" }}active{{ end }}">
-                        <a class="nav-link" href="/resources/">Resources</a>
-                    </li>
-                    <li class="nav-item {{ if eq .Title "About" }}active{{ end }}">
-                        <a class="nav-link" href="/about/">About</a>
-                    </li>
-                </ul>
-            </div>
-        </nav>
+<header class="site-header epistolae-container">
+    <div id="front-page-logo">
+        <img class="banner-left-logo" src="{{ .Site.BaseURL }}img/banner-left-logo.png" srcset="{{ .Site.BaseURL }}img/banner-left-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
+        <img class="banner-right-logo" src="{{ .Site.BaseURL }}img/bg_public_headerh2.gif" srcset="{{ .Site.BaseURL }}img/banner-right-logo.png 2x" role="presentation" alt="" itemprop="primaryImageOfPage" />
     </div>
+    <div class="clearfix"></div>
+</header>
+<div class="epistolae-container">
+    <nav class="navbar navbar-expand-md navbar-light bg-light">
+        <a class="navbar-brand {{ if .IsHome }}active{{ end }}" href="/">Home</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+            <ul class="navbar-nav mr-auto">
+                <li class="nav-item {{ if eq .Title "Women" }}active{{ end }}">
+                    <a class="nav-link" href="/women/">Women</a>
+                </li>
+                <li class="nav-item {{ if eq .Title "Letters" }}active{{ end }}">
+                    <a class="nav-link" href="/letters/">Letters</a>
+                </li>
+                <li class="nav-item {{ if eq .Title "Genealogies" }}active{{ end }}">
+                    <a class="nav-link" href="/genealogy/">Genealogy</a>
+                </li>
+                <li class="nav-item {{ if eq .Title "Resources" }}active{{ end }}">
+                    <a class="nav-link" href="/resources/">Resources</a>
+                </li>
+                <li class="nav-item {{ if eq .Title "About" }}active{{ end }}">
+                    <a class="nav-link" href="/about/">About</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+</div>
