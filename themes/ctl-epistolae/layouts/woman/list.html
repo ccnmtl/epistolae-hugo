@@ -6,12 +6,19 @@
 <main class="epistolae-inner-container" id="maincontent" aria-labelledby="pageContentTitle">
     <h1 class="list-view-title" id="pageContentTitle">Women</h1>
 
-    <form id="search" class="search women" role="search">
+    <form id="search" class="search women mb-2" role="search">
         <input type="hidden" id="record-type" name="record-type" value="woman" />
-        <label for="search-text" class="mr-2 d-inline">Search</label>
-        <input type="search" id="search-text" class="search-input form-control mr-3 d-inline w-50">
-        <button type="submit" class="btn btn-primary mr-1">Submit</button>
-        <button type="reset" class="btn btn-secondary">Clear</button>
+        <div class="form-row">
+            <div class="col-md-9">
+                <div class="form-group">
+                    <label for="search-text">Search by name</label>
+                    <input type="search" id="search-text" class="search-input form-control">
+                </div>
+            </div>
+            <div class="col-md-3">
+                <button type="submit" class="btn btn-primary">Submit</button>
+                <button type="reset" class="btn btn-secondary">Clear</button>
+            </div>
         </div>
     </form>
 
