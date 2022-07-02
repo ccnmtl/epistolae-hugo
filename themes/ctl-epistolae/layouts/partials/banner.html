@@ -15,36 +15,29 @@
         <div class="clearfix"></div>
     </header>
     <div class="epistolae-container">
-        <ul class="nav nav-tabs">
-            <li class="nav-item">
-                <a class="nav-link {{ if eq .Title "Epistolae" }}active{{ end }}" itemprop="url" href="/">
-                    <span itemprop="name">Home</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link  {{ if eq .Title "Women" }}active{{ end }}" itemprop="url" href="/women/">
-                    <span itemprop="name">Women</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link {{ if or (eq .Title "Letters") (eq .Params.type "letter") }}active{{ end }}" itemprop="url" href="/letters/">
-                    <span itemprop="name">Letters</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link {{ if eq .Title "About Epistolae" }}active{{ end }}" itemprop="url" href="/about/">
-                    <span itemprop="name">About</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link {{ if eq .Title "Genealogies" }}active{{ end }}" itemprop="url" href="/genealogy/">
-                    <span itemprop="name">Genealogy</span>
-                </a>
-            </li>
-            <li class="nav-item">
-                <a class="nav-link  {{ if eq .Title "Resources" }}active{{ end }}" itemprop="url" href="/resources/">
-                    <span itemprop="name">Resources</span>
-                </a>
-            </li>
-        </ul>
+        <nav class="navbar navbar-expand-md navbar-light bg-light">
+            <a class="navbar-brand {{ if .IsHome }}active{{ end }}" href="/">Home</a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarSupportedContent">
+                <ul class="navbar-nav mr-auto">
+                    <li class="nav-item {{ if eq .Title "Women" }}active{{ end }}">
+                        <a class="nav-link" href="/women/">Women</a>
+                    </li>
+                    <li class="nav-item {{ if eq .Title "Letters" }}active{{ end }}">
+                        <a class="nav-link" href="/letters/">Letters</a>
+                    </li>
+                    <li class="nav-item {{ if eq .Title "Genealogies" }}active{{ end }}">
+                        <a class="nav-link" href="/genealogy/">Genealogy</a>
+                    </li>
+                    <li class="nav-item {{ if eq .Title "Resources" }}active{{ end }}">
+                        <a class="nav-link" href="/resources/">Resources</a>
+                    </li>
+                    <li class="nav-item {{ if eq .Title "About" }}active{{ end }}">
+                        <a class="nav-link" href="/about/">About</a>
+                    </li>
+                </ul>
+            </div>
+        </nav>
     </div>
