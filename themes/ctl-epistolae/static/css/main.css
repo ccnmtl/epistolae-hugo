@@ -435,18 +435,8 @@ form#search button[type="submit"] {
     border-color: #930;
 }
 
-form#search.women .search-input {
-    width: 400px;
-}
-
-form#search.women button[type="submit"],
-form#search.women button[type="reset"] {
-    margin-top: -5px;
-}
-
-form#search.letters button[type="submit"],
-form#search.letters button[type="reset"] {
-        margin-top: 34px;
+form#search label {
+    margin-bottom: 0;
 }
 
 .pager-indicator {
@@ -455,19 +445,10 @@ form#search.letters button[type="reset"] {
     font-size: 1.25rem;
 }
 
-#search button {
-    padding: 0.25rem 0.5rem;
-    font-size: .875rem;
-    line-height: 1.5;
-    border-radius: 0.2rem;
-}
-
 /* Medium devices (tablets, 768px and up) */
 @media (min-width: 768px) {
-    #search button {
-        padding: 0.375rem 0.75rem;
-        font-size: 1rem;
-        line-height: 1.5;
-        border-radius: 0.25rem;
+    form#search button[type="submit"],
+    form#search button[type="reset"] {
+            margin-top: 26px;
     }
 }
