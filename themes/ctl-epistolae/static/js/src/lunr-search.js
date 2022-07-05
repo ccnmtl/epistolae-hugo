@@ -43,7 +43,6 @@ window.addEventListener('DOMContentLoaded', function() {
             document.getElementById('search-text').value.trim().toLowerCase();
         const recordType = document.getElementById('record-type').value;
 
-        // searchText = escapeSpaces(searchText),
         let query = `+type:${recordType}`;
         if (searchText) {
             query += ` +ititle:${searchText}~1`;
