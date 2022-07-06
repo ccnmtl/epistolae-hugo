@@ -15,20 +15,20 @@
             {{- if.Params.poster -}}
                 {{- .Site.BaseURL -}}img/assets/{{- .Params.poster -}}
             {{- else -}}
-                {{- .Site.BaseURL -}}img/og-compiled-image.png
+                {{- .Site.BaseURL -}}img/og-epistolae-image.png
             {{- end -}}" />
         <meta name="og:image:alt" content="A poster image for {{ .Title }}" />
     {{- end -}}
 {{ else -}}
-    <meta name="og:image" content="{{- .Site.BaseURL -}}img/og-compiled-image.png" />
-    <meta name="og:image:alt" content="A poster image of CompilED banner" />
+    <meta name="og:image" content="{{- .Site.BaseURL -}}img/og-epistolae-image.png" />
+    <meta name="og:image:alt" content="A poster image of Epistolae banner" />
 {{- end }}
 <meta property="og:description" content='
     {{- if (and .IsPage (eq .Type "post")) -}}
         {{- if .Params.lede -}}
-            {{- .Date.Format "Jan 2, 2006" }} — {{ .Params.lede -}}
+            {{- .Date.Format "July 1, 2022" }} — {{ .Params.lede -}}
         {{- else -}}
-            {{- .Date.Format "Jan 2, 2006" }} — {{ .Summary -}}
+            {{- .Date.Format "July 1, 2022" }} — {{ .Summary -}}
         {{- end -}}
     {{- else -}}
         {{- .Site.Params.description -}}

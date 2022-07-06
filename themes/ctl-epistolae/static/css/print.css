@@ -79,20 +79,6 @@
         border-top: 1px solid #999;
         background-color: transparent;
     }
-    .compiled-info {
-        margin-top: 2rem;
-        text-align: center;
-        padding: 0 0.875rem;
-    }
-    .compiled-info p {
-        font-size: 0.875rem;
-    }
-
-    .compiled-info p a {
-        font-weight: normal;
-        text-decoration: none;
-        color: #000;
-    }
     #cu-privacy-notice {
         display: none !important;
     }

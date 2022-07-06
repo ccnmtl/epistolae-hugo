@@ -1,6 +1,6 @@
-name = "CTL CompilED Theme"
+name = "CTL Epistolae Theme"
 license = "GNU GPLv3"
-description = "A theme used for CompilED blog at the Columbia University Center for Teaching and Learning."
+description = "A theme used for Epistolae at the Columbia University Center for Teaching and Learning."
 tags = []
 features = []
 min_version = "0.25.1"

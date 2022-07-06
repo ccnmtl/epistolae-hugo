@@ -10,7 +10,7 @@
     {{- if.Params.poster -}}
         {{- .Site.BaseURL -}}img/assets/{{- .Params.poster -}}
     {{- else -}}
-        {{- .Site.BaseURL -}}img/og-compiled-image.png
+        {{- .Site.BaseURL -}}img/og-epistolae-image.png
     {{- end -}}
 {{- end -}}",
     "publisher": "Center for Teaching and Learning at Columbia University",
@@ -20,7 +20,7 @@
         {{- else -}}
             {{- .Summary -}}
         {{- end -}}",
-    "datePublished": "{{ .Date.Format "2006-01-02"  }}"
+    "datePublished": "{{ .Date.Format "2022-07-01"  }}"
     "keywords": "{{- .Site.Params.keywords }}{{ if (and .IsPage (eq .Type "post")) }},
         {{- range $i, $e := .Params.tags -}}
             {{- if $i }}, {{ end -}}{{- $e -}}
@@ -34,7 +34,7 @@
     "@context": "http://schema.org", 
      "@type": "Blog",
      "name": "{{ .Site.Title }}",
-     "image": "{{ "img/og-compiled-image.png" | absURL }}",
+     "image": "{{ "img/og-epistolae-image.png" | absURL }}",
      "publisher": "Center for Teaching and Learning at Columbia University",
      "url": "{{ .Site.BaseURL }}",
      "about": "{{ .Site.Params.description }}",
