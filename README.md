@@ -1,6 +1,6 @@
 ![Epistolae](https://raw.githubusercontent.com/ccnmtl/epistolae/master/static/img/banner-front-logo.png)  
 
-**URL:** https://epistolae.ctl.columbia.edu
+**URL:** 
 
 Epistolae is a collection of medieval Latin letters to and from women.  The letters collected here date from the 4th to the 13th centuries, and they are presented in their original Latin as well as in English translation.  The letters are organized by the name and biography of the women writers or recipients.  Biographical sketches of the women, descriptions of the subject matter of the letters, and the historical context of the correspondence are included where available.
 
