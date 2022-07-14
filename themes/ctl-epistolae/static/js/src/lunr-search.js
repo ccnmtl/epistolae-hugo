@@ -120,19 +120,23 @@ window.addEventListener('DOMContentLoaded', function() {
         elt.querySelector('.letter-date').textContent = doc.ltr_date;
 
         let $senders = $(elt).find('.senders');
-        for (let idx = 0; idx < doc.senders.length; idx++) {
-            $('<a href="' + doc.senderIds[idx] + '">' +
-                doc.senders[idx] +'</a>').appendTo($senders);
-            if (idx < (doc.senders.length - 1)) {
-                $('<span>, </span>').appendTo($senders);
+        if (doc.senders) {
+            for (let idx = 0; idx < doc.senders.length; idx++) {
+                $('<a href="' + doc.senderIds[idx] + '">' +
+                    doc.senders[idx] +'</a>').appendTo($senders);
+                if (idx < (doc.senders.length - 1)) {
+                    $('<span>, </span>').appendTo($senders);
+                }
             }
         }
         let $receivers = $(elt).find('.receivers');
-        for (let idx = 0; idx < doc.receivers.length; idx++) {
-            $('<a href="' + doc.senderIds[idx] + '">' +
-                doc.receivers[idx] +'</a>').appendTo($receivers);
-            if (idx < (doc.receivers.length - 1)) {
-                $('<span>, </span>').appendTo($receivers);
+        if (doc.receivers) {
+            for (let idx = 0; idx < doc.receivers.length; idx++) {
+                $('<a href="' + doc.receiverIds[idx] + '">' +
+                    doc.receivers[idx] +'</a>').appendTo($receivers);
+                if (idx < (doc.receivers.length - 1)) {
+                    $('<span>, </span>').appendTo($receivers);
+                }
             }
         }
     }
@@ -189,6 +193,17 @@ window.addEventListener('DOMContentLoaded', function() {
         },
         onChange: function(value) {
             search();
+        }
+    });
+
+    $('input[type=search]').on('search', function (evt) {
+        // search logic here
+        // this function will be executed on click of X (clear button)
+        // OR on <enter>
+        // This event is non-standard, working primarily in Chrome & Safari
+        const searchFor = evt.currentTarget.value.trim();
+        if (searchFor.length < 1) {
+            window.location.reload();
         }
     });
 
