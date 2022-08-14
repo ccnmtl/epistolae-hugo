@@ -154,10 +154,17 @@ p {
     text-align: center;
 }
 
-.ctl-branding img {
+.ctl-branding img.cul-logo {
+    height: 3rem;
+    padding: 0.5rem;
+    margin-bottom: 1rem;
+}
+
+.ctl-branding img.ctl-logo {
     height: 4rem;
     padding: 0.5rem;
 }
+
 
 .ctl-branding a:focus,
 .ctl-branding a:active {
@@ -262,11 +269,9 @@ main.genealogy p {
 /* Footer elements */
 
 footer {
-    margin-top: 3rem;
-    padding-top: 2rem;
-    padding-bottom: 5rem;
+    padding-top: 1rem;
+    padding-bottom: 4rem;
 }
-
 
 /* GDPR cookies notice */
 
@@ -327,6 +332,15 @@ footer {
     }
     .footer-info {
         padding: 0;
+    }
+    .ctl-branding img.cul-logo {
+        height: 4rem;
+        padding: 0.5rem;
+        margin-bottom: 1rem;
+    }
+    .ctl-branding img.ctl-logo {
+        height: 5rem;
+        padding: 0.5rem;
     }
     .ctl-branding img {
         height: 5rem;
