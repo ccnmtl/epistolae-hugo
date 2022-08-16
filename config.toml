@@ -1,4 +1,4 @@
-baseURL = "https://epistolae2.ctl.columbia.edu/"
+baseURL = "https://epistolae.ctl.columbia.edu/"
 copyright = "Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)"
 googleAnalytics = "UA-311226-23"
 languageCode = "en-us"

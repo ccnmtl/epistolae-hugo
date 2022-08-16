@@ -1,7 +1,7 @@
-STAGING_URL=https://epistolae2.stage.ccnmtl.columbia.edu/
-PROD_URL=https://epistolae2.ctl.columbia.edu/
-STAGING_BUCKET=epistolae2.stage.ccnmtl.columbia.edu
-PROD_BUCKET=epistolae2.ctl.columbia.edu
+STAGING_URL=https://epistolae.stage.ccnmtl.columbia.edu/
+PROD_URL=https://epistolae.ctl.columbia.edu/
+STAGING_BUCKET=epistolae.stage.ccnmtl.columbia.edu
+PROD_BUCKET=epistolae.ctl.columbia.edu
 INTERMEDIATE_STEPS ?= echo nothing
 
 JS_FILES=themes/ctl-epistolae/static/js/src
