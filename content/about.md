@@ -17,7 +17,7 @@ lede: "Epistol&#xe6 is a collection of letters to and from women in the Middle A
 
 <div class="mb-4">
 <h2>Contact and Feedback</h2>
-For information about Epistol&#xe6, or to offer feedback, please contact us at <a href="mailto:">epistolae@columbia.edu</a>.
+For information about Epistol&#xe6, or to offer feedback, please contact us at <a href="mailto:">epistolae@library.columbia.edu</a>.
 </div>
 
 </div>
