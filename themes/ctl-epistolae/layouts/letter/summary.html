@@ -1,5 +1,5 @@
 <tr>
-    <td><a href="{{ .URL }}" itemprop="url"><span itemprop="headline">{{ .Title }}</span></a></td>
+    <td><a href="{{ .RelPermalink }}" itemprop="url"><span itemprop="headline">{{ .Title }}</span></a></td>
     <td>
         {{ range .Params.senders }}
             <a href="{{.url}}">
