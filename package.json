@@ -16,8 +16,10 @@
     "url": "https://github.com/ccnmtl/epistolae-hugo/issues"
   },
   "devDependencies": {
-    "eslint": "~9.39.0",
+    "eslint": "~10.0.0",
     "eslint-plugin-security": "~3.0.0",
+    "@eslint/eslintrc": "^3.3.1",
+    "@eslint/js": "^10.0.1",
     "globals": "^17.0.0"
   }
 }
